@@ -1,0 +1,3537 @@
+order_id;profit;cargo;cargo_amount;vehicle_type;manhattan_dist;Year;Month;Day
+0_730511_44;694;Coal;25;road vehicle;39;2000;1;27
+0_730520_25;699;Coal;25;road vehicle;39;2000;2;5
+0_730546_56;696;Coal;25;road vehicle;39;2000;3;2
+0_730555_37;698;Coal;25;road vehicle;39;2000;3;11
+0_730560_63;360;Wood;22;road vehicle;27;2000;3;16
+0_730581_32;359;Wood;22;road vehicle;27;2000;4;6
+1_730581_68;695;Coal;25;road vehicle;39;2000;4;6
+0_730599_22;690;Coal;25;road vehicle;39;2000;4;24
+0_730602_10;359;Wood;22;road vehicle;27;2000;4;27
+0_730617_6;695;Coal;25;road vehicle;39;2000;5;12
+0_730622_33;359;Wood;22;road vehicle;27;2000;5;17
+0_730634_34;695;Coal;25;road vehicle;39;2000;5;29
+0_730642_65;360;Wood;22;road vehicle;27;2000;6;6
+0_730648_24;360;Wood;22;road vehicle;27;2000;6;12
+0_730652_18;695;Coal;25;road vehicle;39;2000;6;16
+0_730673_55;695;Coal;25;road vehicle;39;2000;7;7
+1_730674_38;360;Wood;22;road vehicle;27;2000;7;8
+0_730685_1;359;Wood;22;road vehicle;27;2000;7;19
+0_730693_9;695;Coal;25;road vehicle;39;2000;7;27
+0_730708_11;359;Wood;22;road vehicle;27;2000;8;11
+1_730708_67;695;Coal;25;road vehicle;39;2000;8;11
+0_730712_34;360;Wood;22;road vehicle;27;2000;8;15
+0_730728_21;695;Coal;25;road vehicle;39;2000;8;31
+0_730734_2;360;Wood;22;road vehicle;27;2000;9;6
+0_730744_5;695;Coal;25;road vehicle;39;2000;9;16
+0_730747_13;359;Wood;22;road vehicle;27;2000;9;19
+0_730763_33;699;Coal;25;road vehicle;39;2000;10;5
+0_730767_55;360;Wood;22;road vehicle;27;2000;10;9
+0_730787_34;690;Coal;25;road vehicle;39;2000;10;29
+1_730788_14;360;Wood;22;road vehicle;27;2000;10;30
+0_730793_46;360;Wood;22;road vehicle;27;2000;11;4
+0_730798_45;698;Coal;25;road vehicle;39;2000;11;9
+0_730814_5;360;Wood;22;road vehicle;27;2000;11;25
+0_730826_53;695;Coal;25;road vehicle;39;2000;12;7
+0_730830_3;359;Wood;22;road vehicle;27;2000;12;11
+0_730833_57;698;Coal;25;road vehicle;39;2000;12;14
+0_730850_36;359;Wood;22;road vehicle;27;2000;12;31
+0_730861_65;695;Coal;25;road vehicle;39;2001;1;11
+0_730864_3;360;Wood;22;road vehicle;27;2001;1;14
+0_730870_52;695;Coal;25;road vehicle;39;2001;1;20
+0_730876_27;360;Wood;22;road vehicle;27;2001;1;26
+0_730892_46;360;Wood;22;road vehicle;27;2001;2;11
+0_730897_3;695;Coal;25;road vehicle;39;2001;2;16
+0_730905_64;699;Coal;25;road vehicle;39;2001;2;24
+0_730913_18;360;Wood;22;road vehicle;27;2001;3;4
+1_730915_20;1794;Iron Ore;60;railway locomotive;50;2001;3;6
+0_730932_15;695;Coal;25;road vehicle;39;2001;3;23
+0_730933_47;360;Wood;22;road vehicle;27;2001;3;24
+0_730939_9;360;Wood;22;road vehicle;27;2001;3;30
+0_730941_2;699;Coal;25;road vehicle;39;2001;4;1
+0_730959_38;360;Wood;22;road vehicle;27;2001;4;19
+0_730964_15;1834;Iron Ore;60;railway locomotive;50;2001;4;24
+0_730975_40;359;Wood;22;road vehicle;27;2001;5;5
+1_730976_5;695;Coal;25;road vehicle;39;2001;5;6
+0_730980_33;695;Coal;25;road vehicle;39;2001;5;10
+0_730995_69;359;Wood;22;road vehicle;27;2001;5;25
+0_731011_16;696;Coal;25;road vehicle;39;2001;6;10
+0_731016_61;359;Wood;22;road vehicle;27;2001;6;15
+0_731021_73;1821;Iron Ore;60;railway locomotive;50;2001;6;20
+0_731023_32;699;Coal;25;road vehicle;39;2001;6;22
+0_731037_30;360;Wood;22;road vehicle;27;2001;7;6
+0_731042_52;360;Wood;22;road vehicle;27;2001;7;11
+0_731046_27;695;Coal;25;road vehicle;39;2001;7;15
+0_731058_44;698;Coal;25;road vehicle;39;2001;7;27
+0_731063_21;360;Wood;22;road vehicle;27;2001;8;1
+0_731073_19;1344;Iron Ore;25;road vehicle;29;2001;8;11
+0_731079_23;359;Wood;22;road vehicle;27;2001;8;17
+1_731081_34;1816;Iron Ore;60;railway locomotive;50;2001;8;19
+0_731081_38;695;Coal;25;road vehicle;39;2001;8;19
+0_731093_56;698;Coal;25;road vehicle;39;2001;8;31
+0_731099_70;1350;Iron Ore;25;road vehicle;29;2001;9;6
+1_731099_72;359;Wood;22;road vehicle;27;2001;9;6
+0_731120_24;359;Wood;22;road vehicle;27;2001;9;27
+0_731122_39;690;Coal;25;road vehicle;39;2001;9;29
+0_731125_63;360;Wood;22;road vehicle;27;2001;10;2
+1_731126_47;1350;Iron Ore;25;road vehicle;29;2001;10;3
+0_731128_68;697;Coal;25;road vehicle;39;2001;10;5
+0_731136_46;1822;Iron Ore;60;railway locomotive;50;2001;10;13
+0_731146_15;360;Wood;22;road vehicle;27;2001;10;23
+0_731153_24;1350;Iron Ore;25;road vehicle;29;2001;10;30
+0_731159_33;695;Coal;25;road vehicle;39;2001;11;5
+0_731162_60;360;Wood;22;road vehicle;27;2001;11;8
+1_731164_6;697;Coal;25;road vehicle;39;2001;11;10
+0_731180_1;1350;Iron Ore;25;road vehicle;29;2001;11;26
+0_731183_12;360;Wood;22;road vehicle;27;2001;11;29
+0_731194_30;1814;Iron Ore;60;railway locomotive;50;2001;12;10
+1_731194_45;695;Coal;25;road vehicle;39;2001;12;10
+0_731203_55;359;Wood;22;road vehicle;27;2001;12;19
+0_731207_54;695;Coal;25;road vehicle;39;2001;12;23
+1_731208_69;1350;Iron Ore;25;road vehicle;29;2001;12;24
+0_731227_4;359;Wood;22;road vehicle;27;2002;1;12
+0_731229_57;695;Coal;25;road vehicle;39;2002;1;14
+0_731231_29;360;Wood;22;road vehicle;27;2002;1;16
+0_731235_46;1350;Iron Ore;25;road vehicle;29;2002;1;20
+0_731242_66;695;Coal;25;road vehicle;39;2002;1;27
+0_731247_29;1822;Iron Ore;60;railway locomotive;50;2002;2;1
+0_731252_69;360;Wood;22;road vehicle;27;2002;2;6
+0_731262_23;1350;Iron Ore;25;road vehicle;29;2002;2;16
+0_731266_34;359;Wood;22;road vehicle;27;2002;2;20
+0_731268_69;695;Coal;25;road vehicle;39;2002;2;22
+0_731278_4;695;Coal;25;road vehicle;39;2002;3;4
+0_731286_68;360;Wood;22;road vehicle;27;2002;3;12
+0_731289_0;1350;Iron Ore;25;road vehicle;29;2002;3;15
+0_731299_23;1829;Iron Ore;60;railway locomotive;50;2002;3;25
+0_731306_8;695;Coal;25;road vehicle;39;2002;4;1
+0_731307_35;359;Wood;22;road vehicle;27;2002;4;2
+0_731315_51;1350;Iron Ore;25;road vehicle;29;2002;4;10
+0_731321_65;686;Coal;25;road vehicle;39;2002;4;16
+0_731327_69;359;Wood;22;road vehicle;27;2002;4;22
+0_731341_20;695;Coal;25;road vehicle;39;2002;5;6
+1_731342_28;1350;Iron Ore;25;road vehicle;29;2002;5;7
+0_731350_4;1831;Iron Ore;60;railway locomotive;50;2002;5;15
+0_731351_47;360;Wood;22;road vehicle;27;2002;5;16
+0_731358_59;698;Coal;25;road vehicle;39;2002;5;23
+0_731361_30;360;Wood;22;road vehicle;27;2002;5;26
+0_731371_22;1350;Iron Ore;25;road vehicle;29;2002;6;5
+0_731376_32;695;Coal;25;road vehicle;39;2002;6;10
+1_731377_38;360;Wood;22;road vehicle;27;2002;6;11
+0_731391_0;359;Wood;22;road vehicle;27;2002;6;25
+0_731393_71;697;Coal;25;road vehicle;39;2002;6;27
+1_731396_1;1843;Iron Ore;60;railway locomotive;50;2002;6;30
+0_731397_73;1350;Iron Ore;25;road vehicle;29;2002;7;1
+0_731411_44;695;Coal;25;road vehicle;39;2002;7;15
+1_731411_57;359;Wood;22;road vehicle;27;2002;7;15
+0_731424_50;1350;Iron Ore;25;road vehicle;29;2002;7;28
+1_731432_21;360;Wood;22;road vehicle;27;2002;8;5
+0_731435_5;690;Coal;25;road vehicle;39;2002;8;8
+0_731444_51;1839;Iron Ore;60;railway locomotive;50;2002;8;17
+0_731451_17;696;Coal;25;road vehicle;39;2002;8;24
+1_731451_27;450;Iron Ore;25;road vehicle;29;2002;8;24
+0_731452_58;359;Wood;22;road vehicle;27;2002;8;25
+0_731470_17;695;Coal;25;road vehicle;39;2002;9;12
+0_731473_42;359;Wood;22;road vehicle;27;2002;9;15
+0_731478_4;450;Iron Ore;25;road vehicle;29;2002;9;20
+0_731488_12;698;Coal;25;road vehicle;39;2002;9;30
+1_731490_29;360;Wood;22;road vehicle;27;2002;10;2
+0_731491_66;1839;Iron Ore;60;railway locomotive;50;2002;10;3
+0_731499_33;360;Wood;22;road vehicle;27;2002;10;11
+0_731504_16;4582;Steel;40;railway locomotive;171;2002;10;16
+1_731504_55;450;Iron Ore;25;road vehicle;29;2002;10;16
+0_731507_30;695;Coal;25;road vehicle;39;2002;10;19
+0_731517_60;360;Wood;22;road vehicle;27;2002;10;29
+0_731523_24;697;Coal;25;road vehicle;39;2002;11;4
+1_731530_0;360;Wood;22;road vehicle;27;2002;11;11
+0_731530_73;1860;Iron Ore;60;railway locomotive;50;2002;11;11
+0_731533_49;450;Iron Ore;25;road vehicle;29;2002;11;14
+0_731542_42;695;Coal;25;road vehicle;39;2002;11;23
+1_731543_51;360;Wood;22;road vehicle;27;2002;11;24
+0_731558_36;696;Coal;25;road vehicle;39;2002;12;9
+0_731560_26;450;Iron Ore;25;road vehicle;29;2002;12;11
+1_731560_30;359;Wood;22;road vehicle;27;2002;12;11
+0_731576_11;1841;Iron Ore;60;railway locomotive;50;2002;12;27
+0_731577_50;360;Wood;22;road vehicle;27;2002;12;28
+1_731577_54;695;Coal;25;road vehicle;39;2002;12;28
+0_731587_3;450;Iron Ore;25;road vehicle;29;2003;1;7
+0_731592_49;4518;Steel;40;railway locomotive;171;2003;1;12
+1_731593_48;696;Coal;25;road vehicle;39;2003;1;13
+0_731594_31;359;Wood;22;road vehicle;27;2003;1;14
+0_731611_69;360;Wood;22;road vehicle;27;2003;1;31
+1_731612_66;695;Coal;25;road vehicle;39;2003;2;1
+0_731621_2;1844;Iron Ore;60;railway locomotive;50;2003;2;10
+1_731621_19;450;Iron Ore;25;road vehicle;29;2003;2;10
+0_731628_72;359;Wood;22;road vehicle;27;2003;2;17
+0_731633_9;693;Coal;25;road vehicle;39;2003;2;22
+0_731647_69;450;Iron Ore;25;road vehicle;29;2003;3;8
+1_731648_4;695;Coal;25;road vehicle;39;2003;3;9
+0_731652_8;359;Wood;22;road vehicle;27;2003;3;13
+0_731663_39;360;Wood;22;road vehicle;27;2003;3;24
+1_731665_67;1844;Iron Ore;60;railway locomotive;50;2003;3;26
+0_731670_4;695;Coal;25;road vehicle;39;2003;3;31
+0_731674_46;450;Iron Ore;25;road vehicle;29;2003;4;4
+0_731680_66;360;Wood;22;road vehicle;27;2003;4;10
+0_731688_38;4577;Steel;40;railway locomotive;171;2003;4;18
+0_731692_27;695;Coal;25;road vehicle;39;2003;4;22
+0_731696_11;360;Wood;22;road vehicle;27;2003;4;26
+0_731703_40;450;Iron Ore;25;road vehicle;29;2003;5;3
+0_731705_16;699;Coal;25;road vehicle;39;2003;5;5
+0_731706_59;360;Wood;22;road vehicle;27;2003;5;6
+0_731710_70;1846;Iron Ore;60;railway locomotive;50;2003;5;10
+0_731723_43;360;Wood;22;road vehicle;27;2003;5;23
+0_731727_39;695;Coal;25;road vehicle;39;2003;5;27
+0_731730_17;450;Iron Ore;25;road vehicle;29;2003;5;30
+0_731733_38;360;Wood;22;road vehicle;27;2003;6;2
+0_731740_28;699;Coal;25;road vehicle;39;2003;6;9
+0_731750_62;360;Wood;22;road vehicle;27;2003;6;19
+0_731755_72;1843;Iron Ore;60;railway locomotive;50;2003;6;24
+1_731756_68;450;Iron Ore;25;road vehicle;29;2003;6;25
+0_731762_51;695;Coal;25;road vehicle;39;2003;7;1
+0_731768_5;360;Wood;22;road vehicle;27;2003;7;7
+0_731775_40;698;Coal;25;road vehicle;39;2003;7;14
+0_731778_43;4532;Steel;40;railway locomotive;171;2003;7;17
+0_731783_45;450;Iron Ore;25;road vehicle;29;2003;7;22
+0_731785_29;359;Wood;22;road vehicle;27;2003;7;24
+0_731797_63;695;Coal;25;road vehicle;39;2003;8;5
+1_731801_0;1843;Iron Ore;60;railway locomotive;50;2003;8;9
+0_731802_26;359;Wood;22;road vehicle;27;2003;8;10
+0_731808_35;352;Grain;25;road vehicle;25;2003;8;16
+0_731810_22;450;Iron Ore;25;road vehicle;29;2003;8;18
+0_731819_34;695;Coal;25;road vehicle;39;2003;8;27
+1_731819_50;359;Wood;22;road vehicle;27;2003;8;27
+0_731831_8;360;Grain;25;road vehicle;25;2003;9;8
+1_731831_70;206;Livestock;16;road vehicle;25;2003;9;8
+0_731836_73;450;Iron Ore;25;road vehicle;29;2003;9;13
+1_731837_7;360;Wood;22;road vehicle;27;2003;9;14
+0_731840_65;689;Coal;25;road vehicle;39;2003;9;17
+0_731848_52;1839;Iron Ore;60;railway locomotive;50;2003;9;25
+0_731852_68;360;Grain;25;road vehicle;25;2003;9;29
+2_731853_56;208;Livestock;16;road vehicle;25;2003;9;30
+1_731853_71;359;Wood;22;road vehicle;27;2003;9;30
+0_731854_45;695;Coal;25;road vehicle;39;2003;10;1
+0_731860_18;4585;Steel;40;railway locomotive;171;2003;10;7
+0_731871_26;359;Wood;22;road vehicle;27;2003;10;18
+1_731872_4;450;Iron Ore;25;road vehicle;29;2003;10;19
+0_731874_54;360;Grain;25;road vehicle;25;2003;10;21
+1_731875_42;208;Livestock;16;road vehicle;25;2003;10;22
+0_731877_60;695;Coal;25;road vehicle;39;2003;10;24
+0_731888_52;359;Wood;22;road vehicle;27;2003;11;4
+2_731889_56;695;Coal;25;road vehicle;39;2003;11;5
+1_731891_2;1853;Iron Ore;60;railway locomotive;50;2003;11;7
+0_731896_40;360;Grain;25;road vehicle;25;2003;11;12
+1_731897_28;208;Livestock;16;road vehicle;25;2003;11;13
+0_731898_54;450;Iron Ore;25;road vehicle;29;2003;11;14
+0_731905_65;359;Wood;22;road vehicle;27;2003;11;21
+0_731912_72;695;Coal;25;road vehicle;39;2003;11;28
+0_731918_26;360;Grain;25;road vehicle;25;2003;12;4
+1_731919_14;208;Livestock;16;road vehicle;25;2003;12;5
+0_731922_73;359;Wood;22;road vehicle;27;2003;12;8
+0_731924_67;695;Coal;25;road vehicle;39;2003;12;10
+1_731925_31;450;Iron Ore;25;road vehicle;29;2003;12;11
+1_731939_18;208;Livestock;16;road vehicle;25;2003;12;25
+0_731939_22;1839;Iron Ore;60;railway locomotive;50;2003;12;25
+2_731940_30;359;Wood;22;road vehicle;27;2003;12;26
+0_731943_16;360;Grain;25;road vehicle;25;2003;12;29
+0_731948_10;695;Coal;25;road vehicle;39;2004;1;3
+1_731952_8;450;Iron Ore;25;road vehicle;29;2004;1;7
+0_731952_34;4485;Steel;40;railway locomotive;171;2004;1;7
+0_731957_40;360;Wood;22;road vehicle;27;2004;1;12
+1_731958_14;208;Livestock;16;road vehicle;25;2004;1;13
+0_731960_4;695;Coal;25;road vehicle;39;2004;1;15
+0_731965_30;360;Grain;25;road vehicle;25;2004;1;20
+1_731978_41;208;Livestock;16;road vehicle;25;2004;2;2
+0_731978_59;450;Iron Ore;25;road vehicle;29;2004;2;2
+1_731983_73;360;Wood;22;road vehicle;27;2004;2;7
+0_731984_24;1843;Iron Ore;60;railway locomotive;50;2004;2;8
+1_731985_40;360;Wood;22;road vehicle;27;2004;2;9
+0_731987_16;360;Grain;25;road vehicle;25;2004;2;11
+0_731989_28;690;Coal;25;road vehicle;39;2004;2;13
+0_731997_37;208;Livestock;16;road vehicle;25;2004;2;21
+0_732003_1;698;Coal;25;road vehicle;39;2004;2;27
+0_732005_36;450;Iron Ore;25;road vehicle;29;2004;2;29
+0_732009_2;360;Grain;25;road vehicle;25;2004;3;4
+0_732011_46;360;Wood;22;road vehicle;27;2004;3;6
+0_732013_6;360;Wood;22;road vehicle;27;2004;3;8
+0_732016_33;208;Livestock;16;road vehicle;25;2004;3;11
+0_732026_41;695;Coal;25;road vehicle;39;2004;3;21
+1_732029_16;1849;Iron Ore;60;railway locomotive;50;2004;3;24
+0_732030_62;360;Grain;25;road vehicle;25;2004;3;25
+0_732034_51;4579;Steel;40;railway locomotive;171;2004;3;29
+1_732035_29;208;Livestock;16;road vehicle;25;2004;3;30
+0_732037_47;360;Wood;22;road vehicle;27;2004;4;1
+1_732038_13;698;Coal;25;road vehicle;39;2004;4;2
+0_732041_72;450;Iron Ore;25;road vehicle;29;2004;4;5
+0_732045_4;360;Wood;22;road vehicle;27;2004;4;9
+0_732052_48;360;Grain;25;road vehicle;25;2004;4;16
+0_732054_53;208;Livestock;16;road vehicle;25;2004;4;18
+0_732061_53;696;Coal;25;road vehicle;39;2004;4;25
+0_732068_49;450;Iron Ore;25;road vehicle;29;2004;5;2
+0_732073_25;697;Coal;25;road vehicle;39;2004;5;7
+0_732075_18;208;Livestock;16;road vehicle;25;2004;5;9
+1_732077_56;1838;Iron Ore;60;railway locomotive;50;2004;5;11
+0_732078_50;360;Wood;22;road vehicle;27;2004;5;12
+0_732082_6;355;Grain;25;road vehicle;25;2004;5;16
+0_732094_42;208;Livestock;16;road vehicle;25;2004;5;28
+1_732095_26;450;Iron Ore;25;road vehicle;29;2004;5;29
+2_732095_66;360;Wood;22;road vehicle;27;2004;5;29
+0_732096_65;696;Coal;25;road vehicle;39;2004;5;30
+0_732104_43;360;Wood;22;road vehicle;27;2004;6;7
+1_732105_22;360;Grain;25;road vehicle;25;2004;6;8
+0_732108_37;696;Coal;25;road vehicle;39;2004;6;11
+0_732113_18;4582;Steel;40;railway locomotive;171;2004;6;16
+1_732113_38;208;Livestock;16;road vehicle;25;2004;6;16
+2_732121_57;360;Wood;22;road vehicle;27;2004;6;24
+0_732121_65;3075;Goods;50;railway locomotive;85;2004;6;24
+3_732122_3;450;Iron Ore;25;road vehicle;29;2004;6;25
+1_732122_58;1843;Iron Ore;60;railway locomotive;50;2004;6;25
+0_732127_8;360;Grain;25;road vehicle;25;2004;6;30
+0_732131_22;360;Wood;22;road vehicle;27;2004;7;4
+1_732132_3;695;Coal;25;road vehicle;39;2004;7;5
+0_732140_47;208;Livestock;16;road vehicle;25;2004;7;13
+0_732143_49;696;Coal;25;road vehicle;39;2004;7;16
+0_732148_54;360;Wood;22;road vehicle;27;2004;7;21
+1_732148_54;450;Iron Ore;25;road vehicle;29;2004;7;21
+2_732148_68;360;Grain;25;road vehicle;25;2004;7;21
+0_732153_33;3153;Goods;50;railway locomotive;85;2004;7;26
+0_732159_43;208;Livestock;16;road vehicle;25;2004;8;1
+2_732168_53;359;Wood;22;road vehicle;27;2004;8;10
+0_732170_37;1837;Iron Ore;60;railway locomotive;50;2004;8;12
+1_732170_54;360;Grain;25;road vehicle;25;2004;8;12
+0_732173_20;690;Coal;25;road vehicle;39;2004;8;15
+0_732175_31;450;Iron Ore;25;road vehicle;29;2004;8;17
+0_732178_39;208;Livestock;16;road vehicle;25;2004;8;20
+0_732183_19;360;Wood;22;road vehicle;27;2004;8;25
+0_732187_49;695;Coal;25;road vehicle;39;2004;8;29
+0_732192_40;360;Grain;25;road vehicle;25;2004;9;3
+0_732197_35;208;Livestock;16;road vehicle;25;2004;9;8
+0_732200_20;359;Wood;22;road vehicle;27;2004;9;11
+1_732204_25;450;Iron Ore;25;road vehicle;29;2004;9;15
+0_732204_55;4514;Steel;40;railway locomotive;171;2004;9;15
+0_732209_23;1858;Iron Ore;60;railway locomotive;50;2004;9;20
+1_732210_14;695;Coal;25;road vehicle;39;2004;9;21
+0_732217_32;359;Wood;22;road vehicle;27;2004;9;28
+1_732220_45;355;Grain;25;road vehicle;25;2004;10;1
+0_732221_33;207;Livestock;16;road vehicle;25;2004;10;2
+0_732222_61;699;Coal;25;road vehicle;39;2004;10;3
+0_732231_2;450;Iron Ore;25;road vehicle;29;2004;10;12
+0_732234_59;359;Wood;22;road vehicle;27;2004;10;15
+0_732238_32;3640;Goods;58;railway locomotive;85;2004;10;19
+0_732242_31;360;Grain;25;road vehicle;25;2004;10;23
+1_732243_19;208;Livestock;16;road vehicle;25;2004;10;24
+0_732245_26;695;Coal;25;road vehicle;39;2004;10;26
+0_732252_17;359;Wood;22;road vehicle;27;2004;11;2
+0_732257_53;450;Iron Ore;25;road vehicle;29;2004;11;7
+1_732257_73;698;Coal;25;road vehicle;39;2004;11;7
+0_732261_7;1826;Iron Ore;60;railway locomotive;50;2004;11;11
+0_732266_7;360;Grain;25;road vehicle;25;2004;11;16
+1_732268_33;208;Livestock;16;road vehicle;25;2004;11;18
+0_732270_2;3662;Goods;58;railway locomotive;85;2004;11;20
+0_732277_45;359;Wood;22;road vehicle;27;2004;11;27
+0_732280_38;695;Coal;25;road vehicle;39;2004;11;30
+0_732284_30;450;Iron Ore;25;road vehicle;29;2004;12;4
+0_732286_36;359;Wood;22;road vehicle;27;2004;12;6
+0_732287_67;360;Grain;25;road vehicle;25;2004;12;7
+0_732290_61;4492;Steel;40;railway locomotive;171;2004;12;10
+1_732290_68;208;Livestock;16;road vehicle;25;2004;12;10
+0_732293_11;698;Coal;25;road vehicle;39;2004;12;13
+0_732301_46;3656;Goods;58;railway locomotive;85;2004;12;21
+0_732303_56;360;Wood;22;road vehicle;27;2004;12;23
+0_732309_53;360;Grain;25;road vehicle;25;2004;12;29
+0_732311_7;450;Iron Ore;25;road vehicle;29;2004;12;31
+2_732311_33;208;Livestock;16;road vehicle;25;2004;12;31
+1_732312_65;1828;Iron Ore;60;railway locomotive;50;2005;1;1
+0_732315_50;695;Coal;25;road vehicle;39;2005;1;4
+0_732321_1;360;Wood;22;road vehicle;27;2005;1;10
+0_732328_23;697;Coal;25;road vehicle;39;2005;1;17
+0_732331_39;360;Grain;25;road vehicle;25;2005;1;20
+1_732332_27;208;Livestock;16;road vehicle;25;2005;1;21
+0_732338_15;359;Wood;22;road vehicle;27;2005;1;27
+1_732340_5;3662;Goods;58;railway locomotive;85;2005;1;29
+0_732344_55;450;Iron Ore;25;road vehicle;29;2005;2;2
+0_732353_25;360;Grain;25;road vehicle;25;2005;2;11
+1_732354_13;208;Livestock;16;road vehicle;25;2005;2;12
+0_732358_31;359;Wood;22;road vehicle;27;2005;2;16
+0_732360_22;695;Coal;25;road vehicle;39;2005;2;18
+0_732364_59;1829;Iron Ore;60;railway locomotive;50;2005;2;22
+1_732365_72;696;Coal;25;road vehicle;39;2005;2;23
+0_732372_54;360;Wood;22;road vehicle;27;2005;3;2
+1_732373_49;450;Iron Ore;25;road vehicle;29;2005;3;3
+0_732375_11;360;Grain;25;road vehicle;25;2005;3;5
+2_732375_73;208;Livestock;16;road vehicle;25;2005;3;5
+1_732376_68;4579;Steel;40;railway locomotive;171;2005;3;6
+0_732379_60;3607;Goods;58;railway locomotive;85;2005;3;9
+0_732389_72;360;Wood;22;road vehicle;27;2005;3;19
+0_732395_34;695;Coal;25;road vehicle;39;2005;3;25
+0_732398_45;360;Wood;22;road vehicle;27;2005;3;28
+0_732400_26;450;Iron Ore;25;road vehicle;29;2005;3;30
+1_732401_10;696;Coal;25;road vehicle;39;2005;3;31
+0_732404_67;355;Grain;25;road vehicle;25;2005;4;3
+1_732405_55;204;Livestock;16;road vehicle;25;2005;4;4
+0_732413_25;1838;Iron Ore;60;railway locomotive;50;2005;4;12
+1_732413_72;3655;Goods;58;railway locomotive;85;2005;4;12
+0_732415_63;360;Wood;22;road vehicle;27;2005;4;14
+0_732425_2;208;Livestock;16;road vehicle;25;2005;4;24
+1_732425_42;359;Wood;22;road vehicle;27;2005;4;24
+1_732427_3;450;Iron Ore;25;road vehicle;29;2005;4;26
+0_732427_72;3655;Goods;58;railway locomotive;85;2005;4;26
+1_732428_65;360;Grain;25;road vehicle;25;2005;4;27
+0_732430_46;695;Coal;25;road vehicle;39;2005;4;29
+0_732436_22;695;Coal;25;road vehicle;39;2005;5;5
+0_732441_54;360;Wood;22;road vehicle;27;2005;5;10
+0_732445_49;3622;Goods;58;railway locomotive;85;2005;5;14
+0_732447_29;208;Livestock;16;road vehicle;25;2005;5;16
+0_732451_38;360;Grain;25;road vehicle;25;2005;5;20
+0_732453_5;359;Wood;22;road vehicle;27;2005;5;22
+1_732453_54;450;Iron Ore;25;road vehicle;29;2005;5;22
+2_732454_62;4554;Steel;40;railway locomotive;171;2005;5;23
+0_732465_9;1829;Iron Ore;60;railway locomotive;50;2005;6;3
+0_732466_25;208;Livestock;16;road vehicle;25;2005;6;4
+1_732467_45;360;Wood;22;road vehicle;27;2005;6;5
+0_732471_0;3640;Goods;58;railway locomotive;85;2005;6;9
+0_732472_27;690;Coal;25;road vehicle;39;2005;6;10
+1_732473_24;360;Grain;25;road vehicle;25;2005;6;11
+0_732473_71;695;Coal;25;road vehicle;39;2005;6;11
+0_732480_31;450;Iron Ore;25;road vehicle;29;2005;6;18
+0_732483_33;359;Wood;22;road vehicle;27;2005;6;21
+0_732485_21;208;Livestock;16;road vehicle;25;2005;6;23
+0_732494_62;359;Wood;22;road vehicle;27;2005;7;2
+1_732495_10;360;Grain;25;road vehicle;25;2005;7;3
+0_732504_17;208;Livestock;16;road vehicle;25;2005;7;12
+1_732506_56;1858;Iron Ore;60;railway locomotive;50;2005;7;14
+0_732507_57;695;Coal;25;road vehicle;39;2005;7;15
+0_732509_18;695;Coal;25;road vehicle;39;2005;7;17
+1_732509_44;3539;Goods;58;railway locomotive;85;2005;7;17
+0_732514_57;450;Iron Ore;25;road vehicle;29;2005;7;22
+0_732516_70;360;Grain;25;road vehicle;25;2005;7;24
+0_732521_36;360;Wood;22;road vehicle;27;2005;7;29
+0_732523_13;208;Livestock;16;road vehicle;25;2005;7;31
+0_732535_4;360;Wood;22;road vehicle;27;2005;8;12
+0_732538_56;360;Grain;25;road vehicle;25;2005;8;15
+0_732542_37;208;Livestock;16;road vehicle;25;2005;8;19
+1_732543_51;450;Iron Ore;25;road vehicle;29;2005;8;20
+2_732544_60;695;Coal;25;road vehicle;39;2005;8;21
+0_732545_67;3527;Goods;58;railway locomotive;85;2005;8;22
+0_732549_19;360;Wood;22;road vehicle;27;2005;8;26
+0_732550_56;697;Coal;25;road vehicle;39;2005;8;27
+1_732552_13;4546;Steel;40;railway locomotive;171;2005;8;29
+0_732555_2;1839;Iron Ore;60;railway locomotive;50;2005;9;1
+0_732562_48;208;Livestock;16;road vehicle;25;2005;9;8
+1_732563_7;359;Wood;22;road vehicle;27;2005;9;9
+0_732566_49;355;Grain;25;road vehicle;25;2005;9;12
+0_732569_54;3566;Goods;58;railway locomotive;85;2005;9;15
+1_732570_28;450;Iron Ore;25;road vehicle;29;2005;9;16
+0_732576_56;359;Wood;22;road vehicle;27;2005;9;22
+0_732579_72;695;Coal;25;road vehicle;39;2005;9;25
+1_732585_68;697;Coal;25;road vehicle;39;2005;10;1
+0_732586_22;3654;Goods;58;railway locomotive;85;2005;10;2
+0_732590_21;360;Grain;25;road vehicle;25;2005;10;6
+1_732590_44;359;Wood;22;road vehicle;27;2005;10;6
+2_732591_9;208;Livestock;16;road vehicle;25;2005;10;7
+0_732596_40;1850;Iron Ore;60;railway locomotive;50;2005;10;12
+1_732597_5;450;Iron Ore;25;road vehicle;29;2005;10;13
+0_732604_39;359;Wood;22;road vehicle;27;2005;10;20
+0_732612_7;360;Grain;25;road vehicle;25;2005;10;28
+1_732612_68;208;Livestock;16;road vehicle;25;2005;10;28
+0_732618_47;359;Wood;22;road vehicle;27;2005;11;3
+0_732622_44;690;Coal;25;road vehicle;39;2005;11;7
+1_732623_56;450;Iron Ore;25;road vehicle;29;2005;11;8
+0_732624_14;695;Coal;25;road vehicle;39;2005;11;9
+0_732629_59;3572;Goods;58;railway locomotive;85;2005;11;14
+0_732633_67;360;Grain;25;road vehicle;25;2005;11;18
+1_732634_55;208;Livestock;16;road vehicle;25;2005;11;19
+0_732635_33;359;Wood;22;road vehicle;27;2005;11;20
+1_732637_14;4479;Steel;40;railway locomotive;171;2005;11;22
+0_732641_42;1843;Iron Ore;60;railway locomotive;50;2005;11;26
+1_732643_29;6998;Steel;60;electrified railway locomotive;171;2005;11;28
+0_732650_33;450;Iron Ore;25;road vehicle;29;2005;12;5
+1_732653_9;3620;Goods;58;railway locomotive;85;2005;12;8
+0_732654_43;360;Wood;22;road vehicle;27;2005;12;9
+1_732655_53;360;Grain;25;road vehicle;25;2005;12;10
+0_732656_41;208;Livestock;16;road vehicle;25;2005;12;11
+0_732657_72;695;Coal;25;road vehicle;39;2005;12;12
+1_732661_24;360;Wood;22;road vehicle;27;2005;12;16
+0_732661_36;3655;Goods;58;railway locomotive;85;2005;12;16
+0_732664_59;695;Coal;25;road vehicle;39;2005;12;19
+0_732677_10;450;Iron Ore;25;road vehicle;29;2006;1;1
+1_732677_39;360;Grain;25;road vehicle;25;2006;1;1
+0_732678_27;208;Livestock;16;road vehicle;25;2006;1;2
+0_732682_0;360;Wood;22;road vehicle;27;2006;1;6
+0_732687_55;359;Wood;22;road vehicle;27;2006;1;11
+1_732689_72;1843;Iron Ore;60;railway locomotive;50;2006;1;13
+0_732690_50;3626;Goods;58;railway locomotive;85;2006;1;14
+0_732695_10;695;Coal;25;road vehicle;39;2006;1;19
+0_732699_25;360;Grain;25;road vehicle;25;2006;1;23
+1_732700_13;208;Livestock;16;road vehicle;25;2006;1;24
+0_732701_54;695;Coal;25;road vehicle;39;2006;1;25
+0_732706_4;450;Iron Ore;25;road vehicle;29;2006;1;30
+0_732707_65;360;Wood;22;road vehicle;27;2006;1;31
+0_732713_34;6996;Steel;60;electrified railway locomotive;171;2006;2;6
+1_732715_58;359;Wood;22;road vehicle;27;2006;2;8
+0_732716_42;3583;Goods;58;railway locomotive;85;2006;2;9
+0_732720_2;4614;Steel;40;railway locomotive;171;2006;2;13
+1_732721_11;360;Grain;25;road vehicle;25;2006;2;14
+0_732721_73;208;Livestock;16;road vehicle;25;2006;2;14
+1_732730_20;695;Coal;25;road vehicle;39;2006;2;23
+0_732730_55;3645;Goods;58;railway locomotive;85;2006;2;23
+0_732732_55;450;Iron Ore;25;road vehicle;29;2006;2;25
+1_732733_56;360;Wood;22;road vehicle;27;2006;2;26
+0_732736_66;695;Coal;25;road vehicle;39;2006;3;1
+1_732741_20;208;Livestock;16;road vehicle;25;2006;3;6
+0_732742_2;1829;Iron Ore;60;railway locomotive;50;2006;3;7
+0_732743_41;359;Wood;22;road vehicle;27;2006;3;8
+0_732745_9;360;Grain;25;road vehicle;25;2006;3;10
+0_732750_53;3660;Goods;58;railway locomotive;85;2006;3;15
+0_732759_32;450;Iron Ore;25;road vehicle;29;2006;3;24
+1_732759_47;360;Wood;22;road vehicle;27;2006;3;24
+0_732762_10;208;Livestock;16;road vehicle;25;2006;3;27
+1_732763_45;6996;Steel;60;electrified railway locomotive;171;2006;3;28
+0_732765_30;695;Coal;25;road vehicle;39;2006;3;30
+0_732766_69;360;Grain;25;road vehicle;25;2006;3;31
+0_732772_4;695;Coal;25;road vehicle;39;2006;4;6
+0_732774_42;360;Wood;22;road vehicle;27;2006;4;8
+0_732777_69;3628;Goods;58;railway locomotive;85;2006;4;11
+0_732781_6;208;Livestock;16;road vehicle;25;2006;4;15
+0_732784_19;3654;Goods;58;railway locomotive;85;2006;4;18
+0_732786_9;450;Iron Ore;25;road vehicle;29;2006;4;20
+0_732788_55;360;Grain;25;road vehicle;25;2006;4;22
+0_732790_58;360;Wood;22;road vehicle;27;2006;4;24
+1_732793_60;1828;Iron Ore;60;railway locomotive;50;2006;4;27
+0_732800_2;208;Livestock;16;road vehicle;25;2006;5;4
+1_732800_40;695;Coal;25;road vehicle;39;2006;5;4
+0_732801_73;360;Wood;22;road vehicle;27;2006;5;5
+0_732805_72;4524;Steel;40;railway locomotive;171;2006;5;9
+0_732810_41;360;Grain;25;road vehicle;25;2006;5;14
+1_732811_31;695;Coal;25;road vehicle;39;2006;5;15
+0_732812_60;450;Iron Ore;25;road vehicle;29;2006;5;16
+0_732816_27;3614;Goods;58;railway locomotive;85;2006;5;20
+1_732816_49;360;Wood;22;road vehicle;27;2006;5;20
+0_732818_72;208;Livestock;16;road vehicle;25;2006;5;22
+0_732823_61;6994;Steel;60;electrified railway locomotive;171;2006;5;27
+0_732827_42;3634;Goods;58;railway locomotive;85;2006;5;31
+1_732827_64;360;Wood;22;road vehicle;27;2006;5;31
+0_732832_27;360;Grain;25;road vehicle;25;2006;6;5
+0_732835_50;695;Coal;25;road vehicle;39;2006;6;8
+0_732837_68;208;Livestock;16;road vehicle;25;2006;6;10
+0_732844_6;360;Wood;22;road vehicle;27;2006;6;17
+0_732846_15;450;Iron Ore;25;road vehicle;29;2006;6;19
+1_732848_40;1825;Iron Ore;60;railway locomotive;50;2006;6;21
+0_732848_44;695;Coal;25;road vehicle;39;2006;6;21
+0_732854_13;360;Grain;25;road vehicle;25;2006;6;27
+1_732855_0;3616;Goods;58;railway locomotive;85;2006;6;28
+0_732863_26;208;Livestock;16;road vehicle;25;2006;7;6
+0_732867_19;360;Wood;22;road vehicle;27;2006;7;10
+0_732872_44;695;Coal;25;road vehicle;39;2006;7;15
+0_732875_8;450;Iron Ore;25;road vehicle;29;2006;7;18
+1_732875_73;360;Grain;25;road vehicle;25;2006;7;18
+0_732881_12;360;Wood;22;road vehicle;27;2006;7;24
+0_732882_22;208;Livestock;16;road vehicle;25;2006;7;25
+0_732883_56;695;Coal;25;road vehicle;39;2006;7;26
+1_732885_31;3564;Goods;58;railway locomotive;85;2006;7;28
+0_732895_22;360;Wood;22;road vehicle;27;2006;8;7
+1_732897_46;1838;Iron Ore;60;railway locomotive;50;2006;8;9
+0_732899_16;360;Grain;25;road vehicle;25;2006;8;11
+1_732900_54;6731;Steel;60;electrified railway locomotive;171;2006;8;12
+2_732901_46;208;Livestock;16;road vehicle;25;2006;8;13
+0_732901_59;450;Iron Ore;25;road vehicle;29;2006;8;13
+0_732907_56;695;Coal;25;road vehicle;39;2006;8;19
+1_732908_71;359;Wood;22;road vehicle;27;2006;8;20
+0_732916_30;3557;Goods;58;railway locomotive;85;2006;8;28
+0_732918_68;695;Coal;25;road vehicle;39;2006;8;30
+0_732921_2;360;Grain;25;road vehicle;25;2006;9;2
+1_732922_61;3661;Goods;58;railway locomotive;85;2006;9;3
+0_732923_37;208;Livestock;16;road vehicle;25;2006;9;4
+0_732928_36;450;Iron Ore;25;road vehicle;29;2006;9;9
+0_732930_35;359;Wood;22;road vehicle;27;2006;9;11
+0_732933_41;1320;Mail;52;ship;46;2006;9;14
+0_732936_56;359;Wood;22;road vehicle;27;2006;9;17
+0_732942_68;695;Coal;25;road vehicle;39;2006;9;23
+1_732943_48;208;Livestock;16;road vehicle;25;2006;9;24
+0_732947_3;357;Grain;25;road vehicle;25;2006;9;28
+1_732949_30;1828;Iron Ore;60;railway locomotive;50;2006;9;30
+0_732950_6;4441;Steel;40;railway locomotive;171;2006;10;1
+0_732954_6;695;Coal;25;road vehicle;39;2006;10;5
+1_732955_13;450;Iron Ore;25;road vehicle;29;2006;10;6
+0_732956_41;412;Mail;25;ship;30;2006;10;7
+1_732957_66;360;Wood;22;road vehicle;27;2006;10;8
+0_732960_21;3612;Goods;58;railway locomotive;85;2006;10;11
+1_732962_44;208;Livestock;16;road vehicle;25;2006;10;13
+0_732964_41;359;Wood;22;road vehicle;27;2006;10;15
+0_732968_2;3648;Goods;58;railway locomotive;85;2006;10;19
+0_732974_27;355;Grain;25;road vehicle;25;2006;10;25
+0_732977_34;6847;Steel;60;electrified railway locomotive;171;2006;10;28
+1_732978_6;695;Coal;25;road vehicle;39;2006;10;29
+0_732981_40;208;Livestock;16;road vehicle;25;2006;11;1
+1_732981_64;450;Iron Ore;25;road vehicle;29;2006;11;1
+0_732983_57;360;Wood;22;road vehicle;27;2006;11;3
+0_732989_59;2594;Mail;94;ship;50;2006;11;9
+0_732994_49;3647;Goods;58;railway locomotive;85;2006;11;14
+1_732995_16;359;Wood;22;road vehicle;27;2006;11;15
+0_732998_12;688;Coal;25;road vehicle;39;2006;11;18
+0_733004_11;1823;Iron Ore;60;railway locomotive;50;2006;11;24
+0_733008_41;450;Iron Ore;25;road vehicle;29;2006;11;28
+1_733009_48;360;Wood;22;road vehicle;27;2006;11;29
+0_733010_29;350;Grain;25;road vehicle;25;2006;11;30
+1_733011_17;204;Livestock;16;road vehicle;25;2006;12;1
+0_733014_37;1270;Mail;50;ship;46;2006;12;4
+0_733020_16;690;Coal;25;road vehicle;39;2006;12;10
+1_733021_7;360;Wood;22;road vehicle;27;2006;12;11
+0_733028_65;3577;Goods;58;railway locomotive;85;2006;12;18
+0_733032_15;360;Grain;25;road vehicle;25;2006;12;22
+1_733033_3;208;Livestock;16;road vehicle;25;2006;12;23
+0_733035_7;695;Coal;25;road vehicle;39;2006;12;25
+1_733035_39;360;Wood;22;road vehicle;27;2006;12;25
+1_733037_21;314;Mail;19;ship;30;2006;12;27
+0_733037_35;450;Iron Ore;25;road vehicle;29;2006;12;27
+0_733047_18;360;Wood;22;road vehicle;27;2007;1;6
+1_733049_53;1843;Iron Ore;60;railway locomotive;50;2007;1;8
+0_733052_24;208;Livestock;16;road vehicle;25;2007;1;11
+0_733056_13;360;Grain;25;road vehicle;25;2007;1;15
+1_733057_10;695;Coal;25;road vehicle;39;2007;1;16
+0_733061_30;360;Wood;22;road vehicle;27;2007;1;20
+1_733064_12;450;Iron Ore;25;road vehicle;29;2007;1;23
+0_733064_37;6647;Steel;60;electrified railway locomotive;171;2007;1;23
+2_733065_9;2898;Mail;105;ship;50;2007;1;24
+0_733070_4;4289;Steel;40;railway locomotive;171;2007;1;29
+1_733070_19;699;Coal;25;road vehicle;39;2007;1;29
+2_733071_48;3545;Goods;58;railway locomotive;85;2007;1;30
+0_733074_51;208;Livestock;16;road vehicle;25;2007;2;2
+1_733075_1;360;Wood;22;road vehicle;27;2007;2;3
+0_733082_4;357;Grain;25;road vehicle;25;2007;2;10
+0_733085_34;3619;Goods;58;railway locomotive;85;2007;2;13
+0_733087_21;360;Wood;22;road vehicle;27;2007;2;15
+0_733089_63;1245;Mail;49;ship;46;2007;2;17
+1_733090_63;450;Iron Ore;25;road vehicle;29;2007;2;18
+0_733092_22;695;Coal;25;road vehicle;39;2007;2;20
+0_733093_47;208;Livestock;16;road vehicle;25;2007;2;21
+1_733094_55;1843;Iron Ore;60;railway locomotive;50;2007;2;22
+1_733105_31;699;Coal;25;road vehicle;39;2007;3;5
+0_733105_59;3658;Goods;58;railway locomotive;85;2007;3;5
+0_733109_16;360;Wood;22;road vehicle;27;2007;3;9
+1_733109_20;355;Grain;25;road vehicle;25;2007;3;9
+1_733112_65;363;Mail;22;ship;30;2007;3;12
+0_733112_71;208;Livestock;16;road vehicle;25;2007;3;12
+2_733114_48;7002;Steel;60;electrified railway locomotive;171;2007;3;14
+0_733114_52;360;Wood;22;road vehicle;27;2007;3;14
+0_733123_5;450;Iron Ore;25;road vehicle;29;2007;3;23
+0_733127_34;695;Coal;25;road vehicle;39;2007;3;27
+0_733130_29;3615;Goods;58;railway locomotive;85;2007;3;30
+0_733133_8;208;Livestock;16;road vehicle;25;2007;4;2
+0_733135_7;360;Wood;22;road vehicle;27;2007;4;4
+1_733136_19;1852;Iron Ore;60;railway locomotive;50;2007;4;5
+0_733140_33;2732;Mail;99;ship;50;2007;4;9
+1_733140_40;356;Grain;25;road vehicle;25;2007;4;9
+2_733140_43;698;Coal;25;road vehicle;39;2007;4;9
+3_733140_43;360;Wood;22;road vehicle;27;2007;4;9
+4_733142_31;4588;Steel;40;railway locomotive;171;2007;4;11
+1_733149_56;450;Iron Ore;25;road vehicle;29;2007;4;18
+0_733149_67;3604;Goods;58;railway locomotive;85;2007;4;18
+0_733152_4;208;Livestock;16;road vehicle;25;2007;4;21
+0_733162_38;360;Wood;22;road vehicle;27;2007;5;1
+1_733162_46;695;Coal;25;road vehicle;39;2007;5;1
+0_733165_33;1448;Mail;57;ship;46;2007;5;4
+1_733166_34;360;Wood;22;road vehicle;27;2007;5;5
+2_733167_28;7006;Steel;60;electrified railway locomotive;171;2007;5;6
+1_733171_61;208;Livestock;16;road vehicle;25;2007;5;10
+0_733173_8;3590;Goods;58;railway locomotive;85;2007;5;12
+0_733175_35;350;Grain;25;road vehicle;25;2007;5;14
+1_733176_33;450;Iron Ore;25;road vehicle;29;2007;5;15
+0_733182_57;695;Coal;25;road vehicle;39;2007;5;21
+1_733184_49;1841;Iron Ore;60;railway locomotive;50;2007;5;23
+0_733188_29;360;Wood;22;road vehicle;27;2007;5;27
+0_733190_57;208;Livestock;16;road vehicle;25;2007;5;29
+0_733192_25;360;Wood;22;road vehicle;27;2007;5;31
+0_733193_68;363;Mail;22;ship;30;2007;6;1
+1_733194_24;3599;Goods;58;railway locomotive;85;2007;6;2
+0_733205_27;450;Iron Ore;25;road vehicle;29;2007;6;13
+1_733205_33;355;Grain;25;road vehicle;25;2007;6;13
+2_733206_3;695;Coal;25;road vehicle;39;2007;6;14
+0_733214_20;360;Wood;22;road vehicle;27;2007;6;22
+1_733215_17;208;Livestock;16;road vehicle;25;2007;6;23
+0_733217_69;698;Coal;25;road vehicle;39;2007;6;25
+1_733218_16;360;Wood;22;road vehicle;27;2007;6;26
+0_733222_46;3587;Goods;58;railway locomotive;85;2007;6;30
+0_733226_13;1852;Iron Ore;60;railway locomotive;50;2007;7;4
+1_733226_62;6904;Steel;60;electrified railway locomotive;171;2007;7;4
+0_733230_37;356;Grain;25;road vehicle;25;2007;7;8
+1_733231_69;4458;Steel;40;railway locomotive;171;2007;7;9
+0_733232_4;450;Iron Ore;25;road vehicle;29;2007;7;10
+2_733232_57;2898;Mail;105;ship;50;2007;7;10
+0_733235_44;208;Livestock;16;road vehicle;25;2007;7;13
+0_733240_11;360;Wood;22;road vehicle;27;2007;7;18
+1_733241_13;698;Coal;25;road vehicle;39;2007;7;19
+0_733244_7;360;Wood;22;road vehicle;27;2007;7;22
+0_733251_73;3589;Goods;58;railway locomotive;85;2007;7;29
+1_733253_7;698;Coal;25;road vehicle;39;2007;7;31
+0_733255_27;208;Livestock;16;road vehicle;25;2007;8;2
+0_733258_55;450;Iron Ore;25;road vehicle;29;2007;8;5
+1_733259_45;1574;Mail;62;ship;46;2007;8;6
+0_733264_4;3655;Goods;58;railway locomotive;85;2007;8;11
+1_733265_1;351;Grain;25;road vehicle;25;2007;8;12
+0_733266_2;360;Wood;22;road vehicle;27;2007;8;13
+1_733271_15;1845;Iron Ore;60;railway locomotive;50;2007;8;18
+0_733271_38;360;Wood;22;road vehicle;27;2007;8;18
+0_733274_23;208;Livestock;16;road vehicle;25;2007;8;21
+1_733276_23;698;Coal;25;road vehicle;39;2007;8;23
+0_733276_69;6994;Steel;60;electrified railway locomotive;171;2007;8;23
+0_733282_45;462;Mail;28;ship;30;2007;8;29
+0_733285_32;450;Iron Ore;25;road vehicle;29;2007;9;1
+0_733291_21;3628;Goods;58;railway locomotive;85;2007;9;7
+1_733291_67;360;Wood;22;road vehicle;27;2007;9;7
+0_733292_57;355;Grain;25;road vehicle;25;2007;9;8
+1_733293_59;690;Coal;25;road vehicle;39;2007;9;9
+0_733294_34;208;Livestock;16;road vehicle;25;2007;9;10
+0_733297_29;360;Wood;22;road vehicle;27;2007;9;13
+0_733309_16;3606;Goods;58;railway locomotive;85;2007;9;25
+1_733310_67;3339;Mail;121;ship;50;2007;9;26
+0_733311_33;697;Coal;25;road vehicle;39;2007;9;27
+2_733312_9;450;Iron Ore;25;road vehicle;29;2007;9;28
+1_733314_45;208;Livestock;16;road vehicle;25;2007;9;30
+0_733315_13;4511;Steel;40;railway locomotive;171;2007;10;1
+0_733318_67;1839;Iron Ore;60;railway locomotive;50;2007;10;4
+1_733319_24;360;Wood;22;road vehicle;27;2007;10;5
+0_733323_20;360;Wood;22;road vehicle;27;2007;10;9
+1_733324_24;354;Grain;25;road vehicle;25;2007;10;10
+0_733328_70;695;Coal;25;road vehicle;39;2007;10;14
+0_733332_52;3638;Goods;58;railway locomotive;85;2007;10;18
+1_733333_41;208;Livestock;16;road vehicle;25;2007;10;19
+0_733338_60;450;Iron Ore;25;road vehicle;29;2007;10;24
+0_733340_26;1371;Mail;54;ship;46;2007;10;26
+0_733343_53;6939;Steel;60;electrified railway locomotive;171;2007;10;29
+0_733345_15;360;Wood;22;road vehicle;27;2007;10;31
+0_733349_11;360;Wood;22;road vehicle;27;2007;11;4
+0_733353_29;690;Coal;25;road vehicle;39;2007;11;8
+0_733354_58;353;Grain;25;road vehicle;25;2007;11;9
+1_733355_46;208;Livestock;16;road vehicle;25;2007;11;10
+0_733359_53;3614;Goods;58;railway locomotive;85;2007;11;14
+1_733361_17;1852;Iron Ore;60;railway locomotive;50;2007;11;16
+0_733363_27;429;Mail;26;ship;30;2007;11;18
+0_733365_65;697;Coal;25;road vehicle;39;2007;11;20
+0_733367_54;450;Iron Ore;25;road vehicle;29;2007;11;22
+0_733371_6;360;Wood;22;road vehicle;27;2007;11;26
+1_733373_12;3651;Goods;58;railway locomotive;85;2007;11;28
+0_733374_67;208;Livestock;16;road vehicle;25;2007;11;29
+0_733379_2;359;Grain;25;road vehicle;25;2007;12;4
+1_733382_7;360;Wood;22;road vehicle;27;2007;12;7
+0_733390_24;695;Coal;25;road vehicle;39;2007;12;15
+1_733391_13;2898;Mail;105;ship;50;2007;12;16
+1_733394_31;450;Iron Ore;25;road vehicle;29;2007;12;19
+2_733395_20;208;Livestock;16;road vehicle;25;2007;12;20
+0_733395_27;3133;Livestock;50;electrified railway locomotive;124;2007;12;20
+0_733396_71;360;Wood;22;road vehicle;27;2007;12;21
+0_733401_3;696;Coal;25;road vehicle;39;2007;12;26
+0_733403_61;359;Grain;25;road vehicle;25;2007;12;28
+1_733406_19;1845;Iron Ore;60;railway locomotive;50;2007;12;31
+0_733407_6;6271;Grain;90;electrified railway locomotive;124;2008;1;1
+1_733407_72;360;Wood;22;road vehicle;27;2008;1;1
+0_733412_5;4425;Steel;40;railway locomotive;171;2008;1;6
+0_733414_16;208;Livestock;16;road vehicle;25;2008;1;8
+1_733414_53;3581;Goods;58;railway locomotive;85;2008;1;8
+0_733416_11;1295;Mail;51;ship;46;2008;1;10
+0_733421_8;450;Iron Ore;25;road vehicle;29;2008;1;15
+1_733422_51;3629;Goods;58;railway locomotive;85;2008;1;16
+0_733422_62;360;Wood;22;road vehicle;27;2008;1;16
+0_733425_36;695;Coal;25;road vehicle;39;2008;1;19
+0_733428_68;6756;Steel;60;electrified railway locomotive;171;2008;1;22
+0_733431_3;355;Grain;25;road vehicle;25;2008;1;25
+1_733433_34;3201;Livestock;50;electrified railway locomotive;124;2008;1;27
+0_733433_40;208;Livestock;16;road vehicle;25;2008;1;27
+0_733435_29;360;Wood;22;road vehicle;27;2008;1;29
+1_733436_15;696;Coal;25;road vehicle;39;2008;1;30
+2_733444_25;446;Mail;27;ship;30;2008;2;7
+1_733446_29;3655;Goods;58;railway locomotive;85;2008;2;9
+0_733446_41;6371;Grain;90;electrified railway locomotive;124;2008;2;9
+1_733447_59;450;Iron Ore;25;road vehicle;29;2008;2;10
+0_733448_53;360;Wood;22;road vehicle;27;2008;2;11
+0_733454_39;1839;Iron Ore;60;railway locomotive;50;2008;2;17
+1_733455_21;359;Grain;25;road vehicle;25;2008;2;18
+0_733456_9;208;Livestock;16;road vehicle;25;2008;2;19
+0_733460_48;695;Coal;25;road vehicle;39;2008;2;23
+2_733461_20;360;Wood;22;road vehicle;27;2008;2;24
+1_733462_18;3662;Goods;58;railway locomotive;85;2008;2;25
+1_733471_27;695;Coal;25;road vehicle;39;2008;3;5
+0_733471_41;3198;Livestock;50;electrified railway locomotive;124;2008;3;5
+2_733472_11;2842;Mail;103;ship;50;2008;3;6
+0_733474_36;450;Iron Ore;25;road vehicle;29;2008;3;8
+0_733476_10;360;Wood;22;road vehicle;27;2008;3;10
+1_733476_13;208;Livestock;16;road vehicle;25;2008;3;10
+0_733483_3;355;Grain;25;road vehicle;25;2008;3;17
+1_733484_39;3618;Goods;58;railway locomotive;85;2008;3;18
+2_733486_2;6358;Grain;90;electrified railway locomotive;124;2008;3;20
+0_733486_56;4564;Steel;40;railway locomotive;171;2008;3;20
+1_733487_11;360;Wood;22;road vehicle;27;2008;3;21
+0_733493_69;3654;Goods;58;railway locomotive;85;2008;3;27
+0_733495_9;208;Livestock;16;road vehicle;25;2008;3;29
+3_733495_60;695;Coal;25;road vehicle;39;2008;3;29
+1_733495_67;1860;Iron Ore;60;railway locomotive;50;2008;3;29
+2_733496_26;6816;Steel;60;electrified railway locomotive;171;2008;3;30
+0_733496_65;1245;Mail;49;ship;46;2008;3;30
+0_733502_1;360;Wood;22;road vehicle;27;2008;4;5
+0_733506_4;450;Iron Ore;25;road vehicle;29;2008;4;9
+1_733506_39;695;Coal;25;road vehicle;39;2008;4;9
+0_733509_48;3196;Livestock;50;electrified railway locomotive;124;2008;4;12
+0_733513_2;360;Wood;22;road vehicle;27;2008;4;16
+1_733513_68;354;Grain;25;road vehicle;25;2008;4;16
+2_733514_56;208;Livestock;16;road vehicle;25;2008;4;17
+0_733516_16;3656;Goods;58;railway locomotive;85;2008;4;19
+0_733519_67;429;Mail;26;ship;30;2008;4;22
+0_733527_66;360;Wood;22;road vehicle;27;2008;4;30
+0_733533_38;3612;Goods;58;railway locomotive;85;2008;5;6
+1_733534_20;12722;Grain;180;electrified railway locomotive;124;2008;5;7
+0_733534_72;450;Iron Ore;25;road vehicle;29;2008;5;7
+2_733535_38;695;Coal;25;road vehicle;39;2008;5;8
+0_733537_27;360;Grain;25;road vehicle;25;2008;5;10
+0_733538_67;360;Wood;22;road vehicle;27;2008;5;11
+0_733540_59;204;Livestock;16;road vehicle;25;2008;5;13
+1_733543_34;697;Coal;25;road vehicle;39;2008;5;16
+0_733544_33;1832;Iron Ore;60;railway locomotive;50;2008;5;17
+1_733553_49;2401;Mail;87;ship;50;2008;5;26
+0_733553_57;360;Wood;22;road vehicle;27;2008;5;26
+2_733555_12;3616;Goods;58;railway locomotive;85;2008;5;28
+0_733556_57;3197;Livestock;50;electrified railway locomotive;124;2008;5;29
+0_733561_49;450;Iron Ore;25;road vehicle;29;2008;6;3
+1_733562_31;356;Grain;25;road vehicle;25;2008;6;4
+0_733563_19;208;Livestock;16;road vehicle;25;2008;6;5
+0_733564_58;360;Wood;22;road vehicle;27;2008;6;6
+1_733565_15;3660;Goods;58;railway locomotive;85;2008;6;7
+1_733572_33;695;Coal;25;road vehicle;39;2008;6;14
+0_733574_10;12704;Grain;180;electrified railway locomotive;124;2008;6;16
+0_733578_46;696;Coal;25;road vehicle;39;2008;6;20
+1_733578_47;1346;Mail;53;ship;46;2008;6;20
+2_733579_48;360;Wood;22;road vehicle;27;2008;6;21
+0_733583_23;208;Livestock;16;road vehicle;25;2008;6;25
+1_733585_71;1853;Iron Ore;60;railway locomotive;50;2008;6;27
+0_733586_32;6737;Steel;60;electrified railway locomotive;171;2008;6;28
+0_733588_26;450;Iron Ore;25;road vehicle;29;2008;6;30
+0_733590_13;355;Grain;25;road vehicle;25;2008;7;2
+0_733594_21;3654;Goods;58;railway locomotive;85;2008;7;6
+1_733594_64;3200;Livestock;50;electrified railway locomotive;124;2008;7;6
+2_733595_44;4340;Steel;40;railway locomotive;171;2008;7;7
+0_733597_20;360;Wood;22;road vehicle;27;2008;7;9
+1_733601_47;379;Mail;23;ship;30;2008;7;13
+0_733602_19;208;Livestock;16;road vehicle;25;2008;7;14
+0_733605_39;360;Wood;22;road vehicle;27;2008;7;17
+0_733607_45;695;Coal;25;road vehicle;39;2008;7;19
+0_733610_63;3638;Goods;58;railway locomotive;85;2008;7;22
+0_733613_58;695;Coal;25;road vehicle;39;2008;7;25
+1_733614_0;12699;Grain;180;electrified railway locomotive;124;2008;7;26
+2_733614_31;358;Grain;25;road vehicle;25;2008;7;26
+3_733615_3;450;Iron Ore;25;road vehicle;29;2008;7;27
+0_733621_15;208;Livestock;16;road vehicle;25;2008;8;2
+0_733623_13;360;Wood;22;road vehicle;27;2008;8;4
+0_733630_73;1844;Iron Ore;60;railway locomotive;50;2008;8;11
+1_733631_67;3654;Goods;58;railway locomotive;85;2008;8;12
+0_733632_70;360;Wood;22;road vehicle;27;2008;8;13
+2_733632_71;3203;Livestock;50;electrified railway locomotive;124;2008;8;13
+0_733636_40;6990;Steel;60;electrified railway locomotive;171;2008;8;17
+0_733640_41;2815;Mail;102;ship;50;2008;8;21
+1_733641_54;450;Iron Ore;25;road vehicle;29;2008;8;22
+0_733642_13;355;Grain;25;road vehicle;25;2008;8;23
+2_733642_57;695;Coal;25;road vehicle;39;2008;8;23
+1_733643_1;208;Livestock;16;road vehicle;25;2008;8;24
+0_733648_70;695;Coal;25;road vehicle;39;2008;8;29
+1_733649_6;360;Wood;22;road vehicle;27;2008;8;30
+2_733650_44;3614;Goods;58;railway locomotive;85;2008;8;31
+0_733653_64;12705;Grain;180;electrified railway locomotive;124;2008;9;3
+0_733658_61;360;Wood;22;road vehicle;27;2008;9;8
+0_733663_5;208;Livestock;16;road vehicle;25;2008;9;13
+0_733666_67;1168;Mail;46;ship;46;2008;9;16
+0_733668_31;450;Iron Ore;25;road vehicle;29;2008;9;18
+2_733669_49;355;Grain;25;road vehicle;25;2008;9;19
+1_733670_5;3662;Goods;58;railway locomotive;85;2008;9;20
+3_733671_4;3200;Livestock;50;electrified railway locomotive;124;2008;9;21
+1_733674_73;360;Wood;22;road vehicle;27;2008;9;24
+0_733675_65;1852;Iron Ore;60;railway locomotive;50;2008;9;25
+1_733677_24;4512;Steel;40;railway locomotive;171;2008;9;27
+0_733677_69;695;Coal;25;road vehicle;39;2008;9;27
+0_733682_21;3662;Goods;58;railway locomotive;85;2008;10;2
+0_733684_8;695;Coal;25;road vehicle;39;2008;10;4
+1_733684_52;360;Wood;22;road vehicle;27;2008;10;4
+0_733687_58;208;Livestock;16;road vehicle;25;2008;10;7
+0_733689_63;429;Mail;26;ship;30;2008;10;9
+0_733697_10;12732;Grain;180;electrified railway locomotive;124;2008;10;17
+1_733697_52;355;Grain;25;road vehicle;25;2008;10;17
+1_733700_66;360;Wood;22;road vehicle;27;2008;10;20
+0_733701_55;3654;Goods;58;railway locomotive;85;2008;10;21
+0_733703_19;450;Iron Ore;25;road vehicle;29;2008;10;23
+0_733706_54;208;Livestock;16;road vehicle;25;2008;10;26
+1_733710_43;360;Wood;22;road vehicle;27;2008;10;30
+0_733711_8;3199;Livestock;50;electrified railway locomotive;124;2008;10;31
+0_733717_49;2898;Mail;105;ship;50;2008;11;6
+0_733721_50;359;Grain;25;road vehicle;25;2008;11;10
+2_733722_55;699;Coal;25;road vehicle;39;2008;11;11
+1_733724_31;1832;Iron Ore;60;railway locomotive;50;2008;11;13
+0_733726_18;3612;Goods;58;railway locomotive;85;2008;11;15
+1_733726_72;695;Coal;25;road vehicle;39;2008;11;15
+2_733727_7;208;Livestock;16;road vehicle;25;2008;11;16
+0_733729_70;450;Iron Ore;25;road vehicle;29;2008;11;18
+1_733731_28;6643;Steel;60;electrified railway locomotive;171;2008;11;20
+0_733731_41;360;Wood;22;road vehicle;27;2008;11;20
+0_733737_0;12733;Grain;180;electrified railway locomotive;124;2008;11;26
+1_733742_11;838;Mail;33;ship;46;2008;12;1
+0_733743_8;3642;Goods;58;railway locomotive;85;2008;12;2
+2_733743_17;360;Wood;22;road vehicle;27;2008;12;2
+0_733746_64;208;Livestock;16;road vehicle;25;2008;12;5
+0_733748_33;355;Grain;25;road vehicle;25;2008;12;7
+1_733749_15;3197;Livestock;50;electrified railway locomotive;124;2008;12;8
+0_733756_47;450;Iron Ore;25;road vehicle;29;2008;12;15
+1_733757_67;699;Coal;25;road vehicle;39;2008;12;16
+0_733758_72;360;Wood;22;road vehicle;27;2008;12;17
+0_733762_10;695;Coal;25;road vehicle;39;2008;12;21
+2_733765_15;479;Mail;29;ship;30;2008;12;24
+1_733765_60;208;Livestock;16;road vehicle;25;2008;12;24
+0_733765_69;1854;Iron Ore;60;railway locomotive;50;2008;12;24
+3_733767_48;3604;Goods;58;railway locomotive;85;2008;12;26
+0_733769_8;360;Wood;22;road vehicle;27;2008;12;28
+0_733771_73;4486;Steel;40;railway locomotive;171;2008;12;30
+0_733774_58;3657;Goods;58;railway locomotive;85;2009;1;2
+1_733776_64;12728;Grain;180;electrified railway locomotive;124;2009;1;4
+0_733777_30;355;Grain;25;road vehicle;25;2009;1;5
+0_733783_24;450;Iron Ore;25;road vehicle;29;2009;1;11
+1_733784_56;208;Livestock;16;road vehicle;25;2009;1;12
+0_733784_63;360;Wood;22;road vehicle;27;2009;1;12
+2_733787_22;3200;Livestock;50;electrified railway locomotive;124;2009;1;15
+0_733790_13;6930;Steel;60;electrified railway locomotive;171;2009;1;18
+0_733793_5;698;Coal;25;road vehicle;39;2009;1;21
+0_733796_39;360;Wood;22;road vehicle;27;2009;1;24
+1_733797_22;695;Coal;25;road vehicle;39;2009;1;25
+2_733797_47;2649;Mail;96;ship;50;2009;1;25
+0_733799_21;3650;Goods;58;railway locomotive;85;2009;1;27
+0_733801_8;359;Grain;25;road vehicle;25;2009;1;29
+0_733804_6;208;Livestock;16;road vehicle;25;2009;2;1
+0_733810_1;450;Iron Ore;25;road vehicle;29;2009;2;7
+1_733810_54;360;Wood;22;road vehicle;27;2009;2;7
+2_733813_10;3660;Goods;58;railway locomotive;85;2009;2;10
+0_733813_48;1834;Iron Ore;60;railway locomotive;50;2009;2;10
+1_733816_54;12716;Grain;180;electrified railway locomotive;124;2009;2;13
+1_733822_29;1066;Mail;42;ship;46;2009;2;19
+0_733822_30;360;Wood;22;road vehicle;27;2009;2;19
+0_733824_17;208;Livestock;16;road vehicle;25;2009;2;21
+0_733828_17;697;Coal;25;road vehicle;39;2009;2;25
+1_733828_64;355;Grain;25;road vehicle;25;2009;2;25
+0_733830_72;3658;Goods;58;railway locomotive;85;2009;2;27
+1_733832_0;3172;Livestock;50;electrified railway locomotive;124;2009;3;1
+0_733832_34;695;Coal;25;road vehicle;39;2009;3;1
+0_733836_45;360;Wood;22;road vehicle;27;2009;3;5
+1_733836_52;450;Iron Ore;25;road vehicle;29;2009;3;5
+0_733843_13;208;Livestock;16;road vehicle;25;2009;3;12
+0_733845_31;429;Mail;26;ship;30;2009;3;14
+0_733848_21;360;Wood;22;road vehicle;27;2009;3;17
+0_733851_39;3616;Goods;58;railway locomotive;85;2009;3;20
+1_733853_10;4526;Steel;40;railway locomotive;171;2009;3;22
+0_733856_31;356;Grain;25;road vehicle;25;2009;3;25
+0_733860_0;12727;Grain;180;electrified railway locomotive;124;2009;3;29
+0_733862_36;360;Wood;22;road vehicle;27;2009;3;31
+1_733862_54;1837;Iron Ore;60;railway locomotive;50;2009;3;31
+2_733864_30;6094;Mail;52;electrified railway locomotive;212;2009;4;2
+1_733867_36;208;Livestock;16;road vehicle;25;2009;4;5
+0_733868_5;3660;Goods;58;railway locomotive;85;2009;4;6
+1_733870_64;695;Coal;25;road vehicle;39;2009;4;8
+2_733871_37;450;Iron Ore;25;road vehicle;29;2009;4;9
+0_733872_4;3196;Livestock;50;electrified railway locomotive;124;2009;4;10
+1_733872_25;695;Coal;25;road vehicle;39;2009;4;10
+2_733873_17;3008;Mail;109;ship;50;2009;4;11
+3_733873_25;6686;Steel;60;electrified railway locomotive;171;2009;4;11
+0_733874_12;360;Wood;22;road vehicle;27;2009;4;12
+0_733884_13;355;Grain;25;road vehicle;25;2009;4;22
+1_733886_0;3638;Goods;58;railway locomotive;85;2009;4;24
+0_733887_63;208;Livestock;16;road vehicle;25;2009;4;25
+2_733888_27;360;Wood;22;road vehicle;27;2009;4;26
+1_733889_67;5157;Mail;44;electrified railway locomotive;212;2009;4;27
+1_733897_71;1092;Mail;43;ship;46;2009;5;5
+0_733898_14;450;Iron Ore;25;road vehicle;29;2009;5;6
+0_733900_3;360;Wood;22;road vehicle;27;2009;5;8
+0_733905_40;12626;Grain;180;electrified railway locomotive;124;2009;5;13
+1_733906_9;696;Coal;25;road vehicle;39;2009;5;14
+0_733907_45;695;Coal;25;road vehicle;39;2009;5;15
+2_733907_64;3614;Goods;58;railway locomotive;85;2009;5;15
+1_733908_31;359;Grain;25;road vehicle;25;2009;5;16
+0_733909_19;208;Livestock;16;road vehicle;25;2009;5;17
+0_733912_57;3193;Livestock;50;electrified railway locomotive;124;2009;5;20
+1_733914_58;1829;Iron Ore;60;railway locomotive;50;2009;5;22
+0_733916_39;6094;Mail;52;electrified railway locomotive;212;2009;5;24
+1_733917_47;3662;Goods;58;railway locomotive;85;2009;5;25
+0_733922_14;360;Wood;22;road vehicle;27;2009;5;30
+0_733924_65;450;Iron Ore;25;road vehicle;29;2009;6;1
+0_733925_55;396;Mail;24;ship;30;2009;6;2
+1_733925_68;360;Wood;22;road vehicle;27;2009;6;2
+0_733929_23;208;Livestock;16;road vehicle;25;2009;6;6
+0_733936_13;355;Grain;25;road vehicle;25;2009;6;13
+1_733941_28;695;Coal;25;road vehicle;39;2009;6;18
+0_733942_1;3650;Goods;58;railway locomotive;85;2009;6;19
+1_733942_65;695;Coal;25;road vehicle;39;2009;6;19
+0_733948_1;6848;Steel;60;electrified railway locomotive;171;2009;6;25
+1_733948_5;360;Wood;22;road vehicle;27;2009;6;25
+3_733948_19;208;Livestock;16;road vehicle;25;2009;6;25
+2_733949_14;4508;Steel;40;railway locomotive;171;2009;6;26
+0_733950_64;3201;Livestock;50;electrified railway locomotive;124;2009;6;27
+1_733951_42;450;Iron Ore;25;road vehicle;29;2009;6;28
+0_733953_23;2732;Mail;99;ship;50;2009;6;30
+1_733953_25;360;Wood;22;road vehicle;27;2009;6;30
+2_733956_12;16;Passengers;9;road vehicle;5;2009;7;3
+1_733956_58;3609;Goods;58;railway locomotive;85;2009;7;3
+0_733957_6;12505;Grain;180;electrified railway locomotive;124;2009;7;4
+1_733961_6;22;Passengers;16;road vehicle;4;2009;7;8
+0_733961_29;4805;Mail;41;electrified railway locomotive;212;2009;7;8
+0_733963_49;355;Grain;25;road vehicle;25;2009;7;10
+1_733966_40;12;Passengers;7;road vehicle;5;2009;7;13
+1_733967_9;14;Passengers;8;road vehicle;5;2009;7;14
+2_733967_15;208;Livestock;16;road vehicle;25;2009;7;14
+0_733969_18;1823;Iron Ore;60;railway locomotive;50;2009;7;16
+1_733970_56;2;Passengers;1;road vehicle;6;2009;7;17
+0_733970_67;14;Passengers;10;road vehicle;4;2009;7;17
+0_733973_52;3658;Goods;58;railway locomotive;85;2009;7;20
+1_733973_70;360;Wood;22;road vehicle;27;2009;7;20
+0_733975_45;23;Passengers;13;road vehicle;5;2009;7;22
+1_733976_49;695;Coal;25;road vehicle;39;2009;7;23
+0_733976_68;23;Passengers;13;road vehicle;5;2009;7;23
+0_733977_53;1016;Mail;40;ship;46;2009;7;24
+1_733978_19;450;Iron Ore;25;road vehicle;29;2009;7;25
+0_733979_16;360;Wood;22;road vehicle;27;2009;7;26
+0_733980_39;28;Passengers;20;road vehicle;4;2009;7;27
+0_733981_10;6;Passengers;3;road vehicle;6;2009;7;28
+0_733984_67;690;Coal;25;road vehicle;39;2009;7;31
+0_733985_33;1;Passengers;1;road vehicle;5;2009;8;1
+0_733986_44;36;Passengers;20;road vehicle;5;2009;8;2
+2_733987_67;359;Grain;25;road vehicle;25;2009;8;3
+0_733988_55;208;Livestock;16;road vehicle;25;2009;8;4
+1_733989_5;6563;Mail;56;electrified railway locomotive;212;2009;8;5
+0_733989_49;4;Passengers;2;road vehicle;6;2009;8;5
+0_733991_38;25;Passengers;18;road vehicle;4;2009;8;7
+2_733994_38;19;Passengers;11;road vehicle;5;2009;8;10
+0_733995_1;3616;Goods;58;railway locomotive;85;2009;8;11
+1_733995_40;3182;Livestock;50;electrified railway locomotive;124;2009;8;11
+0_733997_39;21;Passengers;12;road vehicle;5;2009;8;13
+1_733997_56;6;Passengers;4;road vehicle;4;2009;8;13
+0_733999_61;360;Wood;22;road vehicle;27;2009;8;15
+0_734000_57;363;Mail;22;ship;30;2009;8;16
+2_734001_55;6;Passengers;3;road vehicle;6;2009;8;17
+1_734002_64;12629;Grain;180;electrified railway locomotive;124;2009;8;18
+0_734003_2;6945;Steel;60;electrified railway locomotive;171;2009;8;19
+1_734003_57;19;Passengers;11;road vehicle;5;2009;8;19
+0_734005_7;360;Wood;22;road vehicle;27;2009;8;21
+0_734007_15;28;Passengers;16;road vehicle;5;2009;8;23
+0_734007_73;6;Passengers;3;road vehicle;6;2009;8;23
+1_734010_57;450;Iron Ore;25;road vehicle;29;2009;8;26
+0_734011_42;1850;Iron Ore;60;railway locomotive;50;2009;8;27
+2_734012_49;34;Passengers;24;road vehicle;4;2009;8;28
+0_734013_33;30;Passengers;17;road vehicle;5;2009;8;29
+1_734013_36;3658;Goods;58;railway locomotive;85;2009;8;29
+3_734015_11;6563;Mail;56;electrified railway locomotive;212;2009;8;31
+0_734015_13;204;Livestock;16;road vehicle;25;2009;8;31
+0_734016_66;355;Grain;25;road vehicle;25;2009;9;1
+0_734017_57;21;Passengers;15;road vehicle;4;2009;9;2
+1_734018_43;696;Coal;25;road vehicle;39;2009;9;3
+0_734019_23;28;Passengers;16;road vehicle;5;2009;9;4
+1_734020_5;695;Coal;25;road vehicle;39;2009;9;5
+0_734022_52;1;Passengers;1;road vehicle;5;2009;9;7
+0_734023_39;11;Passengers;5;road vehicle;6;2009;9;8
+1_734025_45;360;Wood;22;road vehicle;27;2009;9;10
+0_734026_51;3654;Goods;58;railway locomotive;85;2009;9;11
+0_734029_39;39;Passengers;22;road vehicle;5;2009;9;14
+0_734029_69;1;Passengers;1;road vehicle;5;2009;9;14
+1_734030_65;360;Wood;22;road vehicle;27;2009;9;15
+3_734034_19;18;Passengers;13;road vehicle;4;2009;9;19
+1_734034_33;27;Passengers;19;road vehicle;4;2009;9;19
+2_734034_36;208;Livestock;16;road vehicle;25;2009;9;19
+0_734035_44;3202;Livestock;50;electrified railway locomotive;124;2009;9;20
+0_734039_33;2705;Mail;98;ship;50;2009;9;24
+1_734039_51;450;Iron Ore;25;road vehicle;29;2009;9;24
+3_734039_68;12;Passengers;7;road vehicle;5;2009;9;24
+0_734040_8;18;Passengers;10;road vehicle;5;2009;9;25
+2_734041_13;4805;Mail;41;electrified railway locomotive;212;2009;9;26
+0_734043_56;355;Grain;25;road vehicle;25;2009;9;28
+0_734044_10;9;Passengers;4;road vehicle;6;2009;9;29
+2_734044_23;533;Goods;18;road vehicle;40;2009;9;29
+3_734044_24;2;Passengers;1;road vehicle;6;2009;9;29
+1_734045_12;3662;Goods;58;railway locomotive;85;2009;9;30
+1_734048_55;18;Passengers;10;road vehicle;5;2009;10;3
+0_734048_73;25;Passengers;14;road vehicle;5;2009;10;3
+0_734051_32;360;Wood;22;road vehicle;27;2009;10;6
+2_734051_72;12733;Grain;180;electrified railway locomotive;124;2009;10;6
+0_734052_57;14;Passengers;10;road vehicle;4;2009;10;7
+1_734053_5;21;Passengers;15;road vehicle;4;2009;10;8
+1_734054_63;208;Livestock;16;road vehicle;25;2009;10;9
+2_734055_46;698;Coal;25;road vehicle;39;2009;10;10
+0_734056_44;1843;Iron Ore;60;railway locomotive;50;2009;10;11
+1_734057_8;695;Coal;25;road vehicle;39;2009;10;12
+2_734057_28;360;Wood;22;road vehicle;27;2009;10;12
+2_734059_5;18;Passengers;10;road vehicle;5;2009;10;14
+1_734059_31;34;Passengers;19;road vehicle;5;2009;10;14
+0_734060_11;4433;Steel;40;railway locomotive;171;2009;10;15
+1_734063_47;2;Passengers;1;road vehicle;6;2009;10;18
+2_734063_69;22;Passengers;10;road vehicle;6;2009;10;18
+0_734065_11;3662;Goods;58;railway locomotive;85;2009;10;20
+2_734065_53;1092;Mail;43;ship;46;2009;10;20
+1_734066_28;450;Iron Ore;25;road vehicle;29;2009;10;21
+0_734067_34;359;Grain;25;road vehicle;25;2009;10;22
+1_734068_50;4336;Mail;37;electrified railway locomotive;212;2009;10;23
+2_734068_62;19;Passengers;11;road vehicle;5;2009;10;23
+0_734069_7;36;Passengers;20;road vehicle;5;2009;10;24
+1_734072_41;533;Goods;18;road vehicle;40;2009;10;27
+0_734073_31;21;Passengers;15;road vehicle;4;2009;10;28
+1_734073_59;208;Livestock;16;road vehicle;25;2009;10;28
+2_734074_22;29;Passengers;21;road vehicle;4;2009;10;29
+0_734076_69;3187;Livestock;50;electrified railway locomotive;124;2009;10;31
+0_734078_65;360;Wood;22;road vehicle;27;2009;11;2
+0_734080_5;28;Passengers;16;road vehicle;5;2009;11;4
+1_734081_32;6858;Steel;60;electrified railway locomotive;171;2009;11;5
+0_734084_3;6;Passengers;3;road vehicle;6;2009;11;8
+0_734088_49;429;Mail;26;ship;30;2009;11;12
+1_734089_52;360;Wood;22;road vehicle;27;2009;11;13
+0_734090_65;697;Coal;25;road vehicle;39;2009;11;14
+0_734092_28;695;Coal;25;road vehicle;39;2009;11;16
+1_734092_42;3646;Goods;58;railway locomotive;85;2009;11;16
+1_734092_65;9;Passengers;5;road vehicle;5;2009;11;16
+2_734093_5;450;Iron Ore;25;road vehicle;29;2009;11;17
+0_734093_31;25;Passengers;14;road vehicle;5;2009;11;17
+0_734095_16;355;Grain;25;road vehicle;25;2009;11;19
+2_734096_4;208;Livestock;16;road vehicle;25;2009;11;20
+1_734098_8;1855;Iron Ore;60;railway locomotive;50;2009;11;22
+2_734098_25;28;Passengers;20;road vehicle;4;2009;11;22
+0_734098_50;3656;Goods;58;railway locomotive;85;2009;11;22
+3_734098_65;36;Passengers;26;road vehicle;4;2009;11;22
+2_734102_26;533;Goods;18;road vehicle;40;2009;11;26
+0_734102_69;12535;Grain;180;electrified railway locomotive;124;2009;11;26
+1_734103_14;5977;Mail;51;electrified railway locomotive;212;2009;11;27
+0_734104_58;360;Wood;22;road vehicle;27;2009;11;28
+1_734104_60;18;Passengers;10;road vehicle;5;2009;11;28
+0_734111_50;36;Passengers;20;road vehicle;5;2009;12;5
+0_734112_55;26;Passengers;12;road vehicle;6;2009;12;6
+0_734116_8;208;Livestock;16;road vehicle;25;2009;12;10
+2_734116_71;360;Wood;22;road vehicle;27;2009;12;10
+1_734117_23;3643;Mail;132;ship;50;2009;12;11
+3_734119_29;2;Passengers;1;road vehicle;6;2009;12;13
+1_734119_56;450;Iron Ore;25;road vehicle;29;2009;12;13
+0_734120_32;66;Passengers;37;road vehicle;5;2009;12;14
+2_734121_58;3177;Livestock;50;electrified railway locomotive;124;2009;12;15
+1_734122_72;355;Grain;25;road vehicle;25;2009;12;16
+0_734124_18;3650;Goods;58;railway locomotive;85;2009;12;18
+1_734124_65;27;Passengers;15;road vehicle;5;2009;12;18
+0_734126_12;696;Coal;25;road vehicle;39;2009;12;20
+1_734127_42;52;Passengers;37;road vehicle;4;2009;12;21
+0_734127_48;695;Coal;25;road vehicle;39;2009;12;21
+0_734128_32;11;Passengers;8;road vehicle;4;2009;12;22
+0_734129_53;533;Goods;18;road vehicle;40;2009;12;23
+1_734130_51;360;Wood;22;road vehicle;27;2009;12;24
+2_734133_61;9;Passengers;5;road vehicle;5;2009;12;27
+1_734134_56;43;Passengers;24;road vehicle;5;2009;12;28
+2_734135_4;208;Livestock;16;road vehicle;25;2009;12;29
+0_734135_21;3627;Goods;58;railway locomotive;85;2009;12;29
+1_734139_16;4922;Mail;42;electrified railway locomotive;212;2010;1;2
+2_734139_21;26;Passengers;12;road vehicle;6;2010;1;2
+0_734139_36;1858;Iron Ore;60;railway locomotive;50;2010;1;2
+0_734142_58;360;Wood;22;road vehicle;27;2010;1;5
+1_734143_48;12;Passengers;7;road vehicle;5;2010;1;6
+0_734144_32;45;Passengers;25;road vehicle;5;2010;1;7
+1_734146_10;1016;Mail;40;ship;46;2010;1;9
+0_734146_33;450;Iron Ore;25;road vehicle;29;2010;1;9
+0_734147_50;7;Passengers;5;road vehicle;4;2010;1;10
+2_734148_13;4538;Steel;40;railway locomotive;171;2010;1;11
+1_734148_42;28;Passengers;20;road vehicle;4;2010;1;11
+0_734149_72;6822;Steel;60;electrified railway locomotive;171;2010;1;12
+1_734150_38;359;Grain;25;road vehicle;25;2010;1;13
+3_734151_13;12564;Grain;180;electrified railway locomotive;124;2010;1;14
+0_734154_24;28;Passengers;16;road vehicle;5;2010;1;17
+1_734154_28;208;Livestock;16;road vehicle;25;2010;1;17
+0_734156_44;360;Wood;22;road vehicle;27;2010;1;19
+0_734158_43;22;Passengers;10;road vehicle;6;2010;1;21
+1_734161_44;533;Goods;18;road vehicle;40;2010;1;24
+0_734162_45;3616;Goods;58;railway locomotive;85;2010;1;25
+2_734162_50;9;Passengers;5;road vehicle;5;2010;1;25
+1_734163_34;32;Passengers;18;road vehicle;5;2010;1;26
+0_734166_65;7149;Mail;61;electrified railway locomotive;212;2010;1;29
+2_734167_18;14;Passengers;10;road vehicle;4;2010;1;30
+3_734168_10;34;Passengers;24;road vehicle;4;2010;1;31
+0_734168_23;690;Coal;25;road vehicle;39;2010;1;31
+2_734168_51;360;Wood;22;road vehicle;27;2010;1;31
+0_734168_63;281;Mail;17;ship;30;2010;1;31
+1_734169_29;3154;Livestock;50;electrified railway locomotive;124;2010;2;1
+0_734172_51;685;Coal;25;road vehicle;39;2010;2;4
+1_734173_10;450;Iron Ore;25;road vehicle;29;2010;2;5
+2_734173_20;3;Passengers;2;road vehicle;5;2010;2;5
+0_734173_66;36;Passengers;20;road vehicle;5;2010;2;5
+1_734176_31;3621;Goods;58;railway locomotive;85;2010;2;8
+0_734177_56;1860;Iron Ore;60;railway locomotive;50;2010;2;9
+2_734177_65;11;Passengers;5;road vehicle;6;2010;2;9
+1_734178_25;355;Grain;25;road vehicle;25;2010;2;10
+0_734180_11;208;Livestock;16;road vehicle;25;2010;2;12
+0_734182_37;360;Wood;22;road vehicle;27;2010;2;14
+2_734182_58;23;Passengers;13;road vehicle;5;2010;2;14
+1_734183_2;36;Passengers;20;road vehicle;5;2010;2;15
+0_734187_26;17;Passengers;12;road vehicle;4;2010;2;19
+1_734187_28;21;Passengers;15;road vehicle;4;2010;2;19
+0_734192_29;533;Goods;18;road vehicle;40;2010;2;24
+0_734192_56;9;Passengers;5;road vehicle;5;2010;2;24
+2_734192_61;12;Passengers;7;road vehicle;5;2010;2;24
+1_734194_21;3650;Goods;58;railway locomotive;85;2010;2;26
+2_734194_44;360;Wood;22;road vehicle;27;2010;2;26
+0_734194_53;5274;Mail;45;electrified railway locomotive;212;2010;2;26
+1_734197_3;6;Passengers;3;road vehicle;6;2010;3;1
+2_734197_6;11;Passengers;5;road vehicle;6;2010;3;1
+0_734197_13;3367;Mail;122;ship;50;2010;3;1
+0_734200_23;208;Livestock;16;road vehicle;25;2010;3;4
+2_734201_66;27;Passengers;15;road vehicle;5;2010;3;5
+3_734201_69;23;Passengers;13;road vehicle;5;2010;3;5
+0_734202_4;450;Iron Ore;25;road vehicle;29;2010;3;6
+1_734203_6;12485;Grain;180;electrified railway locomotive;124;2010;3;7
+0_734205_61;355;Grain;25;road vehicle;25;2010;3;9
+2_734205_71;14;Passengers;10;road vehicle;4;2010;3;9
+1_734206_16;15;Passengers;11;road vehicle;4;2010;3;10
+0_734207_43;695;Coal;25;road vehicle;39;2010;3;11
+0_734211_5;3200;Livestock;50;electrified railway locomotive;124;2010;3;15
+0_734211_51;18;Passengers;10;road vehicle;5;2010;3;15
+1_734211_60;696;Coal;25;road vehicle;39;2010;3;15
+2_734212_12;25;Passengers;14;road vehicle;5;2010;3;16
+0_734213_59;360;Wood;22;road vehicle;27;2010;3;17
+1_734216_33;13;Passengers;6;road vehicle;6;2010;3;20
+0_734218_20;3600;Goods;58;railway locomotive;85;2010;3;22
+2_734219_20;1850;Iron Ore;60;railway locomotive;50;2010;3;23
+0_734219_47;533;Goods;18;road vehicle;40;2010;3;23
+1_734220_37;360;Wood;22;road vehicle;27;2010;3;24
+2_734220_50;208;Livestock;16;road vehicle;25;2010;3;24
+0_734220_56;12;Passengers;7;road vehicle;5;2010;3;24
+3_734221_5;27;Passengers;15;road vehicle;5;2010;3;25
+0_734221_45;965;Mail;38;ship;46;2010;3;25
+1_734225_31;20;Passengers;14;road vehicle;4;2010;3;29
+0_734225_50;28;Passengers;20;road vehicle;4;2010;3;29
+1_734228_55;450;Iron Ore;25;road vehicle;29;2010;4;1
+0_734228_56;5625;Mail;48;electrified railway locomotive;212;2010;4;1
+2_734230_5;359;Grain;25;road vehicle;25;2010;4;3
+0_734230_44;9;Passengers;5;road vehicle;5;2010;4;3
+1_734231_6;4588;Steel;40;railway locomotive;171;2010;4;4
+2_734231_6;18;Passengers;10;road vehicle;5;2010;4;4
+0_734233_5;6918;Steel;60;electrified railway locomotive;171;2010;4;6
+0_734234_60;11;Passengers;5;road vehicle;6;2010;4;7
+1_734235_49;3642;Goods;58;railway locomotive;85;2010;4;8
+0_734239_46;208;Livestock;16;road vehicle;25;2010;4;12
+1_734239_49;21;Passengers;12;road vehicle;5;2010;4;12
+2_734239_52;27;Passengers;15;road vehicle;5;2010;4;12
+0_734241_16;360;Wood;22;road vehicle;27;2010;4;14
+0_734242_55;699;Coal;25;road vehicle;39;2010;4;15
+0_734243_73;21;Passengers;15;road vehicle;4;2010;4;16
+2_734244_2;18;Passengers;13;road vehicle;4;2010;4;17
+1_734244_3;12699;Grain;180;electrified railway locomotive;124;2010;4;17
+0_734246_30;360;Wood;22;road vehicle;27;2010;4;19
+2_734246_65;533;Goods;18;road vehicle;40;2010;4;19
+1_734246_72;695;Coal;25;road vehicle;39;2010;4;19
+1_734249_29;9;Passengers;5;road vehicle;5;2010;4;22
+0_734249_34;14;Passengers;8;road vehicle;5;2010;4;22
+0_734250_10;314;Mail;19;ship;30;2010;4;23
+0_734253_22;3192;Livestock;50;electrified railway locomotive;124;2010;4;26
+0_734253_50;4;Passengers;2;road vehicle;6;2010;4;26
+1_734253_53;11;Passengers;5;road vehicle;6;2010;4;26
+0_734255_32;450;Iron Ore;25;road vehicle;29;2010;4;28
+2_734256_18;3656;Goods;58;railway locomotive;85;2010;4;29
+1_734256_44;3867;Mail;33;electrified railway locomotive;212;2010;4;29
+0_734257_61;355;Grain;25;road vehicle;25;2010;4;30
+2_734258_39;27;Passengers;15;road vehicle;5;2010;5;1
+3_734258_42;19;Passengers;11;road vehicle;5;2010;5;1
+0_734259_57;208;Livestock;16;road vehicle;25;2010;5;2
+1_734260_58;1854;Iron Ore;60;railway locomotive;50;2010;5;3
+1_734263_14;17;Passengers;12;road vehicle;4;2010;5;6
+0_734263_33;22;Passengers;16;road vehicle;4;2010;5;6
+1_734267_7;360;Wood;22;road vehicle;27;2010;5;10
+0_734267_22;3662;Goods;58;railway locomotive;85;2010;5;10
+0_734269_63;27;Passengers;15;road vehicle;5;2010;5;12
+0_734274_9;533;Goods;18;road vehicle;40;2010;5;17
+0_734276_1;27;Passengers;15;road vehicle;5;2010;5;19
+2_734277_18;17;Passengers;8;road vehicle;6;2010;5;20
+0_734277_67;699;Coal;25;road vehicle;39;2010;5;20
+1_734278_17;3201;Mail;116;ship;50;2010;5;21
+0_734279_65;360;Wood;22;road vehicle;27;2010;5;22
+1_734279_68;208;Livestock;16;road vehicle;25;2010;5;22
+0_734282_9;450;Iron Ore;25;road vehicle;29;2010;5;25
+1_734282_10;695;Coal;25;road vehicle;39;2010;5;25
+1_734283_54;2;Passengers;1;road vehicle;6;2010;5;26
+0_734283_58;48;Passengers;27;road vehicle;5;2010;5;26
+0_734285_43;355;Grain;25;road vehicle;25;2010;5;28
+0_734288_50;16;Passengers;9;road vehicle;5;2010;5;31
+1_734290_24;43;Passengers;31;road vehicle;4;2010;6;2
+0_734290_65;4453;Mail;38;electrified railway locomotive;212;2010;6;2
+2_734292_41;12535;Grain;180;electrified railway locomotive;124;2010;6;4
+1_734292_72;360;Wood;22;road vehicle;27;2010;6;4
+2_734293_33;18;Passengers;13;road vehicle;4;2010;6;5
+0_734293_60;3622;Goods;58;railway locomotive;85;2010;6;5
+0_734298_4;48;Passengers;27;road vehicle;5;2010;6;10
+2_734298_14;1;Passengers;1;road vehicle;5;2010;6;10
+1_734298_64;208;Livestock;16;road vehicle;25;2010;6;10
+1_734301_27;533;Goods;18;road vehicle;40;2010;6;13
+0_734301_49;3156;Livestock;50;electrified railway locomotive;124;2010;6;13
+3_734302_42;11;Passengers;5;road vehicle;6;2010;6;14
+1_734302_60;15;Passengers;7;road vehicle;6;2010;6;14
+0_734302_69;1143;Mail;45;ship;46;2010;6;14
+2_734303_47;3624;Goods;58;railway locomotive;85;2010;6;15
+4_734305_47;1860;Iron Ore;60;railway locomotive;50;2010;6;17
+0_734305_58;360;Wood;22;road vehicle;27;2010;6;17
+0_734307_9;18;Passengers;10;road vehicle;5;2010;6;19
+1_734307_31;27;Passengers;15;road vehicle;5;2010;6;19
+0_734308_60;450;Iron Ore;25;road vehicle;29;2010;6;20
+1_734310_70;6998;Steel;60;electrified railway locomotive;171;2010;6;22
+1_734311_37;14;Passengers;10;road vehicle;4;2010;6;23
+0_734312_3;24;Passengers;17;road vehicle;4;2010;6;24
+1_734313_5;698;Coal;25;road vehicle;39;2010;6;25
+0_734317_12;18;Passengers;10;road vehicle;5;2010;6;29
+0_734318_63;360;Wood;22;road vehicle;27;2010;6;30
+1_734319_60;351;Grain;25;road vehicle;25;2010;7;1
+1_734320_47;6;Passengers;3;road vehicle;6;2010;7;2
+0_734320_48;208;Livestock;16;road vehicle;25;2010;7;2
+2_734321_28;4;Passengers;2;road vehicle;6;2010;7;3
+1_734322_0;690;Coal;25;road vehicle;39;2010;7;4
+0_734322_66;5157;Mail;44;electrified railway locomotive;212;2010;7;4
+1_734325_22;9;Passengers;5;road vehicle;5;2010;7;7
+1_734325_71;429;Mail;26;ship;30;2010;7;7
+0_734326_7;30;Passengers;17;road vehicle;5;2010;7;8
+0_734329_25;4;Passengers;3;road vehicle;4;2010;7;11
+1_734329_66;21;Passengers;15;road vehicle;4;2010;7;11
+1_734331_51;360;Wood;22;road vehicle;27;2010;7;13
+0_734332_49;3616;Goods;58;railway locomotive;85;2010;7;14
+1_734334_41;4568;Steel;40;railway locomotive;171;2010;7;16
+2_734335_27;9;Passengers;5;road vehicle;5;2010;7;17
+0_734335_37;450;Iron Ore;25;road vehicle;29;2010;7;17
+1_734335_73;28;Passengers;16;road vehicle;5;2010;7;17
+2_734338_47;12617;Grain;180;electrified railway locomotive;124;2010;7;20
+0_734339_69;208;Livestock;16;road vehicle;25;2010;7;21
+1_734340_6;532;Goods;18;road vehicle;40;2010;7;22
+2_734340_17;22;Passengers;10;road vehicle;6;2010;7;22
+0_734343_7;3614;Goods;58;railway locomotive;85;2010;7;25
+1_734343_58;360;Grain;25;road vehicle;25;2010;7;25
+2_734344_44;14;Passengers;8;road vehicle;5;2010;7;26
+0_734344_54;360;Wood;22;road vehicle;27;2010;7;26
+1_734345_9;36;Passengers;20;road vehicle;5;2010;7;27
+0_734349_36;6563;Mail;56;electrified railway locomotive;212;2010;7;31
+1_734350_1;3156;Livestock;50;electrified railway locomotive;124;2010;8;1
+3_734350_3;22;Passengers;16;road vehicle;4;2010;8;1
+4_734350_23;32;Passengers;23;road vehicle;4;2010;8;1
+2_734350_49;1843;Iron Ore;60;railway locomotive;50;2010;8;1
+2_734355_32;9;Passengers;5;road vehicle;5;2010;8;6
+1_734355_38;18;Passengers;10;road vehicle;5;2010;8;6
+0_734355_39;690;Coal;25;road vehicle;39;2010;8;6
+0_734357_44;360;Wood;22;road vehicle;27;2010;8;8
+0_734359_12;695;Coal;25;road vehicle;39;2010;8;10
+0_734359_48;11;Passengers;5;road vehicle;6;2010;8;10
+1_734360_72;2953;Mail;107;ship;50;2010;8;11
+0_734364_3;27;Passengers;15;road vehicle;5;2010;8;15
+1_734364_62;360;Grain;25;road vehicle;25;2010;8;15
+0_734365_69;204;Livestock;16;road vehicle;25;2010;8;16
+0_734367_24;533;Goods;18;road vehicle;40;2010;8;18
+0_734369_37;31;Passengers;22;road vehicle;4;2010;8;20
+1_734369_70;450;Iron Ore;25;road vehicle;29;2010;8;20
+0_734370_56;9;Passengers;5;road vehicle;5;2010;8;21
+2_734372_6;3608;Goods;58;railway locomotive;85;2010;8;23
+0_734373_66;3516;Mail;30;electrified railway locomotive;212;2010;8;24
+0_734374_40;13;Passengers;9;road vehicle;4;2010;8;25
+0_734376_11;28;Passengers;16;road vehicle;5;2010;8;27
+0_734378_44;360;Wood;22;road vehicle;27;2010;8;29
+0_734379_35;1;Passengers;1;road vehicle;5;2010;8;30
+0_734380_67;22;Passengers;10;road vehicle;6;2010;8;31
+1_734383_29;360;Wood;22;road vehicle;27;2010;9;3
+1_734383_51;2;Passengers;1;road vehicle;6;2010;9;3
+1_734385_55;1117;Mail;44;ship;46;2010;9;5
+2_734386_37;12645;Grain;180;electrified railway locomotive;124;2010;9;6
+0_734386_40;13769;Oil;350;ship;78;2010;9;6
+3_734387_32;208;Livestock;16;road vehicle;25;2010;9;7
+1_734387_33;54;Passengers;30;road vehicle;5;2010;9;7
+0_734389_30;3606;Goods;58;railway locomotive;85;2010;9;9
+0_734390_51;6;Passengers;4;road vehicle;4;2010;9;10
+2_734391_18;21;Passengers;15;road vehicle;4;2010;9;11
+1_734391_56;3197;Livestock;50;electrified railway locomotive;124;2010;9;11
+0_734392_62;695;Coal;25;road vehicle;39;2010;9;12
+2_734392_64;355;Grain;25;road vehicle;25;2010;9;12
+0_734394_24;696;Coal;25;road vehicle;39;2010;9;14
+1_734395_51;1843;Iron Ore;60;railway locomotive;50;2010;9;15
+0_734396_5;533;Goods;18;road vehicle;40;2010;9;16
+2_734396_47;450;Iron Ore;25;road vehicle;29;2010;9;16
+1_734396_52;21;Passengers;12;road vehicle;5;2010;9;16
+3_734398_16;6700;Steel;60;electrified railway locomotive;171;2010;9;18
+0_734398_65;4688;Mail;40;electrified railway locomotive;212;2010;9;18
+0_734400_70;15;Passengers;7;road vehicle;6;2010;9;20
+1_734402_50;16064;Oil;350;ship;91;2010;9;22
+0_734403_52;3656;Goods;58;railway locomotive;85;2010;9;23
+2_734405_3;9;Passengers;5;road vehicle;5;2010;9;25
+1_734405_62;36;Passengers;20;road vehicle;5;2010;9;25
+0_734406_2;360;Wood;22;road vehicle;27;2010;9;26
+2_734406_28;208;Livestock;16;road vehicle;25;2010;9;26
+0_734408_39;314;Mail;19;ship;30;2010;9;28
+0_734409_6;7;Passengers;5;road vehicle;4;2010;9;29
+1_734409_71;25;Passengers;18;road vehicle;4;2010;9;29
+0_734414_41;16;Passengers;9;road vehicle;5;2010;10;4
+0_734414_65;3;Passengers;2;road vehicle;5;2010;10;4
+0_734416_66;360;Wood;22;road vehicle;27;2010;10;6
+1_734419_23;15;Passengers;7;road vehicle;6;2010;10;9
+2_734420_26;355;Grain;25;road vehicle;25;2010;10;10
+0_734421_3;3658;Goods;58;railway locomotive;85;2010;10;11
+2_734423_23;534;Goods;18;road vehicle;40;2010;10;13
+0_734423_24;450;Iron Ore;25;road vehicle;29;2010;10;13
+1_734423_62;3281;Mail;28;electrified railway locomotive;212;2010;10;13
+0_734424_12;27;Passengers;15;road vehicle;5;2010;10;14
+0_734425_24;208;Livestock;16;road vehicle;25;2010;10;15
+0_734428_7;698;Coal;25;road vehicle;39;2010;10;18
+0_734429_44;695;Coal;25;road vehicle;39;2010;10;19
+1_734429_46;34;Passengers;24;road vehicle;4;2010;10;19
+0_734431_69;360;Wood;22;road vehicle;27;2010;10;21
+1_734432_4;37;Passengers;21;road vehicle;5;2010;10;22
+2_734434_71;12585;Grain;180;electrified railway locomotive;124;2010;10;24
+1_734436_28;15;Passengers;11;road vehicle;4;2010;10;26
+0_734436_45;3173;Livestock;50;electrified railway locomotive;124;2010;10;26
+1_734440_6;3662;Goods;58;railway locomotive;85;2010;10;30
+2_734440_27;4496;Steel;40;railway locomotive;171;2010;10;30
+0_734440_33;1843;Iron Ore;60;railway locomotive;50;2010;10;30
+0_734441_23;3;Passengers;2;road vehicle;5;2010;10;31
+0_734442_14;25;Passengers;14;road vehicle;5;2010;11;1
+0_734444_24;360;Wood;22;road vehicle;27;2010;11;3
+1_734445_7;208;Livestock;16;road vehicle;25;2010;11;4
+0_734446_5;22;Passengers;10;road vehicle;6;2010;11;5
+1_734447_35;3008;Mail;109;ship;50;2010;11;6
+0_734448_39;355;Grain;25;road vehicle;25;2010;11;7
+0_734450_1;450;Iron Ore;25;road vehicle;29;2010;11;9
+1_734450_41;535;Goods;18;road vehicle;40;2010;11;9
+1_734453_42;1;Passengers;1;road vehicle;5;2010;11;12
+0_734453_56;66;Passengers;37;road vehicle;5;2010;11;12
+2_734457_40;14;Passengers;10;road vehicle;4;2010;11;16
+1_734457_62;360;Wood;22;road vehicle;27;2010;11;16
+3_734457_66;18;Passengers;13;road vehicle;4;2010;11;16
+0_734459_4;3654;Goods;58;railway locomotive;85;2010;11;18
+1_734460_39;4219;Mail;36;electrified railway locomotive;212;2010;11;19
+2_734463_16;9;Passengers;5;road vehicle;5;2010;11;22
+0_734463_28;697;Coal;25;road vehicle;39;2010;11;22
+1_734463_41;19;Passengers;11;road vehicle;5;2010;11;22
+3_734464_3;208;Livestock;16;road vehicle;25;2010;11;23
+0_734464_64;695;Coal;25;road vehicle;39;2010;11;23
+1_734465_69;6895;Steel;60;electrified railway locomotive;171;2010;11;24
+0_734467_40;11;Passengers;5;road vehicle;6;2010;11;26
+0_734470_17;360;Wood;22;road vehicle;27;2010;11;29
+1_734472_13;18;Passengers;10;road vehicle;5;2010;12;1
+0_734472_51;28;Passengers;16;road vehicle;5;2010;12;1
+0_734473_61;1117;Mail;44;ship;46;2010;12;2
+1_734475_63;355;Grain;25;road vehicle;25;2010;12;4
+1_734476_35;8;Passengers;6;road vehicle;4;2010;12;5
+2_734476_52;450;Iron Ore;25;road vehicle;29;2010;12;5
+0_734476_57;3654;Goods;58;railway locomotive;85;2010;12;5
+3_734476_57;21;Passengers;15;road vehicle;4;2010;12;5
+1_734477_59;536;Goods;18;road vehicle;40;2010;12;6
+0_734480_37;12628;Grain;180;electrified railway locomotive;124;2010;12;9
+1_734481_34;3170;Livestock;50;electrified railway locomotive;124;2010;12;10
+1_734481_65;1;Passengers;1;road vehicle;5;2010;12;10
+3_734481_70;18;Passengers;10;road vehicle;5;2010;12;10
+2_734482_2;1860;Iron Ore;60;railway locomotive;50;2010;12;11
+1_734482_73;208;Livestock;16;road vehicle;25;2010;12;11
+2_734483_55;360;Wood;22;road vehicle;27;2010;12;12
+0_734484_38;14564;Oil;117;monorail locomotive;242;2010;12;13
+0_734486_7;11;Passengers;5;road vehicle;6;2010;12;15
+0_734489_50;5391;Mail;46;electrified railway locomotive;212;2010;12;18
+2_734490_30;14;Passengers;8;road vehicle;5;2010;12;19
+1_734490_35;27;Passengers;15;road vehicle;5;2010;12;19
+1_734494_19;14;Passengers;10;road vehicle;4;2010;12;23
+2_734494_54;15;Passengers;11;road vehicle;4;2010;12;23
+1_734495_56;360;Wood;22;road vehicle;27;2010;12;24
+0_734495_62;14700;Oil;350;ship;78;2010;12;24
+0_734496_57;379;Mail;23;ship;30;2010;12;25
+3_734496_61;3618;Goods;58;railway locomotive;85;2010;12;25
+0_734498_47;696;Coal;25;road vehicle;39;2010;12;27
+2_734499_48;5;Passengers;3;road vehicle;5;2010;12;28
+1_734499_54;18;Passengers;10;road vehicle;5;2010;12;28
+0_734500_10;695;Coal;25;road vehicle;39;2010;12;29
+0_734503_30;355;Grain;25;road vehicle;25;2011;1;1
+0_734503_70;11;Passengers;5;road vehicle;6;2011;1;1
+2_734503_73;11;Passengers;5;road vehicle;6;2011;1;1
+1_734504_18;208;Livestock;16;road vehicle;25;2011;1;2
+2_734508_42;18;Passengers;10;road vehicle;5;2011;1;6
+0_734508_44;533;Goods;18;road vehicle;40;2011;1;6
+1_734508_59;25;Passengers;14;road vehicle;5;2011;1;6
+3_734509_56;450;Iron Ore;25;road vehicle;29;2011;1;7
+0_734512_43;14;Passengers;10;road vehicle;4;2011;1;10
+1_734512_66;21;Passengers;15;road vehicle;4;2011;1;10
+2_734514_73;360;Wood;22;road vehicle;27;2011;1;12
+0_734515_51;3614;Goods;58;railway locomotive;85;2011;1;13
+1_734515_54;5977;Mail;51;electrified railway locomotive;212;2011;1;13
+0_734518_44;19;Passengers;11;road vehicle;5;2011;1;16
+0_734521_49;360;Wood;22;road vehicle;27;2011;1;19
+0_734522_63;13;Passengers;6;road vehicle;6;2011;1;20
+1_734523_2;3192;Livestock;50;electrified railway locomotive;124;2011;1;21
+0_734525_5;3533;Mail;128;ship;50;2011;1;23
+4_734527_36;18;Passengers;10;road vehicle;5;2011;1;25
+1_734527_48;359;Grain;25;road vehicle;25;2011;1;25
+3_734528_20;39;Passengers;22;road vehicle;5;2011;1;26
+2_734529_3;4572;Steel;40;railway locomotive;171;2011;1;27
+0_734530_6;16979;Oil;350;ship;91;2011;1;28
+5_734530_42;1839;Iron Ore;60;railway locomotive;50;2011;1;28
+1_734530_72;204;Livestock;16;road vehicle;25;2011;1;28
+1_734532_4;10;Passengers;7;road vehicle;4;2011;1;30
+2_734532_49;24;Passengers;17;road vehicle;4;2011;1;30
+0_734534_6;3620;Goods;58;railway locomotive;85;2011;2;1
+3_734535_8;12451;Grain;180;electrified railway locomotive;124;2011;2;2
+0_734536_62;533;Goods;18;road vehicle;40;2011;2;3
+0_734537_39;18;Passengers;10;road vehicle;5;2011;2;4
+1_734537_61;695;Coal;25;road vehicle;39;2011;2;4
+2_734538_50;450;Iron Ore;25;road vehicle;29;2011;2;5
+0_734540_50;3985;Mail;34;electrified railway locomotive;212;2011;2;7
+1_734540_66;360;Wood;22;road vehicle;27;2011;2;7
+1_734541_62;15;Passengers;7;road vehicle;6;2011;2;8
+0_734542_14;690;Coal;25;road vehicle;39;2011;2;9
+1_734545_45;9;Passengers;5;road vehicle;5;2011;2;12
+0_734546_4;27;Passengers;15;road vehicle;5;2011;2;13
+0_734547_42;360;Wood;22;road vehicle;27;2011;2;14
+0_734549_22;6;Passengers;4;road vehicle;4;2011;2;16
+1_734549_43;14;Passengers;10;road vehicle;4;2011;2;16
+2_734549_63;1066;Mail;42;ship;46;2011;2;16
+0_734552_35;208;Livestock;16;road vehicle;25;2011;2;19
+1_734554_51;3652;Goods;58;railway locomotive;85;2011;2;21
+3_734554_72;9;Passengers;5;road vehicle;5;2011;2;21
+2_734555_23;19;Passengers;11;road vehicle;5;2011;2;22
+0_734555_61;355;Grain;25;road vehicle;25;2011;2;22
+1_734556_64;6736;Steel;60;electrified railway locomotive;171;2011;2;23
+0_734564_32;3196;Livestock;50;electrified railway locomotive;124;2011;3;3
+1_734564_73;37;Passengers;21;road vehicle;5;2011;3;3
+0_734565_0;20;Passengers;9;road vehicle;6;2011;3;4
+2_734565_3;536;Goods;18;road vehicle;40;2011;3;4
+3_734565_27;450;Iron Ore;25;road vehicle;29;2011;3;4
+4_734566_55;4922;Mail;42;electrified railway locomotive;212;2011;3;5
+0_734568_18;3658;Goods;58;railway locomotive;85;2011;3;7
+1_734568_25;360;Wood;22;road vehicle;27;2011;3;7
+0_734569_23;14;Passengers;8;road vehicle;5;2011;3;8
+0_734570_73;38;Passengers;27;road vehicle;4;2011;3;9
+1_734571_31;208;Livestock;16;road vehicle;25;2011;3;10
+2_734572_41;3;Passengers;2;road vehicle;4;2011;3;11
+4_734572_47;314;Mail;19;ship;30;2011;3;11
+0_734572_73;695;Coal;25;road vehicle;39;2011;3;11
+1_734573_35;360;Wood;22;road vehicle;27;2011;3;12
+3_734575_44;1843;Iron Ore;60;railway locomotive;50;2011;3;14
+0_734576_34;18;Passengers;10;road vehicle;5;2011;3;15
+1_734579_9;695;Coal;25;road vehicle;39;2011;3;18
+0_734580_9;12624;Grain;180;electrified railway locomotive;124;2011;3;19
+0_734583_11;355;Grain;25;road vehicle;25;2011;3;22
+1_734583_23;11;Passengers;5;road vehicle;6;2011;3;22
+0_734586_41;28;Passengers;16;road vehicle;5;2011;3;25
+1_734590_25;10;Passengers;7;road vehicle;4;2011;3;29
+2_734590_26;14;Passengers;10;road vehicle;4;2011;3;29
+0_734590_27;208;Livestock;16;road vehicle;25;2011;3;29
+0_734592_4;450;Iron Ore;25;road vehicle;29;2011;3;31
+1_734592_21;533;Goods;18;road vehicle;40;2011;3;31
+3_734592_59;3615;Goods;58;railway locomotive;85;2011;3;31
+0_734594_2;2930;Mail;25;electrified railway locomotive;212;2011;4;2
+1_734594_18;360;Wood;22;road vehicle;27;2011;4;2
+0_734595_68;9;Passengers;5;road vehicle;5;2011;4;3
+1_734599_38;13427;Oil;117;monorail locomotive;242;2011;4;7
+0_734600_9;2677;Mail;97;ship;50;2011;4;8
+2_734600_10;9;Passengers;4;road vehicle;6;2011;4;8
+1_734600_68;360;Wood;22;road vehicle;27;2011;4;8
+0_734602_28;12;Passengers;7;road vehicle;5;2011;4;10
+0_734605_34;3660;Goods;58;railway locomotive;85;2011;4;13
+1_734606_3;3190;Livestock;50;electrified railway locomotive;124;2011;4;14
+2_734606_10;43;Passengers;24;road vehicle;5;2011;4;14
+0_734608_11;695;Coal;25;road vehicle;39;2011;4;16
+2_734610_7;9;Passengers;4;road vehicle;6;2011;4;18
+0_734610_47;355;Grain;25;road vehicle;25;2011;4;18
+3_734611_35;208;Livestock;16;road vehicle;25;2011;4;19
+2_734611_44;31;Passengers;22;road vehicle;4;2011;4;19
+0_734613_62;4521;Steel;40;railway locomotive;171;2011;4;21
+2_734614_21;695;Coal;25;road vehicle;39;2011;4;22
+1_734614_37;14691;Oil;350;ship;78;2011;4;22
+0_734615_3;16;Passengers;9;road vehicle;5;2011;4;23
+0_734617_45;21;Passengers;12;road vehicle;5;2011;4;25
+2_734618_55;450;Iron Ore;25;road vehicle;29;2011;4;26
+0_734618_61;8;Passengers;6;road vehicle;4;2011;4;26
+3_734619_47;6882;Steel;60;electrified railway locomotive;171;2011;4;27
+2_734620_11;360;Wood;22;road vehicle;27;2011;4;28
+1_734620_26;1842;Iron Ore;60;railway locomotive;50;2011;4;28
+0_734622_27;15;Passengers;7;road vehicle;6;2011;4;30
+1_734623_56;7;Passengers;4;road vehicle;5;2011;5;1
+1_734624_39;965;Mail;38;ship;46;2011;5;2
+1_734626_16;533;Goods;18;road vehicle;40;2011;5;4
+3_734626_61;360;Wood;22;road vehicle;27;2011;5;4
+1_734627_16;25;Passengers;14;road vehicle;5;2011;5;5
+0_734627_72;6;Passengers;3;road vehicle;6;2011;5;5
+2_734628_47;12569;Grain;180;electrified railway locomotive;124;2011;5;6
+4_734629_28;3621;Goods;58;railway locomotive;85;2011;5;7
+3_734629_45;4922;Mail;42;electrified railway locomotive;212;2011;5;7
+0_734631_39;208;Livestock;16;road vehicle;25;2011;5;9
+1_734631_40;18;Passengers;13;road vehicle;4;2011;5;9
+0_734632_21;16;Passengers;9;road vehicle;5;2011;5;10
+0_734635_39;7;Passengers;5;road vehicle;4;2011;5;13
+0_734636_35;7;Passengers;4;road vehicle;5;2011;5;14
+0_734638_29;355;Grain;25;road vehicle;25;2011;5;16
+0_734640_34;9;Passengers;5;road vehicle;5;2011;5;18
+1_734640_51;9;Passengers;4;road vehicle;6;2011;5;18
+0_734643_23;695;Coal;25;road vehicle;39;2011;5;21
+2_734644_50;9;Passengers;4;road vehicle;6;2011;5;22
+1_734645_27;3614;Goods;58;railway locomotive;85;2011;5;23
+0_734645_32;450;Iron Ore;25;road vehicle;29;2011;5;23
+2_734646_4;360;Wood;22;road vehicle;27;2011;5;24
+4_734646_51;39;Passengers;22;road vehicle;5;2011;5;24
+0_734647_17;297;Mail;18;ship;30;2011;5;25
+3_734647_48;3184;Livestock;50;electrified railway locomotive;124;2011;5;25
+1_734649_1;16;Passengers;9;road vehicle;5;2011;5;27
+0_734649_33;695;Coal;25;road vehicle;39;2011;5;27
+1_734650_35;208;Livestock;16;road vehicle;25;2011;5;28
+0_734651_45;24;Passengers;17;road vehicle;4;2011;5;29
+0_734652_2;1;Passengers;1;road vehicle;4;2011;5;30
+2_734652_54;360;Wood;22;road vehicle;27;2011;5;30
+1_734654_32;12230;Oil;117;monorail locomotive;242;2011;6;1
+2_734657_6;14;Passengers;8;road vehicle;5;2011;6;4
+1_734657_38;532;Goods;18;road vehicle;40;2011;6;4
+0_734658_15;4219;Mail;36;electrified railway locomotive;212;2011;6;5
+1_734661_37;17;Passengers;8;road vehicle;6;2011;6;8
+0_734662_0;1858;Iron Ore;60;railway locomotive;50;2011;6;9
+2_734662_52;359;Grain;25;road vehicle;25;2011;6;9
+3_734665_32;9;Passengers;5;road vehicle;5;2011;6;12
+2_734666_16;30;Passengers;17;road vehicle;5;2011;6;13
+1_734667_50;3616;Goods;58;railway locomotive;85;2011;6;14
+0_734669_16;16655;Oil;350;ship;91;2011;6;16
+1_734669_31;208;Livestock;16;road vehicle;25;2011;6;16
+0_734670_0;8;Passengers;6;road vehicle;4;2011;6;17
+1_734670_45;28;Passengers;20;road vehicle;4;2011;6;17
+1_734676_60;450;Iron Ore;25;road vehicle;29;2011;6;23
+0_734677_11;12548;Grain;180;electrified railway locomotive;124;2011;6;24
+2_734677_73;360;Wood;22;road vehicle;27;2011;6;24
+0_734679_45;3312;Mail;120;ship;50;2011;6;26
+1_734679_59;18;Passengers;10;road vehicle;5;2011;6;26
+0_734682_23;360;Wood;22;road vehicle;27;2011;6;29
+1_734683_51;5039;Mail;43;electrified railway locomotive;212;2011;6;30
+1_734684_18;20;Passengers;9;road vehicle;6;2011;7;1
+2_734684_38;3606;Goods;58;railway locomotive;85;2011;7;1
+0_734684_53;533;Goods;18;road vehicle;40;2011;7;1
+3_734685_35;695;Coal;25;road vehicle;39;2011;7;2
+1_734688_11;9;Passengers;5;road vehicle;5;2011;7;5
+0_734688_69;32;Passengers;18;road vehicle;5;2011;7;5
+1_734690_14;355;Grain;25;road vehicle;25;2011;7;7
+0_734691_0;690;Coal;25;road vehicle;39;2011;7;8
+3_734691_2;208;Livestock;16;road vehicle;25;2011;7;8
+0_734692_13;7;Passengers;5;road vehicle;4;2011;7;9
+2_734692_37;3172;Livestock;50;electrified railway locomotive;124;2011;7;9
+1_734693_5;24;Passengers;17;road vehicle;4;2011;7;10
+0_734697_53;6946;Steel;60;electrified railway locomotive;171;2011;7;14
+1_734698_14;27;Passengers;15;road vehicle;5;2011;7;15
+1_734702_33;20;Passengers;9;road vehicle;6;2011;7;19
+0_734703_38;1853;Iron Ore;60;railway locomotive;50;2011;7;20
+1_734703_66;360;Wood;22;road vehicle;27;2011;7;20
+0_734704_43;1473;Mail;58;ship;46;2011;7;21
+1_734705_54;450;Iron Ore;25;road vehicle;29;2011;7;22
+2_734706_26;14383;Oil;117;monorail locomotive;242;2011;7;23
+3_734706_40;4564;Steel;40;railway locomotive;171;2011;7;23
+4_734706_60;18;Passengers;10;road vehicle;5;2011;7;23
+1_734707_24;36;Passengers;20;road vehicle;5;2011;7;24
+2_734708_14;360;Wood;22;road vehicle;27;2011;7;25
+0_734708_35;3601;Goods;58;railway locomotive;85;2011;7;25
+0_734711_8;13;Passengers;9;road vehicle;4;2011;7;28
+1_734711_30;21;Passengers;15;road vehicle;4;2011;7;28
+2_734711_71;533;Goods;18;road vehicle;40;2011;7;28
+0_734712_32;208;Livestock;16;road vehicle;25;2011;7;29
+0_734715_59;3867;Mail;33;electrified railway locomotive;212;2011;8;1
+0_734716_43;18;Passengers;10;road vehicle;5;2011;8;2
+0_734717_70;355;Grain;25;road vehicle;25;2011;8;3
+0_734720_45;695;Coal;25;road vehicle;39;2011;8;6
+0_734721_25;17;Passengers;8;road vehicle;6;2011;8;7
+1_734722_70;5;Passengers;3;road vehicle;5;2011;8;8
+0_734725_66;12719;Grain;180;electrified railway locomotive;124;2011;8;11
+1_734726_45;3592;Goods;58;railway locomotive;85;2011;8;12
+2_734727_12;11;Passengers;5;road vehicle;6;2011;8;13
+3_734727_25;314;Mail;19;ship;30;2011;8;13
+0_734727_25;43;Passengers;24;road vehicle;5;2011;8;13
+1_734728_12;695;Coal;25;road vehicle;39;2011;8;14
+0_734729_59;360;Wood;22;road vehicle;27;2011;8;15
+0_734731_28;208;Livestock;16;road vehicle;25;2011;8;17
+1_734731_35;16;Passengers;9;road vehicle;5;2011;8;17
+3_734732_19;25;Passengers;18;road vehicle;4;2011;8;18
+2_734732_31;450;Iron Ore;25;road vehicle;29;2011;8;18
+1_734735_19;10;Passengers;7;road vehicle;4;2011;8;21
+0_734735_45;360;Wood;22;road vehicle;27;2011;8;21
+1_734739_15;533;Goods;18;road vehicle;40;2011;8;25
+0_734739_22;3197;Livestock;50;electrified railway locomotive;124;2011;8;25
+1_734740_14;3;Passengers;2;road vehicle;5;2011;8;26
+0_734742_70;5391;Mail;46;electrified railway locomotive;212;2011;8;28
+2_734743_43;14370;Oil;350;ship;78;2011;8;29
+0_734744_61;27;Passengers;15;road vehicle;5;2011;8;30
+2_734744_70;17;Passengers;8;road vehicle;6;2011;8;30
+1_734745_52;355;Grain;25;road vehicle;25;2011;8;31
+0_734748_40;1843;Iron Ore;60;railway locomotive;50;2011;9;3
+0_734750_24;208;Livestock;16;road vehicle;25;2011;9;5
+1_734750_24;3603;Goods;58;railway locomotive;85;2011;9;5
+0_734755_49;3560;Mail;129;ship;50;2011;9;10
+1_734755_55;695;Coal;25;road vehicle;39;2011;9;10
+4_734756_70;10;Passengers;6;road vehicle;5;2011;9;11
+0_734757_18;360;Wood;22;road vehicle;27;2011;9;12
+5_734757_62;41;Passengers;23;road vehicle;5;2011;9;12
+3_734758_17;3658;Goods;58;railway locomotive;85;2011;9;13
+2_734758_23;13081;Oil;117;monorail locomotive;242;2011;9;13
+1_734758_29;6906;Steel;60;electrified railway locomotive;171;2011;9;13
+0_734759_8;450;Iron Ore;25;road vehicle;29;2011;9;14
+0_734761_36;360;Wood;22;road vehicle;27;2011;9;16
+2_734761_46;13;Passengers;9;road vehicle;4;2011;9;16
+1_734762_30;35;Passengers;25;road vehicle;4;2011;9;17
+0_734763_22;697;Coal;25;road vehicle;39;2011;9;18
+0_734766_33;533;Goods;18;road vehicle;40;2011;9;21
+0_734767_25;7;Passengers;4;road vehicle;5;2011;9;22
+2_734768_6;27;Passengers;15;road vehicle;5;2011;9;23
+1_734768_32;4102;Mail;35;electrified railway locomotive;212;2011;9;23
+0_734769_70;359;Grain;25;road vehicle;25;2011;9;24
+1_734770_58;208;Livestock;16;road vehicle;25;2011;9;25
+0_734772_47;31;Passengers;14;road vehicle;6;2011;9;27
+2_734776_70;14;Passengers;8;road vehicle;5;2011;10;1
+0_734777_28;12517;Grain;180;electrified railway locomotive;124;2011;10;2
+3_734777_42;36;Passengers;20;road vehicle;5;2011;10;2
+1_734779_5;3194;Livestock;50;electrified railway locomotive;124;2011;10;4
+1_734781_5;7;Passengers;5;road vehicle;4;2011;10;6
+0_734781_64;28;Passengers;20;road vehicle;4;2011;10;6
+1_734783_11;360;Wood;22;road vehicle;27;2011;10;8
+0_734785_59;450;Iron Ore;25;road vehicle;29;2011;10;10
+0_734786_48;1219;Mail;48;ship;46;2011;10;11
+4_734787_20;21;Passengers;12;road vehicle;5;2011;10;12
+3_734787_27;360;Wood;22;road vehicle;27;2011;10;12
+2_734788_21;3613;Goods;58;railway locomotive;85;2011;10;13
+1_734789_58;17145;Oil;350;ship;91;2011;10;14
+0_734790_4;1854;Iron Ore;60;railway locomotive;50;2011;10;15
+3_734790_62;208;Livestock;16;road vehicle;25;2011;10;15
+2_734790_65;699;Coal;25;road vehicle;39;2011;10;15
+0_734791_0;17;Passengers;8;road vehicle;6;2011;10;16
+0_734791_36;2;Passengers;1;road vehicle;6;2011;10;16
+1_734793_51;533;Goods;18;road vehicle;40;2011;10;18
+2_734794_25;358;Grain;25;road vehicle;25;2011;10;19
+0_734794_39;4102;Mail;35;electrified railway locomotive;212;2011;10;19
+2_734795_70;18;Passengers;10;road vehicle;5;2011;10;20
+1_734796_34;34;Passengers;19;road vehicle;5;2011;10;21
+0_734797_51;3614;Goods;58;railway locomotive;85;2011;10;22
+1_734798_32;697;Coal;25;road vehicle;39;2011;10;23
+0_734799_52;7;Passengers;5;road vehicle;4;2011;10;24
+1_734800_20;18;Passengers;13;road vehicle;4;2011;10;25
+0_734805_53;23;Passengers;13;road vehicle;5;2011;10;30
+0_734809_4;360;Wood;22;road vehicle;27;2011;11;3
+0_734809_47;379;Mail;23;ship;30;2011;11;3
+1_734809_58;208;Livestock;16;road vehicle;25;2011;11;3
+2_734810_30;31;Passengers;14;road vehicle;6;2011;11;4
+0_734812_36;450;Iron Ore;25;road vehicle;29;2011;11;6
+1_734813_18;360;Wood;22;road vehicle;27;2011;11;7
+1_734814_13;7;Passengers;4;road vehicle;5;2011;11;8
+0_734814_63;36;Passengers;20;road vehicle;5;2011;11;8
+0_734817_70;360;Grain;25;road vehicle;25;2011;11;11
+1_734818_7;7;Passengers;5;road vehicle;4;2011;11;12
+0_734819_7;25;Passengers;18;road vehicle;4;2011;11;13
+0_734822_66;10724;Oil;117;monorail locomotive;242;2011;11;16
+1_734823_64;3164;Livestock;50;electrified railway locomotive;124;2011;11;17
+2_734824_1;1;Passengers;1;road vehicle;5;2011;11;18
+0_734824_8;19;Passengers;11;road vehicle;5;2011;11;18
+1_734826_1;699;Coal;25;road vehicle;39;2011;11;20
+0_734827_11;3652;Goods;58;railway locomotive;85;2011;11;21
+3_734828_24;6;Passengers;3;road vehicle;6;2011;11;22
+4_734828_27;11;Passengers;5;road vehicle;6;2011;11;22
+1_734828_54;208;Livestock;16;road vehicle;25;2011;11;22
+2_734828_68;12521;Grain;180;electrified railway locomotive;124;2011;11;22
+1_734830_53;534;Goods;18;road vehicle;40;2011;11;24
+0_734831_26;14433;Oil;117;monorail locomotive;242;2011;11;25
+2_734831_71;2813;Mail;24;electrified railway locomotive;212;2011;11;25
+2_734832_70;18;Passengers;10;road vehicle;5;2011;11;26
+1_734833_13;21;Passengers;12;road vehicle;5;2011;11;27
+0_734834_70;1847;Iron Ore;60;railway locomotive;50;2011;11;28
+1_734834_71;360;Wood;22;road vehicle;27;2011;11;28
+1_734836_71;14;Passengers;10;road vehicle;4;2011;11;30
+2_734836_72;14;Passengers;10;road vehicle;4;2011;11;30
+0_734838_42;3600;Goods;58;railway locomotive;85;2011;12;2
+1_734839_9;360;Wood;22;road vehicle;27;2011;12;3
+2_734839_13;450;Iron Ore;25;road vehicle;29;2011;12;3
+3_734839_56;359;Grain;25;road vehicle;25;2011;12;3
+1_734841_66;9;Passengers;5;road vehicle;5;2011;12;5
+2_734842_7;5;Passengers;3;road vehicle;5;2011;12;6
+0_734842_39;690;Coal;25;road vehicle;39;2011;12;6
+1_734844_37;6693;Steel;60;electrified railway locomotive;171;2011;12;8
+0_734846_8;11;Passengers;5;road vehicle;6;2011;12;10
+1_734846_23;6;Passengers;3;road vehicle;6;2011;12;10
+0_734848_59;3257;Mail;118;ship;50;2011;12;12
+0_734850_71;19;Passengers;11;road vehicle;5;2011;12;14
+1_734851_12;23;Passengers;13;road vehicle;5;2011;12;15
+1_734853_29;208;Livestock;16;road vehicle;25;2011;12;17
+0_734854_1;4104;Steel;40;railway locomotive;171;2011;12;18
+1_734854_36;7;Passengers;5;road vehicle;4;2011;12;18
+0_734854_55;11;Passengers;8;road vehicle;4;2011;12;18
+1_734857_71;535;Goods;18;road vehicle;40;2011;12;21
+0_734858_40;4805;Mail;41;electrified railway locomotive;212;2011;12;22
+1_734860_16;10;Passengers;6;road vehicle;5;2011;12;24
+2_734860_31;12;Passengers;7;road vehicle;5;2011;12;24
+0_734860_64;360;Wood;22;road vehicle;27;2011;12;24
+0_734863_14;359;Grain;25;road vehicle;25;2011;12;27
+2_734864_72;15;Passengers;7;road vehicle;6;2011;12;28
+3_734865_13;15;Passengers;7;road vehicle;6;2011;12;29
+0_734865_58;695;Coal;25;road vehicle;39;2011;12;29
+1_734867_14;14504;Oil;350;ship;78;2011;12;31
+0_734868_73;3163;Livestock;50;electrified railway locomotive;124;2012;1;1
+0_734869_61;27;Passengers;15;road vehicle;5;2012;1;2
+1_734870_2;27;Passengers;15;road vehicle;5;2012;1;3
+0_734872_18;360;Wood;22;road vehicle;27;2012;1;5
+2_734872_47;450;Iron Ore;25;road vehicle;29;2012;1;5
+2_734873_45;14;Passengers;10;road vehicle;4;2012;1;6
+0_734873_56;208;Livestock;16;road vehicle;25;2012;1;6
+3_734873_60;14;Passengers;10;road vehicle;4;2012;1;6
+1_734874_60;13218;Oil;117;monorail locomotive;242;2012;1;7
+0_734875_27;1499;Mail;59;ship;46;2012;1;8
+1_734877_51;699;Coal;25;road vehicle;39;2012;1;10
+0_734878_42;3658;Goods;58;railway locomotive;85;2012;1;11
+0_734879_1;9;Passengers;5;road vehicle;5;2012;1;12
+3_734879_6;18;Passengers;10;road vehicle;5;2012;1;12
+2_734879_72;1842;Iron Ore;60;railway locomotive;50;2012;1;12
+1_734881_6;3564;Goods;58;railway locomotive;85;2012;1;14
+1_734883_22;11;Passengers;5;road vehicle;6;2012;1;16
+2_734883_25;11;Passengers;5;road vehicle;6;2012;1;16
+1_734885_16;536;Goods;18;road vehicle;40;2012;1;18
+0_734885_72;4219;Mail;36;electrified railway locomotive;212;2012;1;18
+0_734887_32;359;Grain;25;road vehicle;25;2012;1;20
+2_734887_42;12335;Grain;180;electrified railway locomotive;124;2012;1;20
+3_734887_68;18;Passengers;10;road vehicle;5;2012;1;20
+1_734888_11;21;Passengers;12;road vehicle;5;2012;1;21
+0_734891_27;360;Wood;22;road vehicle;27;2012;1;24
+0_734891_69;13;Passengers;9;road vehicle;4;2012;1;24
+2_734891_70;14;Passengers;10;road vehicle;4;2012;1;24
+3_734892_52;208;Livestock;16;road vehicle;25;2012;1;25
+1_734893_46;2195;Goods;190;ship;23;2012;1;26
+0_734897_39;9;Passengers;5;road vehicle;5;2012;1;30
+1_734898_29;412;Mail;25;ship;30;2012;1;31
+0_734899_24;450;Iron Ore;25;road vehicle;29;2012;2;1
+2_734899_39;360;Wood;22;road vehicle;27;2012;2;1
+0_734900_70;699;Coal;25;road vehicle;39;2012;2;2
+1_734902_21;17;Passengers;8;road vehicle;6;2012;2;4
+0_734903_44;6996;Steel;60;electrified railway locomotive;171;2012;2;5
+1_734903_71;16;Passengers;9;road vehicle;5;2012;2;5
+1_734911_50;359;Grain;25;road vehicle;25;2012;2;13
+3_734911_50;11;Passengers;5;road vehicle;6;2012;2;13
+0_734912_3;5156;Mail;44;electrified railway locomotive;212;2012;2;14
+2_734912_35;536;Goods;18;road vehicle;40;2012;2;14
+1_734912_63;208;Livestock;16;road vehicle;25;2012;2;14
+0_734914_46;695;Coal;25;road vehicle;39;2012;2;16
+1_734915_28;45;Passengers;25;road vehicle;5;2012;2;17
+3_734916_45;17150;Oil;350;ship;91;2012;2;18
+1_734916_71;19;Passengers;11;road vehicle;5;2012;2;18
+0_734917_31;3161;Livestock;50;electrified railway locomotive;124;2012;2;19
+2_734917_61;3614;Goods;58;railway locomotive;85;2012;2;19
+0_734918_58;360;Wood;22;road vehicle;27;2012;2;20
+1_734919_30;12537;Mail;90;aircraft;259;2012;2;21
+3_734919_36;3650;Goods;58;railway locomotive;85;2012;2;21
+0_734921_7;4577;Steel;40;railway locomotive;171;2012;2;23
+1_734921_28;42;Passengers;30;road vehicle;4;2012;2;23
+2_734921_36;1851;Iron Ore;60;railway locomotive;50;2012;2;23
+0_734925_40;360;Wood;22;road vehicle;27;2012;2;27
+2_734925_45;2429;Mail;88;ship;50;2012;2;27
+3_734926_1;450;Iron Ore;25;road vehicle;29;2012;2;28
+0_734927_25;37;Passengers;21;road vehicle;5;2012;2;29
+1_734927_32;12729;Grain;180;electrified railway locomotive;124;2012;2;29
+0_734930_39;22;Passengers;10;road vehicle;6;2012;3;3
+0_734933_36;360;Grain;25;road vehicle;25;2012;3;6
+1_734934_24;208;Livestock;16;road vehicle;25;2012;3;7
+3_734935_24;16;Passengers;9;road vehicle;5;2012;3;8
+1_734935_28;27;Passengers;15;road vehicle;5;2012;3;8
+2_734936_8;698;Coal;25;road vehicle;39;2012;3;9
+0_734936_73;3047;Mail;26;electrified railway locomotive;212;2012;3;9
+0_734939_12;14;Passengers;10;road vehicle;4;2012;3;12
+1_734939_48;15;Passengers;11;road vehicle;4;2012;3;12
+0_734940_53;534;Goods;18;road vehicle;40;2012;3;13
+0_734943_42;3177;Goods;190;ship;23;2012;3;16
+1_734944_49;360;Wood;22;road vehicle;27;2012;3;17
+2_734944_61;9;Passengers;5;road vehicle;5;2012;3;17
+0_734945_13;21;Passengers;12;road vehicle;5;2012;3;18
+1_734949_29;4;Passengers;2;road vehicle;6;2012;3;22
+2_734949_51;22;Passengers;10;road vehicle;6;2012;3;22
+0_734949_58;695;Coal;25;road vehicle;39;2012;3;22
+0_734950_47;1320;Mail;52;ship;46;2012;3;23
+1_734951_33;360;Wood;22;road vehicle;27;2012;3;24
+0_734952_52;450;Iron Ore;25;road vehicle;29;2012;3;25
+2_734953_34;7;Passengers;4;road vehicle;5;2012;3;26
+1_734953_52;6994;Steel;60;electrified railway locomotive;171;2012;3;26
+0_734953_52;18;Passengers;10;road vehicle;5;2012;3;26
+3_734954_28;208;Livestock;16;road vehicle;25;2012;3;27
+0_734958_2;20;Passengers;14;road vehicle;4;2012;3;31
+1_734958_2;21;Passengers;15;road vehicle;4;2012;3;31
+1_734960_31;355;Grain;25;road vehicle;25;2012;4;2
+0_734961_23;3620;Goods;58;railway locomotive;85;2012;4;3
+2_734963_31;9;Passengers;5;road vehicle;5;2012;4;5
+0_734963_37;12;Passengers;7;road vehicle;5;2012;4;5
+1_734965_58;3157;Livestock;50;electrified railway locomotive;124;2012;4;7
+3_734966_38;1843;Iron Ore;60;railway locomotive;50;2012;4;8
+2_734967_53;9;Passengers;4;road vehicle;6;2012;4;9
+3_734967_55;11;Passengers;5;road vehicle;6;2012;4;9
+0_734968_12;4336;Mail;37;electrified railway locomotive;212;2012;4;10
+1_734969_30;3575;Goods;58;railway locomotive;85;2012;4;11
+0_734970_40;360;Wood;22;road vehicle;27;2012;4;12
+1_734971_20;698;Coal;25;road vehicle;39;2012;4;13
+1_734971_58;9;Passengers;5;road vehicle;5;2012;4;13
+0_734972_2;16;Passengers;9;road vehicle;5;2012;4;14
+0_734973_24;208;Livestock;16;road vehicle;25;2012;4;15
+1_734975_11;12585;Grain;180;electrified railway locomotive;124;2012;4;17
+0_734975_60;14;Passengers;10;road vehicle;4;2012;4;17
+1_734976_8;20;Passengers;14;road vehicle;4;2012;4;18
+0_734977_26;360;Wood;22;road vehicle;27;2012;4;19
+1_734978_37;314;Mail;19;ship;30;2012;4;20
+0_734979_29;450;Iron Ore;25;road vehicle;29;2012;4;21
+2_734979_32;532;Goods;18;road vehicle;40;2012;4;21
+0_734981_21;16;Passengers;9;road vehicle;5;2012;4;23
+0_734984_2;360;Grain;25;road vehicle;25;2012;4;26
+1_734984_70;695;Coal;25;road vehicle;39;2012;4;26
+0_734985_37;2;Passengers;1;road vehicle;6;2012;4;27
+1_734985_59;22;Passengers;10;road vehicle;6;2012;4;27
+1_734989_42;7;Passengers;4;road vehicle;5;2012;5;1
+0_734989_60;18;Passengers;10;road vehicle;5;2012;5;1
+1_734992_20;208;Livestock;16;road vehicle;25;2012;5;4
+1_734993_44;13;Passengers;9;road vehicle;4;2012;5;5
+3_734993_44;14;Passengers;10;road vehicle;4;2012;5;5
+0_734993_46;3177;Goods;190;ship;23;2012;5;5
+1_734996_31;360;Wood;22;road vehicle;27;2012;5;8
+3_734998_73;9;Passengers;5;road vehicle;5;2012;5;10
+2_734999_5;14;Passengers;8;road vehicle;5;2012;5;11
+0_734999_23;14301;Oil;350;ship;78;2012;5;11
+1_734999_40;3618;Goods;58;railway locomotive;85;2012;5;11
+0_735003_19;360;Wood;22;road vehicle;27;2012;5;15
+2_735003_21;9;Passengers;4;road vehicle;6;2012;5;15
+3_735003_23;11;Passengers;5;road vehicle;6;2012;5;15
+1_735004_55;3399;Mail;29;electrified railway locomotive;212;2012;5;16
+0_735005_17;1877;Mail;68;ship;50;2012;5;17
+3_735005_62;360;Grain;25;road vehicle;25;2012;5;17
+4_735006_6;450;Iron Ore;25;road vehicle;29;2012;5;18
+1_735006_32;697;Coal;25;road vehicle;39;2012;5;18
+0_735006_50;533;Goods;18;road vehicle;40;2012;5;18
+1_735007_26;9;Passengers;5;road vehicle;5;2012;5;19
+0_735007_44;16;Passengers;9;road vehicle;5;2012;5;19
+2_735007_53;1860;Iron Ore;60;railway locomotive;50;2012;5;19
+0_735010_67;3167;Livestock;50;electrified railway locomotive;124;2012;5;22
+0_735011_68;15;Passengers;11;road vehicle;4;2012;5;23
+2_735011_68;21;Passengers;15;road vehicle;4;2012;5;23
+1_735013_30;3580;Goods;58;railway locomotive;85;2012;5;25
+1_735017_23;9;Passengers;5;road vehicle;5;2012;5;29
+0_735017_29;14;Passengers;8;road vehicle;5;2012;5;29
+1_735018_31;204;Livestock;16;road vehicle;25;2012;5;30
+1_735020_8;695;Coal;25;road vehicle;39;2012;6;1
+1_735021_43;360;Wood;22;road vehicle;27;2012;6;2
+3_735021_45;6;Passengers;3;road vehicle;6;2012;6;2
+4_735021_47;11;Passengers;5;road vehicle;6;2012;6;2
+0_735021_68;9001;Oil;117;monorail locomotive;242;2012;6;2
+2_735023_48;12656;Grain;180;electrified railway locomotive;124;2012;6;4
+1_735026_16;18;Passengers;10;road vehicle;5;2012;6;7
+0_735026_34;23;Passengers;13;road vehicle;5;2012;6;7
+1_735027_48;360;Grain;25;road vehicle;25;2012;6;8
+3_735030_18;14;Passengers;10;road vehicle;4;2012;6;11
+0_735030_35;12892;Mail;90;aircraft;259;2012;6;11
+4_735030_40;21;Passengers;15;road vehicle;4;2012;6;11
+1_735030_41;1549;Mail;61;ship;46;2012;6;11
+2_735032_18;3173;Goods;190;ship;23;2012;6;13
+0_735034_17;533;Goods;18;road vehicle;40;2012;6;15
+1_735035_0;450;Iron Ore;25;road vehicle;29;2012;6;16
+2_735035_11;360;Wood;22;road vehicle;27;2012;6;16
+1_735035_47;1;Passengers;1;road vehicle;5;2012;6;16
+0_735035_53;18;Passengers;10;road vehicle;5;2012;6;16
+0_735037_71;4370;Steel;40;railway locomotive;171;2012;6;18
+3_735038_58;208;Livestock;16;road vehicle;25;2012;6;19
+1_735039_32;7735;Mail;66;electrified railway locomotive;212;2012;6;20
+0_735039_69;4;Passengers;2;road vehicle;6;2012;6;20
+1_735039_71;11;Passengers;5;road vehicle;6;2012;6;20
+4_735040_8;6821;Steel;60;electrified railway locomotive;171;2012;6;21
+2_735040_8;3662;Goods;58;railway locomotive;85;2012;6;21
+1_735044_40;18;Passengers;10;road vehicle;5;2012;6;25
+0_735044_58;23;Passengers;13;road vehicle;5;2012;6;25
+1_735047_30;360;Wood;22;road vehicle;27;2012;6;28
+0_735048_28;3657;Goods;58;railway locomotive;85;2012;6;29
+1_735048_42;14;Passengers;10;road vehicle;4;2012;6;29
+3_735048_42;14;Passengers;10;road vehicle;4;2012;6;29
+2_735049_22;3190;Goods;190;ship;23;2012;6;30
+0_735049_63;695;Coal;25;road vehicle;39;2012;6;30
+1_735050_0;359;Grain;25;road vehicle;25;2012;7;1
+1_735053_39;429;Mail;26;ship;30;2012;7;4
+2_735054_3;18;Passengers;10;road vehicle;5;2012;7;5
+1_735055_20;699;Coal;25;road vehicle;39;2012;7;6
+0_735056_19;1836;Iron Ore;60;railway locomotive;50;2012;7;7
+0_735057_54;208;Livestock;16;road vehicle;25;2012;7;8
+0_735058_59;20;Passengers;9;road vehicle;6;2012;7;9
+2_735061_51;450;Iron Ore;25;road vehicle;29;2012;7;12
+1_735061_61;16511;Oil;350;ship;91;2012;7;12
+3_735062_43;360;Wood;22;road vehicle;27;2012;7;13
+4_735062_43;533;Goods;18;road vehicle;40;2012;7;13
+0_735062_57;3154;Livestock;50;electrified railway locomotive;124;2012;7;13
+1_735064_67;4336;Mail;37;electrified railway locomotive;212;2012;7;15
+0_735068_5;12721;Grain;180;electrified railway locomotive;124;2012;7;19
+1_735068_24;9;Passengers;5;road vehicle;5;2012;7;19
+1_735073_12;59;Passengers;33;road vehicle;5;2012;7;24
+0_735073_65;14288;Oil;117;monorail locomotive;242;2012;7;24
+1_735074_63;360;Wood;22;road vehicle;27;2012;7;25
+1_735076_2;11;Passengers;5;road vehicle;6;2012;7;27
+0_735076_49;208;Livestock;16;road vehicle;25;2012;7;27
+0_735080_22;52;Passengers;37;road vehicle;4;2012;7;31
+1_735080_37;2153;Mail;78;ship;50;2012;7;31
+3_735081_36;354;Grain;25;road vehicle;25;2012;8;1
+2_735082_23;3187;Goods;190;ship;23;2012;8;2
+0_735082_50;39;Passengers;22;road vehicle;5;2012;8;2
+0_735085_1;695;Coal;25;road vehicle;39;2012;8;5
+0_735087_36;43;Passengers;24;road vehicle;5;2012;8;7
+2_735088_10;29;Passengers;21;road vehicle;4;2012;8;8
+3_735088_28;450;Iron Ore;25;road vehicle;29;2012;8;8
+4_735088_36;360;Wood;22;road vehicle;27;2012;8;8
+1_735089_2;3574;Goods;58;railway locomotive;85;2012;8;9
+2_735090_2;533;Goods;18;road vehicle;40;2012;8;10
+0_735090_30;3629;Goods;58;railway locomotive;85;2012;8;10
+0_735092_18;13;Passengers;6;road vehicle;6;2012;8;12
+1_735092_46;7852;Mail;67;electrified railway locomotive;212;2012;8;12
+0_735093_5;9;Passengers;5;road vehicle;5;2012;8;13
+0_735095_45;208;Livestock;16;road vehicle;25;2012;8;15
+2_735097_21;4;Passengers;2;road vehicle;6;2012;8;17
+0_735097_24;695;Coal;25;road vehicle;39;2012;8;17
+1_735097_52;34;Passengers;19;road vehicle;5;2012;8;17
+1_735100_56;360;Wood;22;road vehicle;27;2012;8;20
+0_735101_21;1845;Iron Ore;60;railway locomotive;50;2012;8;21
+1_735101_44;10;Passengers;6;road vehicle;5;2012;8;21
+0_735102_46;25;Passengers;18;road vehicle;4;2012;8;22
+2_735103_22;360;Grain;25;road vehicle;25;2012;8;23
+1_735104_28;3188;Livestock;50;electrified railway locomotive;124;2012;8;24
+3_735104_48;4579;Steel;40;railway locomotive;171;2012;8;24
+0_735104_62;1;Passengers;1;road vehicle;4;2012;8;24
+0_735105_59;1600;Mail;63;ship;46;2012;8;25
+1_735107_57;3145;Goods;190;ship;23;2012;8;27
+0_735108_47;25;Passengers;14;road vehicle;5;2012;8;28
+1_735110_9;3;Passengers;2;road vehicle;5;2012;8;30
+0_735113_3;12620;Grain;180;electrified railway locomotive;124;2012;9;2
+1_735113_29;15;Passengers;7;road vehicle;6;2012;9;2
+3_735114_10;4;Passengers;2;road vehicle;6;2012;9;3
+2_735114_29;360;Wood;22;road vehicle;27;2012;9;3
+0_735114_41;208;Livestock;16;road vehicle;25;2012;9;3
+1_735115_5;450;Iron Ore;25;road vehicle;29;2012;9;4
+1_735117_42;3281;Mail;28;electrified railway locomotive;212;2012;9;6
+2_735118_4;9;Passengers;5;road vehicle;5;2012;9;7
+1_735118_63;30;Passengers;17;road vehicle;5;2012;9;7
+0_735119_54;14540;Oil;350;ship;78;2012;9;8
+2_735120_13;695;Coal;25;road vehicle;39;2012;9;9
+1_735123_13;17;Passengers;12;road vehicle;4;2012;9;12
+2_735123_57;35;Passengers;25;road vehicle;4;2012;9;12
+3_735124_12;529;Goods;18;road vehicle;40;2012;9;13
+1_735125_8;360;Grain;25;road vehicle;25;2012;9;14
+0_735125_62;12866;Oil;117;monorail locomotive;242;2012;9;14
+2_735126_11;6851;Steel;60;electrified railway locomotive;171;2012;9;15
+1_735126_39;12892;Mail;90;aircraft;259;2012;9;15
+3_735126_49;360;Wood;22;road vehicle;27;2012;9;15
+3_735128_54;5;Passengers;3;road vehicle;5;2012;9;17
+2_735129_14;27;Passengers;15;road vehicle;5;2012;9;18
+0_735129_35;3606;Goods;58;railway locomotive;85;2012;9;18
+1_735130_33;3661;Goods;58;railway locomotive;85;2012;9;19
+0_735132_19;3187;Goods;190;ship;23;2012;9;21
+1_735132_36;695;Coal;25;road vehicle;39;2012;9;21
+1_735133_36;20;Passengers;9;road vehicle;6;2012;9;22
+0_735133_37;208;Livestock;16;road vehicle;25;2012;9;22
+0_735136_9;363;Mail;22;ship;30;2012;9;25
+2_735137_19;9;Passengers;5;road vehicle;5;2012;9;26
+0_735137_53;27;Passengers;15;road vehicle;5;2012;9;26
+0_735140_22;360;Wood;22;road vehicle;27;2012;9;29
+1_735141_37;14;Passengers;10;road vehicle;4;2012;9;30
+0_735141_56;450;Iron Ore;25;road vehicle;29;2012;9;30
+2_735141_57;21;Passengers;15;road vehicle;4;2012;9;30
+0_735146_23;1844;Iron Ore;60;railway locomotive;50;2012;10;5
+2_735146_66;9;Passengers;5;road vehicle;5;2012;10;5
+0_735146_72;18;Passengers;10;road vehicle;5;2012;10;5
+1_735147_42;5743;Mail;49;electrified railway locomotive;212;2012;10;6
+0_735148_25;360;Grain;25;road vehicle;25;2012;10;7
+1_735151_14;11;Passengers;5;road vehicle;6;2012;10;10
+2_735151_48;13;Passengers;6;road vehicle;6;2012;10;10
+3_735152_33;208;Livestock;16;road vehicle;25;2012;10;11
+1_735152_42;360;Wood;22;road vehicle;27;2012;10;11
+0_735152_55;3155;Livestock;50;electrified railway locomotive;124;2012;10;11
+0_735155_25;695;Coal;25;road vehicle;39;2012;10;14
+2_735155_35;532;Goods;18;road vehicle;40;2012;10;14
+4_735155_39;9;Passengers;5;road vehicle;5;2012;10;14
+3_735156_3;23;Passengers;13;road vehicle;5;2012;10;15
+1_735157_22;12630;Grain;180;electrified railway locomotive;124;2012;10;16
+5_735157_62;3183;Goods;190;ship;23;2012;10;16
+0_735159_61;11;Passengers;8;road vehicle;4;2012;10;18
+1_735160_7;21;Passengers;15;road vehicle;4;2012;10;19
+0_735163_51;2760;Mail;100;ship;50;2012;10;22
+1_735164_9;11746;Mail;82;aircraft;259;2012;10;23
+2_735166_9;18;Passengers;10;road vehicle;5;2012;10;25
+0_735166_15;360;Wood;22;road vehicle;27;2012;10;25
+1_735166_35;28;Passengers;16;road vehicle;5;2012;10;25
+0_735167_48;695;Coal;25;road vehicle;39;2012;10;26
+1_735168_33;450;Iron Ore;25;road vehicle;29;2012;10;27
+0_735170_11;360;Grain;25;road vehicle;25;2012;10;29
+0_735170_51;11;Passengers;5;road vehicle;6;2012;10;29
+2_735170_73;22;Passengers;10;road vehicle;6;2012;10;29
+0_735172_44;208;Livestock;16;road vehicle;25;2012;10;31
+1_735175_46;18;Passengers;10;road vehicle;5;2012;11;3
+0_735176_11;28;Passengers;16;road vehicle;5;2012;11;4
+3_735180_35;21;Passengers;15;road vehicle;4;2012;11;8
+1_735181_38;3562;Goods;58;railway locomotive;85;2012;11;9
+2_735182_15;3188;Goods;190;ship;23;2012;11;10
+0_735182_32;17144;Oil;350;ship;91;2012;11;10
+0_735183_50;533;Goods;18;road vehicle;40;2012;11;11
+2_735184_36;360;Wood;22;road vehicle;27;2012;11;12
+1_735185_9;3588;Goods;58;railway locomotive;85;2012;11;13
+0_735185_54;29;Passengers;21;road vehicle;4;2012;11;13
+0_735187_9;32;Passengers;18;road vehicle;5;2012;11;15
+1_735189_39;2286;Mail;90;ship;46;2012;11;17
+2_735190_36;3399;Mail;29;electrified railway locomotive;212;2012;11;18
+3_735190_37;695;Coal;25;road vehicle;39;2012;11;18
+1_735190_49;7;Passengers;4;road vehicle;5;2012;11;18
+0_735191_15;1852;Iron Ore;60;railway locomotive;50;2012;11;19
+2_735191_71;359;Grain;25;road vehicle;25;2012;11;19
+1_735192_8;360;Wood;22;road vehicle;27;2012;11;20
+0_735192_31;24;Passengers;11;road vehicle;6;2012;11;20
+1_735194_35;208;Livestock;16;road vehicle;25;2012;11;22
+1_735194_65;4;Passengers;2;road vehicle;6;2012;11;22
+0_735196_68;11601;Oil;117;monorail locomotive;242;2012;11;24
+2_735197_27;450;Iron Ore;25;road vehicle;29;2012;11;25
+1_735197_44;3171;Livestock;50;electrified railway locomotive;124;2012;11;25
+3_735197_65;28;Passengers;16;road vehicle;5;2012;11;25
+0_735198_32;1;Passengers;1;road vehicle;5;2012;11;26
+1_735200_31;4454;Steel;40;railway locomotive;171;2012;11;28
+3_735202_19;10;Passengers;7;road vehicle;4;2012;11;30
+2_735202_59;28;Passengers;20;road vehicle;4;2012;11;30
+1_735202_60;699;Coal;25;road vehicle;39;2012;11;30
+0_735202_63;12623;Grain;180;electrified railway locomotive;124;2012;11;30
+1_735207_45;10314;Mail;72;aircraft;259;2012;12;5
+2_735207_54;9;Passengers;5;road vehicle;5;2012;12;5
+0_735207_58;3183;Goods;190;ship;23;2012;12;5
+1_735208_14;18;Passengers;10;road vehicle;5;2012;12;6
+0_735210_27;360;Wood;22;road vehicle;27;2012;12;8
+1_735210_67;534;Goods;18;road vehicle;40;2012;12;8
+0_735212_41;462;Mail;28;ship;30;2012;12;10
+0_735216_15;359;Grain;25;road vehicle;25;2012;12;14
+1_735217_3;208;Livestock;16;road vehicle;25;2012;12;15
+2_735218_16;6702;Steel;60;electrified railway locomotive;171;2012;12;16
+0_735220_13;22;Passengers;10;road vehicle;6;2012;12;18
+2_735223_23;9;Passengers;4;road vehicle;6;2012;12;21
+0_735224_4;450;Iron Ore;25;road vehicle;29;2012;12;22
+0_735225_61;360;Wood;22;road vehicle;27;2012;12;23
+1_735226_8;9962;Mail;85;electrified railway locomotive;212;2012;12;24
+2_735226_52;3618;Goods;58;railway locomotive;85;2012;12;24
+1_735227_6;3;Passengers;2;road vehicle;5;2012;12;25
+0_735227_32;695;Coal;25;road vehicle;39;2012;12;25
+1_735234_16;52;Passengers;37;road vehicle;4;2013;1;1
+0_735234_53;3581;Goods;58;railway locomotive;85;2013;1;1
+2_735235_6;66;Passengers;37;road vehicle;5;2013;1;2
+3_735236_17;1845;Iron Ore;60;railway locomotive;50;2013;1;3
+4_735236_27;3175;Goods;190;ship;23;2013;1;3
+0_735237_7;208;Livestock;16;road vehicle;25;2013;1;4
+1_735237_58;360;Wood;22;road vehicle;27;2013;1;4
+0_735238_34;533;Goods;18;road vehicle;40;2013;1;5
+0_735240_40;31;Passengers;22;road vehicle;4;2013;1;7
+1_735240_64;359;Grain;25;road vehicle;25;2013;1;7
+2_735241_30;45;Passengers;25;road vehicle;5;2013;1;8
+0_735242_56;694;Coal;25;road vehicle;39;2013;1;9
+2_735245_35;1;Passengers;1;road vehicle;5;2013;1;12
+0_735245_56;3201;Livestock;50;electrified railway locomotive;124;2013;1;12
+0_735247_24;44;Passengers;20;road vehicle;6;2013;1;14
+1_735248_65;14466;Oil;117;monorail locomotive;242;2013;1;15
+0_735249_28;5873;Mail;41;aircraft;259;2013;1;16
+2_735249_48;12732;Grain;180;electrified railway locomotive;124;2013;1;16
+1_735249_68;4;Passengers;2;road vehicle;6;2013;1;16
+0_735250_55;450;Iron Ore;25;road vehicle;29;2013;1;17
+2_735250_65;2456;Mail;89;ship;50;2013;1;17
+3_735251_14;14477;Oil;350;ship;78;2013;1;18
+1_735251_46;360;Wood;22;road vehicle;27;2013;1;18
+4_735252_51;4805;Mail;41;electrified railway locomotive;212;2013;1;19
+1_735253_35;3;Passengers;2;road vehicle;5;2013;1;20
+0_735253_64;54;Passengers;30;road vehicle;5;2013;1;20
+0_735256_3;208;Livestock;16;road vehicle;25;2013;1;23
+0_735257_48;10;Passengers;7;road vehicle;4;2013;1;24
+1_735257_69;21;Passengers;15;road vehicle;4;2013;1;24
+0_735262_44;695;Coal;25;road vehicle;39;2013;1;29
+3_735263_24;9;Passengers;5;road vehicle;5;2013;1;30
+1_735263_49;360;Wood;22;road vehicle;27;2013;1;30
+0_735263_49;23;Passengers;13;road vehicle;5;2013;1;30
+2_735264_30;359;Grain;25;road vehicle;25;2013;1;31
+0_735266_59;533;Goods;18;road vehicle;40;2013;2;2
+0_735267_65;4;Passengers;2;road vehicle;6;2013;2;3
+1_735268_14;22;Passengers;10;road vehicle;6;2013;2;4
+2_735270_28;3164;Goods;190;ship;23;2013;2;6
+1_735272_37;16;Passengers;9;road vehicle;5;2013;2;8
+0_735272_54;27;Passengers;15;road vehicle;5;2013;2;8
+0_735274_73;208;Livestock;16;road vehicle;25;2013;2;10
+1_735275_21;3584;Goods;58;railway locomotive;85;2013;2;11
+2_735276_59;3652;Goods;58;railway locomotive;85;2013;2;12
+0_735277_32;450;Iron Ore;25;road vehicle;29;2013;2;13
+1_735277_37;360;Wood;22;road vehicle;27;2013;2;13
+3_735277_48;22;Passengers;16;road vehicle;4;2013;2;13
+4_735277_49;28;Passengers;20;road vehicle;4;2013;2;13
+2_735278_19;2184;Mail;86;ship;46;2013;2;14
+5_735278_57;6446;Mail;55;electrified railway locomotive;212;2013;2;14
+0_735279_50;695;Coal;25;road vehicle;39;2013;2;15
+0_735282_10;4467;Steel;40;railway locomotive;171;2013;2;18
+3_735283_4;9;Passengers;5;road vehicle;5;2013;2;19
+0_735283_8;14;Passengers;8;road vehicle;5;2013;2;19
+1_735283_39;6833;Steel;60;electrified railway locomotive;171;2013;2;19
+2_735284_57;1840;Iron Ore;60;railway locomotive;50;2013;2;20
+0_735286_23;3176;Goods;190;ship;23;2013;2;22
+0_735287_24;11;Passengers;5;road vehicle;6;2013;2;23
+1_735287_47;3184;Livestock;50;electrified railway locomotive;124;2013;2;23
+2_735287_60;15;Passengers;7;road vehicle;6;2013;2;23
+1_735289_4;7019;Mail;49;aircraft;259;2013;2;25
+0_735289_40;360;Wood;22;road vehicle;27;2013;2;25
+2_735292_9;10;Passengers;6;road vehicle;5;2013;2;28
+1_735292_13;19;Passengers;11;road vehicle;5;2013;2;28
+0_735293_58;11365;Wood;117;monorail locomotive;161;2013;3;1
+2_735293_69;208;Livestock;16;road vehicle;25;2013;3;1
+1_735295_52;12621;Grain;180;electrified railway locomotive;124;2013;3;3
+0_735296_37;15;Passengers;11;road vehicle;4;2013;3;4
+2_735296_38;21;Passengers;15;road vehicle;4;2013;3;4
+1_735297_56;695;Coal;25;road vehicle;39;2013;3;5
+2_735299_2;532;Goods;18;road vehicle;40;2013;3;7
+1_735299_14;350;Grain;25;road vehicle;25;2013;3;7
+0_735300_59;13131;Oil;117;monorail locomotive;242;2013;3;8
+1_735301_15;412;Mail;25;ship;30;2013;3;9
+1_735301_72;18;Passengers;10;road vehicle;5;2013;3;9
+0_735302_13;16;Passengers;9;road vehicle;5;2013;3;10
+1_735303_28;360;Wood;22;road vehicle;27;2013;3;11
+2_735303_52;2461;Mail;21;electrified railway locomotive;212;2013;3;11
+3_735304_9;450;Iron Ore;25;road vehicle;29;2013;3;12
+1_735306_54;17;Passengers;8;road vehicle;6;2013;3;14
+2_735306_69;13;Passengers;6;road vehicle;6;2013;3;14
+0_735307_6;17146;Oil;350;ship;91;2013;3;15
+1_735310_60;9;Passengers;5;road vehicle;5;2013;3;18
+0_735311_3;10;Passengers;6;road vehicle;5;2013;3;19
+1_735312_65;208;Livestock;16;road vehicle;25;2013;3;20
+0_735313_59;3608;Goods;58;railway locomotive;85;2013;3;21
+1_735314_62;695;Coal;25;road vehicle;39;2013;3;22
+0_735315_27;15;Passengers;11;road vehicle;4;2013;3;23
+2_735315_28;21;Passengers;15;road vehicle;4;2013;3;23
+1_735316_44;360;Wood;22;road vehicle;27;2013;3;24
+0_735320_2;3662;Goods;58;railway locomotive;85;2013;3;28
+1_735320_57;9;Passengers;5;road vehicle;5;2013;3;28
+0_735320_62;12;Passengers;7;road vehicle;5;2013;3;28
+1_735322_30;360;Grain;25;road vehicle;25;2013;3;30
+0_735323_41;3176;Goods;190;ship;23;2013;3;31
+0_735325_4;11;Passengers;5;road vehicle;6;2013;4;2
+1_735325_39;20;Passengers;9;road vehicle;6;2013;4;2
+0_735326_20;533;Goods;18;road vehicle;40;2013;4;3
+1_735328_31;2318;Mail;84;ship;50;2013;4;5
+0_735329_18;5743;Mail;49;electrified railway locomotive;212;2013;4;6
+2_735329_19;360;Wood;22;road vehicle;27;2013;4;6
+3_735329_22;1;Passengers;1;road vehicle;5;2013;4;6
+1_735329_27;18;Passengers;10;road vehicle;5;2013;4;6
+0_735331_61;208;Livestock;16;road vehicle;25;2013;4;8
+4_735332_32;1856;Iron Ore;60;railway locomotive;50;2013;4;9
+0_735333_11;14;Passengers;10;road vehicle;4;2013;4;10
+2_735333_46;15;Passengers;11;road vehicle;4;2013;4;10
+1_735334_46;11441;Wood;117;monorail locomotive;161;2013;4;11
+0_735336_0;3159;Livestock;50;electrified railway locomotive;124;2013;4;13
+2_735336_19;3176;Goods;190;ship;23;2013;4;13
+0_735338_10;450;Iron Ore;25;road vehicle;29;2013;4;15
+0_735338_40;3;Passengers;2;road vehicle;5;2013;4;15
+1_735338_46;18;Passengers;10;road vehicle;5;2013;4;15
+1_735340_37;690;Coal;25;road vehicle;39;2013;4;17
+0_735341_62;12600;Grain;180;electrified railway locomotive;124;2013;4;18
+1_735342_62;9;Passengers;4;road vehicle;6;2013;4;19
+2_735342_65;11;Passengers;5;road vehicle;6;2013;4;19
+0_735343_63;360;Wood;22;road vehicle;27;2013;4;20
+2_735346_68;9;Passengers;5;road vehicle;5;2013;4;23
+1_735347_11;12;Passengers;7;road vehicle;5;2013;4;24
+0_735347_34;356;Grain;25;road vehicle;25;2013;4;24
+0_735350_0;695;Coal;25;road vehicle;39;2013;4;27
+0_735350_69;14;Passengers;10;road vehicle;4;2013;4;27
+1_735351_18;20;Passengers;14;road vehicle;4;2013;4;28
+0_735352_14;208;Livestock;16;road vehicle;25;2013;4;29
+0_735353_38;533;Goods;18;road vehicle;40;2013;4;30
+2_735354_13;2057;Mail;81;ship;46;2013;5;1
+1_735354_22;3650;Goods;58;railway locomotive;85;2013;5;1
+0_735355_10;360;Wood;22;road vehicle;27;2013;5;2
+1_735356_25;9;Passengers;5;road vehicle;5;2013;5;3
+0_735356_30;18;Passengers;10;road vehicle;5;2013;5;3
+0_735360_46;11;Passengers;5;road vehicle;6;2013;5;7
+1_735361_7;13;Passengers;6;road vehicle;6;2013;5;8
+2_735362_39;2695;Mail;23;electrified railway locomotive;212;2013;5;9
+0_735367_4;450;Iron Ore;25;road vehicle;29;2013;5;14
+4_735371_64;7;Passengers;4;road vehicle;5;2013;5;18
+1_735371_71;208;Livestock;16;road vehicle;25;2013;5;18
+3_735372_6;18;Passengers;10;road vehicle;5;2013;5;19
+0_735373_35;3657;Goods;58;railway locomotive;85;2013;5;20
+1_735374_22;4492;Steel;40;railway locomotive;171;2013;5;21
+5_735375_34;11441;Wood;117;monorail locomotive;161;2013;5;22
+0_735375_47;355;Grain;25;road vehicle;25;2013;5;22
+4_735376_30;21;Passengers;15;road vehicle;4;2013;5;23
+0_735376_58;22;Passengers;16;road vehicle;4;2013;5;23
+3_735376_64;360;Wood;22;road vehicle;27;2013;5;23
+0_735377_15;363;Mail;22;ship;30;2013;5;24
+1_735378_0;1842;Iron Ore;60;railway locomotive;50;2013;5;25
+0_735379_57;695;Coal;25;road vehicle;39;2013;5;26
+1_735380_56;534;Goods;18;road vehicle;40;2013;5;27
+0_735382_41;360;Wood;22;road vehicle;27;2013;5;29
+0_735384_56;6659;Steel;60;electrified railway locomotive;171;2013;5;31
+1_735385_12;695;Coal;25;road vehicle;39;2013;6;1
+1_735386_13;4110;Mail;31;aircraft;259;2013;6;2
+0_735387_51;3142;Livestock;50;electrified railway locomotive;124;2013;6;3
+1_735388_43;6094;Mail;52;electrified railway locomotive;212;2013;6;4
+0_735388_72;27;Passengers;15;road vehicle;5;2013;6;4
+1_735389_13;16;Passengers;9;road vehicle;5;2013;6;5
+2_735389_21;12576;Grain;180;electrified railway locomotive;124;2013;6;5
+0_735390_67;208;Livestock;16;road vehicle;25;2013;6;6
+0_735393_55;450;Iron Ore;25;road vehicle;29;2013;6;9
+1_735395_27;14094;Oil;350;ship;78;2013;6;11
+1_735397_57;33;Passengers;15;road vehicle;6;2013;6;13
+2_735398_1;26;Passengers;12;road vehicle;6;2013;6;14
+0_735398_38;11331;Oil;117;monorail locomotive;242;2013;6;14
+2_735402_53;18;Passengers;10;road vehicle;5;2013;6;18
+0_735402_63;3584;Goods;58;railway locomotive;85;2013;6;18
+1_735402_71;355;Grain;25;road vehicle;25;2013;6;18
+3_735402_71;10;Passengers;6;road vehicle;5;2013;6;18
+0_735404_21;360;Wood;22;road vehicle;27;2013;6;20
+0_735407_3;21;Passengers;15;road vehicle;4;2013;6;23
+1_735407_21;20;Passengers;14;road vehicle;4;2013;6;23
+2_735408_0;535;Goods;18;road vehicle;40;2013;6;24
+0_735408_32;360;Wood;22;road vehicle;27;2013;6;24
+0_735409_63;208;Livestock;16;road vehicle;25;2013;6;25
+0_735410_69;1738;Mail;63;ship;50;2013;6;26
+0_735413_4;27;Passengers;15;road vehicle;5;2013;6;29
+1_735413_21;25;Passengers;14;road vehicle;5;2013;6;29
+0_735414_69;695;Coal;25;road vehicle;39;2013;6;30
+2_735417_43;11;Passengers;5;road vehicle;6;2013;7;3
+1_735417_60;13;Passengers;6;road vehicle;6;2013;7;3
+0_735419_11;11441;Wood;117;monorail locomotive;161;2013;7;5
+2_735420_32;450;Iron Ore;25;road vehicle;29;2013;7;6
+1_735420_45;3614;Goods;58;railway locomotive;85;2013;7;6
+2_735421_43;3;Passengers;2;road vehicle;5;2013;7;7
+5_735421_46;9;Passengers;5;road vehicle;5;2013;7;7
+0_735422_12;3034;Goods;190;ship;23;2013;7;8
+4_735422_30;4571;Mail;39;electrified railway locomotive;212;2013;7;8
+3_735423_2;1843;Iron Ore;60;railway locomotive;50;2013;7;9
+1_735423_36;3173;Goods;190;ship;23;2013;7;9
+2_735425_48;14;Passengers;10;road vehicle;4;2013;7;11
+0_735425_63;8452;Mail;59;aircraft;259;2013;7;11
+1_735425_67;20;Passengers;14;road vehicle;4;2013;7;11
+3_735426_49;690;Coal;25;road vehicle;39;2013;7;12
+0_735428_55;2864;Mail;20;aircraft;259;2013;7;14
+0_735430_12;360;Wood;22;road vehicle;27;2013;7;16
+2_735430_53;355;Grain;25;road vehicle;25;2013;7;16
+3_735430_62;9;Passengers;5;road vehicle;5;2013;7;16
+1_735431_2;3190;Livestock;50;electrified railway locomotive;124;2013;7;17
+2_735431_23;14;Passengers;8;road vehicle;5;2013;7;17
+0_735431_41;208;Livestock;16;road vehicle;25;2013;7;17
+0_735434_23;360;Wood;22;road vehicle;27;2013;7;20
+1_735435_39;2;Passengers;1;road vehicle;6;2013;7;21
+0_735435_44;22;Passengers;10;road vehicle;6;2013;7;21
+2_735436_31;1828;Mail;72;ship;46;2013;7;22
+1_735439_27;5;Passengers;3;road vehicle;5;2013;7;25
+2_735439_30;9;Passengers;5;road vehicle;5;2013;7;25
+0_735440_35;12723;Grain;180;electrified railway locomotive;124;2013;7;26
+0_735442_21;529;Goods;18;road vehicle;40;2013;7;28
+1_735443_32;11;Passengers;8;road vehicle;4;2013;7;29
+0_735443_51;15;Passengers;11;road vehicle;4;2013;7;29
+0_735447_9;450;Iron Ore;25;road vehicle;29;2013;8;2
+0_735448_46;9;Passengers;5;road vehicle;5;2013;8;3
+2_735449_7;16;Passengers;9;road vehicle;5;2013;8;4
+0_735450_7;695;Coal;25;road vehicle;39;2013;8;5
+1_735450_35;14352;Oil;117;monorail locomotive;242;2013;8;5
+0_735451_45;208;Livestock;16;road vehicle;25;2013;8;6
+2_735452_49;3546;Goods;58;railway locomotive;85;2013;8;7
+2_735453_28;17;Passengers;8;road vehicle;6;2013;8;8
+1_735454_62;4591;Steel;40;railway locomotive;171;2013;8;9
+2_735455_8;359;Grain;25;road vehicle;25;2013;8;10
+4_735456_3;360;Wood;22;road vehicle;27;2013;8;11
+3_735456_24;6329;Mail;54;electrified railway locomotive;212;2013;8;11
+2_735457_14;16;Passengers;9;road vehicle;5;2013;8;12
+0_735457_25;16567;Oil;350;ship;91;2013;8;12
+2_735459_35;1287;Mail;26;ship;30;2013;8;14
+1_735459_73;11441;Wood;117;monorail locomotive;161;2013;8;14
+0_735460_25;3661;Goods;58;railway locomotive;85;2013;8;15
+1_735460_54;7;Passengers;5;road vehicle;4;2013;8;15
+2_735461_1;360;Wood;22;road vehicle;27;2013;8;16
+0_735461_39;28;Passengers;20;road vehicle;4;2013;8;16
+0_735463_43;696;Coal;25;road vehicle;39;2013;8;18
+1_735466_33;3;Passengers;2;road vehicle;5;2013;8;21
+2_735467_15;21;Passengers;12;road vehicle;5;2013;8;22
+0_735468_4;1843;Iron Ore;60;railway locomotive;50;2013;8;23
+1_735469_5;3663;Mail;29;aircraft;259;2013;8;24
+0_735471_15;20;Passengers;9;road vehicle;6;2013;8;26
+1_735473_49;533;Goods;18;road vehicle;40;2013;8;28
+0_735473_60;450;Iron Ore;25;road vehicle;29;2013;8;28
+1_735474_72;3;Passengers;2;road vehicle;5;2013;8;29
+2_735475_21;18;Passengers;10;road vehicle;5;2013;8;30
+0_735475_48;208;Livestock;16;road vehicle;25;2013;8;30
+1_735477_57;3159;Livestock;50;electrified railway locomotive;124;2013;9;1
+2_735478_57;7;Passengers;5;road vehicle;4;2013;9;2
+0_735478_63;3174;Goods;190;ship;23;2013;9;2
+1_735479_22;18;Passengers;13;road vehicle;4;2013;9;3
+0_735481_68;360;Wood;22;road vehicle;27;2013;9;5
+2_735482_35;356;Grain;25;road vehicle;25;2013;9;6
+1_735483_34;6329;Mail;54;electrified railway locomotive;212;2013;9;7
+2_735484_17;9;Passengers;5;road vehicle;5;2013;9;8
+3_735484_52;18;Passengers;10;road vehicle;5;2013;9;8
+0_735485_5;3172;Goods;190;ship;23;2013;9;9
+1_735485_19;695;Coal;25;road vehicle;39;2013;9;9
+0_735486_33;2014;Mail;73;ship;50;2013;9;10
+1_735486_62;360;Wood;22;road vehicle;27;2013;9;10
+3_735488_68;2;Passengers;1;road vehicle;6;2013;9;12
+0_735488_73;22;Passengers;10;road vehicle;6;2013;9;12
+2_735489_40;12536;Grain;180;electrified railway locomotive;124;2013;9;13
+1_735490_49;6583;Steel;60;electrified railway locomotive;171;2013;9;14
+0_735492_44;1393;Mail;10;aircraft;259;2013;9;16
+1_735492_56;7;Passengers;4;road vehicle;5;2013;9;16
+0_735493_17;10;Passengers;6;road vehicle;5;2013;9;17
+0_735494_44;208;Livestock;16;road vehicle;25;2013;9;18
+1_735497_11;14;Passengers;10;road vehicle;4;2013;9;21
+0_735497_50;27;Passengers;19;road vehicle;4;2013;9;21
+1_735498_55;695;Coal;25;road vehicle;39;2013;9;22
+0_735502_29;12859;Oil;117;monorail locomotive;242;2013;9;26
+2_735502_44;9;Passengers;5;road vehicle;5;2013;9;26
+1_735502_53;11441;Wood;117;monorail locomotive;161;2013;9;26
+0_735503_26;27;Passengers;15;road vehicle;5;2013;9;27
+0_735506_21;450;Iron Ore;25;road vehicle;29;2013;9;30
+1_735507_26;22;Passengers;10;road vehicle;6;2013;10;1
+0_735507_59;360;Wood;22;road vehicle;27;2013;10;1
+2_735508_1;529;Goods;18;road vehicle;40;2013;10;2
+0_735510_17;355;Grain;25;road vehicle;25;2013;10;4
+5_735511_9;5;Passengers;3;road vehicle;5;2013;10;5
+6_735511_32;18;Passengers;10;road vehicle;5;2013;10;5
+0_735511_37;7919;Mail;74;aircraft;259;2013;10;5
+1_735511_52;7969;Mail;68;electrified railway locomotive;212;2013;10;5
+4_735511_55;1702;Mail;67;ship;46;2013;10;5
+2_735512_69;1846;Iron Ore;60;railway locomotive;50;2013;10;6
+3_735513_26;3554;Goods;58;railway locomotive;85;2013;10;7
+1_735514_71;208;Livestock;16;road vehicle;25;2013;10;8
+0_735515_19;3559;Goods;58;railway locomotive;85;2013;10;9
+1_735515_38;14;Passengers;10;road vehicle;4;2013;10;9
+2_735516_3;27;Passengers;19;road vehicle;4;2013;10;10
+0_735519_1;360;Wood;22;road vehicle;27;2013;10;13
+0_735520_31;695;Coal;25;road vehicle;39;2013;10;14
+0_735520_71;5;Passengers;3;road vehicle;5;2013;10;14
+1_735521_33;18;Passengers;10;road vehicle;5;2013;10;15
+2_735525_53;20;Passengers;9;road vehicle;6;2013;10;19
+0_735526_13;14310;Oil;350;ship;78;2013;10;20
+1_735526_30;3154;Livestock;50;electrified railway locomotive;124;2013;10;20
+0_735529_36;3;Passengers;2;road vehicle;5;2013;10;23
+1_735529_59;18;Passengers;10;road vehicle;5;2013;10;23
+0_735532_20;6589;Mail;46;aircraft;259;2013;10;26
+2_735533_43;10;Passengers;7;road vehicle;4;2013;10;27
+1_735533_60;21;Passengers;15;road vehicle;4;2013;10;27
+0_735533_67;695;Coal;25;road vehicle;39;2013;10;27
+2_735534_54;208;Livestock;16;road vehicle;25;2013;10;28
+1_735535_15;450;Iron Ore;25;road vehicle;29;2013;10;29
+0_735536_36;533;Goods;18;road vehicle;40;2013;10;30
+0_735537_64;360;Wood;22;road vehicle;27;2013;10;31
+1_735538_10;355;Grain;25;road vehicle;25;2013;11;1
+2_735539_50;18;Passengers;10;road vehicle;5;2013;11;2
+3_735540_43;1089;Mail;22;ship;30;2013;11;3
+1_735540_62;4336;Mail;37;electrified railway locomotive;212;2013;11;3
+0_735541_23;12522;Grain;180;electrified railway locomotive;124;2013;11;4
+2_735543_41;11441;Wood;117;monorail locomotive;161;2013;11;6
+1_735545_62;14;Passengers;8;road vehicle;5;2013;11;8
+0_735546_34;360;Wood;22;road vehicle;27;2013;11;9
+0_735547_45;28;Passengers;13;road vehicle;6;2013;11;10
+5_735552_34;27;Passengers;15;road vehicle;5;2013;11;15
+1_735553_23;4516;Steel;40;railway locomotive;171;2013;11;16
+6_735553_41;2;Passengers;1;road vehicle;6;2013;11;16
+0_735553_41;3112;Goods;190;ship;23;2013;11;16
+5_735553_50;208;Livestock;16;road vehicle;25;2013;11;16
+3_735553_53;17180;Passengers;175;aircraft;259;2013;11;16
+4_735554_24;3630;Goods;58;railway locomotive;85;2013;11;17
+2_735554_33;1849;Iron Ore;60;railway locomotive;50;2013;11;17
+0_735557_26;695;Coal;25;road vehicle;39;2013;11;20
+1_735557_71;9;Passengers;5;road vehicle;5;2013;11;20
+0_735559_44;52;Passengers;37;road vehicle;4;2013;11;22
+1_735561_66;450;Iron Ore;25;road vehicle;29;2013;11;24
+1_735562_73;27;Passengers;19;road vehicle;4;2013;11;25
+0_735563_0;3626;Goods;58;railway locomotive;85;2013;11;26
+2_735563_54;533;Goods;18;road vehicle;40;2013;11;26
+0_735565_21;360;Wood;22;road vehicle;27;2013;11;28
+1_735565_34;355;Grain;25;road vehicle;25;2013;11;28
+0_735567_24;46;Passengers;26;road vehicle;5;2013;11;30
+1_735567_39;2097;Mail;76;ship;50;2013;11;30
+0_735567_54;1;Passengers;1;road vehicle;5;2013;11;30
+2_735567_73;8087;Mail;69;electrified railway locomotive;212;2013;11;30
+1_735569_5;695;Coal;25;road vehicle;39;2013;12;2
+0_735571_19;3162;Livestock;50;electrified railway locomotive;124;2013;12;4
+4_735572_8;11;Passengers;5;road vehicle;6;2013;12;5
+1_735572_27;360;Wood;22;road vehicle;27;2013;12;5
+0_735572_46;208;Livestock;16;road vehicle;25;2013;12;5
+2_735572_46;28;Passengers;13;road vehicle;6;2013;12;5
+1_735576_29;1;Passengers;1;road vehicle;5;2013;12;9
+2_735576_51;18;Passengers;10;road vehicle;5;2013;12;9
+0_735577_67;17140;Oil;350;ship;91;2013;12;10
+0_735580_67;6668;Steel;60;electrified railway locomotive;171;2013;12;13
+2_735581_45;27;Passengers;19;road vehicle;4;2013;12;14
+1_735581_63;35;Passengers;25;road vehicle;4;2013;12;14
+0_735587_23;10;Passengers;6;road vehicle;5;2013;12;20
+1_735587_38;18;Passengers;10;road vehicle;5;2013;12;20
+2_735588_43;450;Iron Ore;25;road vehicle;29;2013;12;21
+0_735590_25;6483;Mail;63;aircraft;259;2013;12;23
+3_735590_72;533;Goods;18;road vehicle;40;2013;12;23
+1_735591_12;360;Wood;22;road vehicle;27;2013;12;24
+1_735591_39;11;Passengers;5;road vehicle;6;2013;12;24
+3_735591_54;9;Passengers;4;road vehicle;6;2013;12;24
+0_735592_38;695;Coal;25;road vehicle;39;2013;12;25
+1_735593_16;356;Grain;25;road vehicle;25;2013;12;26
+3_735593_23;2082;Mail;82;ship;46;2013;12;26
+2_735593_49;11441;Wood;117;monorail locomotive;161;2013;12;26
+0_735594_4;208;Livestock;16;road vehicle;25;2013;12;27
+4_735595_44;9;Passengers;5;road vehicle;5;2013;12;28
+3_735595_62;10;Passengers;6;road vehicle;5;2013;12;28
+1_735597_50;3584;Goods;58;railway locomotive;85;2013;12;30
+0_735598_1;11258;Oil;117;monorail locomotive;242;2013;12;31
+6_735598_20;360;Wood;22;road vehicle;27;2013;12;31
+2_735598_26;12411;Grain;180;electrified railway locomotive;124;2013;12;31
+4_735598_38;4219;Mail;36;electrified railway locomotive;212;2013;12;31
+5_735599_33;2981;Goods;190;ship;23;2014;1;1
+3_735599_35;1843;Iron Ore;60;railway locomotive;50;2014;1;1
+0_735600_56;24;Passengers;17;road vehicle;4;2014;1;2
+1_735600_56;28;Passengers;20;road vehicle;4;2014;1;2
+0_735603_28;3186;Goods;190;ship;23;2014;1;5
+0_735604_21;5134;Mail;37;aircraft;259;2014;1;6
+1_735606_16;18;Passengers;10;road vehicle;5;2014;1;8
+2_735606_31;16;Passengers;9;road vehicle;5;2014;1;8
+0_735608_25;3657;Goods;58;railway locomotive;85;2014;1;10
+0_735610_32;11;Passengers;5;road vehicle;6;2014;1;12
+1_735610_47;9;Passengers;4;road vehicle;6;2014;1;12
+0_735612_1;690;Coal;25;road vehicle;39;2014;1;14
+0_735614_8;208;Livestock;16;road vehicle;25;2014;1;16
+2_735614_37;9;Passengers;5;road vehicle;5;2014;1;16
+0_735614_55;16;Passengers;9;road vehicle;5;2014;1;16
+1_735615_20;450;Iron Ore;25;road vehicle;29;2014;1;17
+1_735616_25;1386;Mail;28;ship;30;2014;1;18
+0_735617_3;360;Wood;22;road vehicle;27;2014;1;19
+2_735618_59;3199;Livestock;50;electrified railway locomotive;124;2014;1;20
+1_735619_49;21;Passengers;15;road vehicle;4;2014;1;21
+0_735620_15;32;Passengers;23;road vehicle;4;2014;1;22
+0_735622_52;532;Goods;18;road vehicle;40;2014;1;24
+0_735624_13;360;Wood;22;road vehicle;27;2014;1;26
+1_735625_49;7735;Mail;66;electrified railway locomotive;212;2014;1;27
+0_735625_49;10;Passengers;6;road vehicle;5;2014;1;27
+2_735626_10;23;Passengers;13;road vehicle;5;2014;1;28
+0_735627_50;695;Coal;25;road vehicle;39;2014;1;29
+2_735630_26;2;Passengers;1;road vehicle;6;2014;2;1
+0_735630_28;351;Grain;25;road vehicle;25;2014;2;1
+1_735630_31;22;Passengers;10;road vehicle;6;2014;2;1
+2_735633_32;208;Livestock;16;road vehicle;25;2014;2;4
+1_735634_1;4473;Steel;40;railway locomotive;171;2014;2;5
+2_735634_14;9;Passengers;5;road vehicle;5;2014;2;5
+0_735634_37;11441;Wood;117;monorail locomotive;161;2014;2;5
+1_735634_49;18;Passengers;10;road vehicle;5;2014;2;5
+2_735638_73;20;Passengers;14;road vehicle;4;2014;2;9
+1_735639_8;28;Passengers;20;road vehicle;4;2014;2;10
+4_735640_58;6903;Steel;60;electrified railway locomotive;171;2014;2;11
+3_735640_68;17680;Passengers;180;aircraft;259;2014;2;11
+0_735640_73;1853;Iron Ore;60;railway locomotive;50;2014;2;11
+1_735641_71;450;Iron Ore;25;road vehicle;29;2014;2;12
+0_735642_68;360;Wood;22;road vehicle;27;2014;2;13
+0_735644_2;9;Passengers;5;road vehicle;5;2014;2;15
+2_735644_33;18;Passengers;10;road vehicle;5;2014;2;15
+0_735645_35;7449;Mail;52;aircraft;259;2014;2;16
+1_735646_43;3550;Goods;58;railway locomotive;85;2014;2;17
+0_735648_56;12523;Grain;180;electrified railway locomotive;124;2014;2;19
+3_735648_58;22;Passengers;10;road vehicle;6;2014;2;19
+1_735648_69;695;Coal;25;road vehicle;39;2014;2;19
+0_735649_70;536;Goods;18;road vehicle;40;2014;2;20
+2_735649_72;14357;Oil;117;monorail locomotive;242;2014;2;20
+1_735652_41;5;Passengers;3;road vehicle;5;2014;2;23
+2_735652_63;18;Passengers;10;road vehicle;5;2014;2;23
+3_735653_43;208;Livestock;16;road vehicle;25;2014;2;24
+1_735653_61;1628;Mail;59;ship;50;2014;2;24
+2_735655_4;357;Grain;25;road vehicle;25;2014;2;26
+0_735655_70;14378;Oil;350;ship;78;2014;2;26
+2_735656_69;14;Passengers;10;road vehicle;4;2014;2;27
+0_735657_35;25;Passengers;18;road vehicle;4;2014;2;28
+1_735658_5;3586;Goods;58;railway locomotive;85;2014;3;1
+0_735658_66;360;Wood;22;road vehicle;27;2014;3;1
+2_735659_24;4922;Mail;42;electrified railway locomotive;212;2014;3;2
+0_735662_62;695;Coal;25;road vehicle;39;2014;3;5
+2_735662_69;14;Passengers;8;road vehicle;5;2014;3;5
+3_735663_30;27;Passengers;15;road vehicle;5;2014;3;6
+1_735664_54;3160;Livestock;50;electrified railway locomotive;124;2014;3;7
+0_735667_51;22;Passengers;10;road vehicle;6;2014;3;10
+1_735668_48;450;Iron Ore;25;road vehicle;29;2014;3;11
+0_735671_34;9;Passengers;5;road vehicle;5;2014;3;14
+1_735672_2;21;Passengers;12;road vehicle;5;2014;3;15
+2_735673_70;208;Livestock;16;road vehicle;25;2014;3;16
+1_735674_68;3109;Goods;190;ship;23;2014;3;17
+0_735675_25;11441;Wood;117;monorail locomotive;161;2014;3;18
+2_735675_62;360;Wood;22;road vehicle;27;2014;3;18
+1_735676_48;17;Passengers;12;road vehicle;4;2014;3;19
+2_735677_14;533;Goods;18;road vehicle;40;2014;3;20
+0_735677_34;36;Passengers;26;road vehicle;4;2014;3;20
+0_735680_26;3186;Goods;190;ship;23;2014;3;23
+2_735680_54;6718;Mail;61;aircraft;259;2014;3;23
+3_735681_21;2108;Mail;83;ship;46;2014;3;24
+1_735682_27;1860;Iron Ore;60;railway locomotive;50;2014;3;25
+0_735682_28;1;Passengers;1;road vehicle;5;2014;3;25
+2_735683_9;27;Passengers;15;road vehicle;5;2014;3;26
+0_735684_7;695;Coal;25;road vehicle;39;2014;3;27
+1_735684_57;360;Wood;22;road vehicle;27;2014;3;27
+0_735687_50;24;Passengers;11;road vehicle;6;2014;3;30
+1_735690_37;352;Grain;25;road vehicle;25;2014;4;2
+0_735691_0;3624;Goods;58;railway locomotive;85;2014;4;3
+1_735691_35;18;Passengers;10;road vehicle;5;2014;4;3
+1_735693_20;208;Livestock;16;road vehicle;25;2014;4;5
+0_735693_68;8087;Mail;69;electrified railway locomotive;212;2014;4;5
+1_735695_61;17;Passengers;12;road vehicle;4;2014;4;7
+0_735696_27;35;Passengers;25;road vehicle;4;2014;4;8
+1_735697_42;450;Iron Ore;25;road vehicle;29;2014;4;9
+0_735699_52;3657;Goods;58;railway locomotive;85;2014;4;11
+2_735700_38;12508;Grain;180;electrified railway locomotive;124;2014;4;12
+0_735701_55;360;Wood;22;road vehicle;27;2014;4;13
+1_735701_66;12936;Oil;117;monorail locomotive;242;2014;4;13
+3_735704_12;17150;Oil;350;ship;91;2014;4;16
+0_735704_32;533;Goods;18;road vehicle;40;2014;4;16
+1_735704_43;1533;Mail;31;ship;30;2014;4;16
+0_735706_67;695;Coal;25;road vehicle;39;2014;4;18
+0_735707_63;9;Passengers;5;road vehicle;5;2014;4;19
+0_735708_63;19;Passengers;11;road vehicle;5;2014;4;20
+1_735709_42;3176;Livestock;50;electrified railway locomotive;124;2014;4;21
+0_735712_14;360;Wood;22;road vehicle;27;2014;4;24
+0_735713_31;208;Livestock;16;road vehicle;25;2014;4;25
+0_735716_48;33;Passengers;15;road vehicle;6;2014;4;28
+1_735717_53;356;Grain;25;road vehicle;25;2014;4;29
+0_735719_19;695;Coal;25;road vehicle;39;2014;5;1
+1_735721_41;23;Passengers;13;road vehicle;5;2014;5;3
+4_735722_0;5643;Mail;41;aircraft;259;2014;5;4
+2_735722_70;17896;Passengers;180;aircraft;259;2014;5;4
+3_735723_5;5508;Mail;47;electrified railway locomotive;212;2014;5;5
+1_735724_19;450;Iron Ore;25;road vehicle;29;2014;5;6
+0_735724_29;11441;Wood;117;monorail locomotive;161;2014;5;6
+1_735725_65;20;Passengers;14;road vehicle;4;2014;5;7
+0_735726_38;42;Passengers;30;road vehicle;4;2014;5;8
+1_735729_14;360;Wood;22;road vehicle;27;2014;5;11
+2_735730_31;3184;Goods;190;ship;23;2014;5;12
+3_735730_34;4500;Steel;40;railway locomotive;171;2014;5;12
+0_735730_67;1835;Iron Ore;60;railway locomotive;50;2014;5;12
+2_735731_50;533;Goods;18;road vehicle;40;2014;5;13
+3_735731_65;2346;Mail;85;ship;50;2014;5;13
+0_735732_27;208;Livestock;16;road vehicle;25;2014;5;14
+2_735732_39;19;Passengers;11;road vehicle;5;2014;5;14
+1_735732_64;3154;Goods;190;ship;23;2014;5;14
+3_735733_21;45;Passengers;25;road vehicle;5;2014;5;15
+0_735734_56;6740;Steel;60;electrified railway locomotive;171;2014;5;16
+4_735734_58;3616;Goods;58;railway locomotive;85;2014;5;16
+1_735736_39;3655;Goods;58;railway locomotive;85;2014;5;18
+2_735737_37;2;Passengers;1;road vehicle;6;2014;5;19
+1_735737_61;28;Passengers;13;road vehicle;6;2014;5;19
+0_735738_5;360;Wood;22;road vehicle;27;2014;5;20
+1_735741_44;1;Passengers;1;road vehicle;5;2014;5;23
+2_735741_66;18;Passengers;10;road vehicle;5;2014;5;23
+0_735742_5;695;Coal;25;road vehicle;39;2014;5;24
+1_735746_38;20;Passengers;14;road vehicle;4;2014;5;28
+0_735747_4;29;Passengers;21;road vehicle;4;2014;5;29
+1_735750_70;450;Iron Ore;25;road vehicle;29;2014;6;1
+0_735750_70;3191;Livestock;50;electrified railway locomotive;124;2014;6;1
+2_735752_17;350;Grain;25;road vehicle;25;2014;6;3
+1_735752_38;12;Passengers;7;road vehicle;5;2014;6;3
+4_735752_73;27;Passengers;15;road vehicle;5;2014;6;3
+3_735753_5;208;Livestock;16;road vehicle;25;2014;6;4
+1_735754_31;695;Coal;25;road vehicle;39;2014;6;5
+0_735754_58;12454;Grain;180;electrified railway locomotive;124;2014;6;5
+3_735755_7;360;Wood;22;road vehicle;27;2014;6;6
+2_735755_61;8673;Mail;74;electrified railway locomotive;212;2014;6;6
+0_735757_11;1778;Mail;70;ship;46;2014;6;8
+1_735757_20;22;Passengers;10;road vehicle;6;2014;6;8
+0_735758_68;533;Goods;18;road vehicle;40;2014;6;9
+0_735761_3;1;Passengers;1;road vehicle;5;2014;6;12
+1_735761_25;18;Passengers;10;road vehicle;5;2014;6;12
+2_735761_50;6446;Mail;45;aircraft;259;2014;6;12
+0_735763_70;360;Wood;22;road vehicle;27;2014;6;14
+1_735764_62;5590;Mail;49;aircraft;259;2014;6;15
+2_735765_71;21;Passengers;15;road vehicle;4;2014;6;16
+1_735766_37;31;Passengers;22;road vehicle;4;2014;6;17
+0_735768_7;11441;Wood;117;monorail locomotive;161;2014;6;19
+0_735771_71;16;Passengers;9;road vehicle;5;2014;6;22
+1_735772_32;23;Passengers;13;road vehicle;5;2014;6;23
+0_735773_9;208;Livestock;16;road vehicle;25;2014;6;24
+2_735776_53;22;Passengers;10;road vehicle;6;2014;6;27
+5_735777_14;13;Passengers;6;road vehicle;6;2014;6;28
+0_735777_17;695;Coal;25;road vehicle;39;2014;6;28
+4_735777_47;450;Iron Ore;25;road vehicle;29;2014;6;28
+1_735778_46;3624;Goods;58;railway locomotive;85;2014;6;29
+3_735779_33;1831;Iron Ore;60;railway locomotive;50;2014;6;30
+0_735781_0;360;Wood;22;road vehicle;27;2014;7;2
+3_735781_4;9;Passengers;5;road vehicle;5;2014;7;2
+2_735781_42;19;Passengers;11;road vehicle;5;2014;7;2
+0_735782_47;355;Grain;25;road vehicle;25;2014;7;3
+3_735784_3;3634;Goods;58;railway locomotive;85;2014;7;5
+0_735784_52;5039;Mail;43;electrified railway locomotive;212;2014;7;5
+0_735785_66;21;Passengers;15;road vehicle;4;2014;7;6
+0_735786_26;1386;Mail;28;ship;30;2014;7;7
+1_735786_38;34;Passengers;24;road vehicle;4;2014;7;7
+1_735789_53;533;Goods;18;road vehicle;40;2014;7;10
+0_735789_61;360;Wood;22;road vehicle;27;2014;7;10
+3_735791_68;9;Passengers;5;road vehicle;5;2014;7;12
+0_735792_5;208;Livestock;16;road vehicle;25;2014;7;13
+1_735792_40;30;Passengers;17;road vehicle;5;2014;7;13
+2_735794_21;14302;Oil;350;ship;78;2014;7;15
+2_735796_58;22;Passengers;10;road vehicle;6;2014;7;17
+0_735797_1;690;Coal;25;road vehicle;39;2014;7;18
+1_735798_51;3199;Livestock;50;electrified railway locomotive;124;2014;7;19
+1_735801_5;23;Passengers;13;road vehicle;5;2014;7;22
+0_735801_60;12690;Grain;180;electrified railway locomotive;124;2014;7;22
+2_735802_44;4541;Steel;40;railway locomotive;171;2014;7;23
+0_735804_24;450;Iron Ore;25;road vehicle;29;2014;7;25
+0_735805_29;21;Passengers;15;road vehicle;4;2014;7;26
+2_735806_21;38;Passengers;27;road vehicle;4;2014;7;27
+1_735806_58;17896;Passengers;180;aircraft;259;2014;7;27
+0_735806_67;360;Wood;22;road vehicle;27;2014;7;27
+2_735808_38;6880;Steel;60;electrified railway locomotive;171;2014;7;29
+3_735808_69;11441;Wood;117;monorail locomotive;161;2014;7;29
+4_735808_72;11040;Oil;117;monorail locomotive;242;2014;7;29
+0_735811_62;208;Livestock;16;road vehicle;25;2014;8;1
+1_735812_3;34;Passengers;19;road vehicle;5;2014;8;2
+0_735813_27;2042;Mail;74;ship;50;2014;8;3
+0_735815_9;351;Grain;25;road vehicle;25;2014;8;5
+1_735815_52;360;Wood;22;road vehicle;27;2014;8;5
+3_735816_19;4;Passengers;2;road vehicle;6;2014;8;6
+0_735816_56;696;Coal;25;road vehicle;39;2014;8;6
+4_735816_61;24;Passengers;11;road vehicle;6;2014;8;6
+1_735816_71;533;Goods;18;road vehicle;40;2014;8;6
+2_735817_56;7735;Mail;66;electrified railway locomotive;212;2014;8;7
+0_735821_8;21;Passengers;12;road vehicle;5;2014;8;11
+0_735824_35;3606;Goods;58;railway locomotive;85;2014;8;14
+2_735824_66;8;Passengers;6;road vehicle;4;2014;8;14
+3_735825_36;28;Passengers;20;road vehicle;4;2014;8;15
+1_735826_65;1838;Iron Ore;60;railway locomotive;50;2014;8;16
+2_735830_68;9;Passengers;5;road vehicle;5;2014;8;20
+1_735831_40;34;Passengers;19;road vehicle;5;2014;8;21
+0_735832_4;3592;Goods;58;railway locomotive;85;2014;8;22
+2_735832_15;208;Livestock;16;road vehicle;25;2014;8;22
+0_735833_70;695;Coal;25;road vehicle;39;2014;8;23
+0_735835_58;17;Passengers;8;road vehicle;6;2014;8;25
+0_735837_33;450;Iron Ore;25;road vehicle;29;2014;8;27
+0_735838_49;1778;Mail;70;ship;46;2014;8;28
+2_735839_61;360;Wood;22;road vehicle;27;2014;8;29
+3_735839_65;9;Passengers;5;road vehicle;5;2014;8;29
+0_735840_50;30;Passengers;17;road vehicle;5;2014;8;30
+1_735841_8;3178;Livestock;50;electrified railway locomotive;124;2014;8;31
+2_735841_36;360;Wood;22;road vehicle;27;2014;8;31
+0_735842_54;355;Grain;25;road vehicle;25;2014;9;1
+1_735843_17;4453;Mail;38;electrified railway locomotive;212;2014;9;2
+2_735843_30;5507;Mail;49;aircraft;259;2014;9;2
+0_735844_15;533;Goods;18;road vehicle;40;2014;9;3
+2_735845_0;21;Passengers;15;road vehicle;4;2014;9;4
+0_735845_65;41;Passengers;29;road vehicle;4;2014;9;4
+1_735848_29;16605;Oil;350;ship;91;2014;9;7
+0_735849_57;11441;Wood;117;monorail locomotive;161;2014;9;8
+3_735851_1;1;Passengers;1;road vehicle;5;2014;9;10
+0_735851_11;208;Livestock;16;road vehicle;25;2014;9;10
+2_735851_48;36;Passengers;20;road vehicle;5;2014;9;10
+1_735851_68;695;Coal;25;road vehicle;39;2014;9;10
+0_735856_23;24;Passengers;11;road vehicle;6;2014;9;15
+0_735859_43;12381;Grain;180;electrified railway locomotive;124;2014;9;18
+1_735860_69;14126;Oil;117;monorail locomotive;242;2014;9;19
+0_735861_47;462;Mail;28;ship;30;2014;9;20
+1_735863_71;3654;Goods;58;railway locomotive;85;2014;9;22
+1_735866_0;360;Wood;22;road vehicle;27;2014;9;25
+0_735866_21;3656;Goods;58;railway locomotive;85;2014;9;25
+2_735866_27;450;Iron Ore;25;road vehicle;29;2014;9;25
+0_735867_1;1833;Mail;14;aircraft;259;2014;9;26
+1_735867_64;36;Passengers;20;road vehicle;5;2014;9;26
+0_735869_8;695;Coal;25;road vehicle;39;2014;9;28
+1_735869_70;356;Grain;25;road vehicle;25;2014;9;28
+2_735870_14;360;Wood;22;road vehicle;27;2014;9;29
+2_735871_22;208;Livestock;16;road vehicle;25;2014;9;30
+3_735871_33;533;Goods;18;road vehicle;40;2014;9;30
+1_735872_42;3018;Goods;190;ship;23;2014;10;1
+0_735872_53;1842;Iron Ore;60;railway locomotive;50;2014;10;1
+2_735872_58;27;Passengers;19;road vehicle;4;2014;10;1
+4_735873_5;2905;Goods;190;ship;23;2014;10;2
+3_735873_24;42;Passengers;30;road vehicle;4;2014;10;2
+0_735876_12;6797;Mail;58;electrified railway locomotive;212;2014;10;5
+1_735879_25;18;Passengers;10;road vehicle;5;2014;10;8
+0_735879_72;37;Passengers;21;road vehicle;5;2014;10;8
+1_735884_14;9;Passengers;4;road vehicle;6;2014;10;13
+2_735884_56;33;Passengers;15;road vehicle;6;2014;10;13
+0_735885_15;4494;Steel;40;railway locomotive;171;2014;10;14
+1_735888_27;1904;Mail;69;ship;50;2014;10;17
+2_735888_63;698;Coal;25;road vehicle;39;2014;10;17
+0_735889_35;3152;Livestock;50;electrified railway locomotive;124;2014;10;18
+4_735889_49;19;Passengers;11;road vehicle;5;2014;10;18
+3_735890_14;45;Passengers;25;road vehicle;5;2014;10;19
+1_735890_47;17760;Passengers;180;aircraft;259;2014;10;19
+0_735891_33;208;Livestock;16;road vehicle;25;2014;10;20
+0_735893_4;450;Iron Ore;25;road vehicle;29;2014;10;22
+1_735893_31;360;Wood;22;road vehicle;27;2014;10;22
+0_735895_8;22;Passengers;16;road vehicle;4;2014;10;24
+1_735895_28;35;Passengers;25;road vehicle;4;2014;10;24
+1_735897_45;360;Wood;22;road vehicle;27;2014;10;26
+2_735898_51;533;Goods;18;road vehicle;40;2014;10;27
+0_735899_56;11441;Wood;117;monorail locomotive;161;2014;10;28
+2_735901_3;18;Passengers;10;road vehicle;5;2014;10;30
+1_735901_9;27;Passengers;15;road vehicle;5;2014;10;30
+0_735902_36;3616;Goods;58;railway locomotive;85;2014;10;31
+0_735904_20;695;Coal;25;road vehicle;39;2014;11;2
+2_735904_34;351;Grain;25;road vehicle;25;2014;11;2
+1_735904_43;12631;Grain;180;electrified railway locomotive;124;2014;11;2
+0_735905_65;17;Passengers;8;road vehicle;6;2014;11;3
+1_735905_67;22;Passengers;10;road vehicle;6;2014;11;3
+2_735906_51;6016;Mail;42;aircraft;259;2014;11;4
+1_735910_29;208;Livestock;16;road vehicle;25;2014;11;8
+3_735911_6;27;Passengers;15;road vehicle;5;2014;11;9
+2_735911_25;36;Passengers;20;road vehicle;5;2014;11;9
+0_735911_30;3609;Goods;58;railway locomotive;85;2014;11;9
+1_735913_51;1651;Mail;65;ship;46;2014;11;11
+2_735915_8;4571;Mail;39;electrified railway locomotive;212;2014;11;13
+0_735915_63;12609;Oil;117;monorail locomotive;242;2014;11;13
+2_735917_25;42;Passengers;30;road vehicle;4;2014;11;15
+3_735917_50;45;Passengers;32;road vehicle;4;2014;11;15
+1_735917_55;1843;Iron Ore;60;railway locomotive;50;2014;11;15
+1_735919_22;360;Wood;22;road vehicle;27;2014;11;17
+2_735919_55;450;Iron Ore;25;road vehicle;29;2014;11;17
+3_735920_71;6718;Steel;60;electrified railway locomotive;171;2014;11;18
+0_735922_24;14396;Oil;350;ship;78;2014;11;20
+1_735922_46;3184;Goods;190;ship;23;2014;11;20
+3_735923_0;9;Passengers;5;road vehicle;5;2014;11;21
+0_735923_26;25;Passengers;14;road vehicle;5;2014;11;21
+2_735923_38;360;Wood;22;road vehicle;27;2014;11;21
+1_735924_1;697;Coal;25;road vehicle;39;2014;11;22
+0_735927_19;6086;Mail;54;aircraft;259;2014;11;25
+1_735927_56;22;Passengers;10;road vehicle;6;2014;11;25
+0_735929_73;532;Goods;18;road vehicle;40;2014;11;27
+1_735931_51;1;Passengers;1;road vehicle;5;2014;11;29
+0_735932_36;28;Passengers;16;road vehicle;5;2014;11;30
+0_735934_3;356;Grain;25;road vehicle;25;2014;12;2
+1_735934_44;3176;Livestock;50;electrified railway locomotive;124;2014;12;2
+0_735936_20;11;Passengers;8;road vehicle;4;2014;12;4
+3_735936_49;396;Mail;24;ship;30;2014;12;4
+1_735936_64;22;Passengers;16;road vehicle;4;2014;12;4
+2_735937_21;204;Livestock;16;road vehicle;25;2014;12;5
+4_735942_22;9;Passengers;5;road vehicle;5;2014;12;10
+1_735942_59;8087;Mail;69;electrified railway locomotive;212;2014;12;10
+3_735942_68;32;Passengers;18;road vehicle;5;2014;12;10
+2_735943_34;3134;Goods;190;ship;23;2014;12;11
+0_735943_34;11441;Wood;117;monorail locomotive;161;2014;12;11
+1_735944_45;360;Wood;22;road vehicle;27;2014;12;12
+0_735945_2;690;Coal;25;road vehicle;39;2014;12;13
+0_735946_32;450;Iron Ore;25;road vehicle;29;2014;12;14
+2_735947_14;3604;Goods;58;railway locomotive;85;2014;12;15
+1_735947_40;5730;Mail;40;aircraft;259;2014;12;15
+0_735947_44;26;Passengers;12;road vehicle;6;2014;12;15
+0_735949_31;360;Wood;22;road vehicle;27;2014;12;17
+1_735951_27;5;Passengers;3;road vehicle;5;2014;12;19
+0_735952_4;30;Passengers;17;road vehicle;5;2014;12;20
+1_735956_28;21;Passengers;15;road vehicle;4;2014;12;24
+3_735957_19;533;Goods;18;road vehicle;40;2014;12;25
+2_735957_27;42;Passengers;30;road vehicle;4;2014;12;25
+4_735957_32;208;Livestock;16;road vehicle;25;2014;12;25
+0_735958_18;3566;Goods;58;railway locomotive;85;2014;12;26
+1_735958_70;4548;Steel;40;railway locomotive;171;2014;12;26
+2_735959_13;696;Coal;25;road vehicle;39;2014;12;27
+3_735962_21;7;Passengers;4;road vehicle;5;2014;12;30
+0_735962_57;1843;Iron Ore;60;railway locomotive;50;2014;12;30
+2_735963_2;36;Passengers;20;road vehicle;5;2014;12;31
+1_735964_5;12444;Grain;180;electrified railway locomotive;124;2015;1;1
+1_735966_69;354;Grain;25;road vehicle;25;2015;1;3
+3_735967_20;20;Passengers;9;road vehicle;6;2015;1;4
+2_735968_20;4922;Mail;42;electrified railway locomotive;212;2015;1;5
+0_735969_2;17150;Oil;350;ship;91;2015;1;6
+1_735969_15;17896;Passengers;180;aircraft;259;2015;1;6
+2_735970_7;1932;Mail;70;ship;50;2015;1;7
+0_735970_32;360;Wood;22;road vehicle;27;2015;1;7
+0_735971_41;21;Passengers;12;road vehicle;5;2015;1;8
+1_735972_51;3184;Goods;190;ship;23;2015;1;9
+0_735973_9;450;Iron Ore;25;road vehicle;29;2015;1;10
+0_735976_33;208;Livestock;16;road vehicle;25;2015;1;13
+1_735976_63;360;Wood;22;road vehicle;27;2015;1;13
+1_735978_5;208;Livestock;16;road vehicle;25;2015;1;15
+1_735979_12;208;Livestock;16;road vehicle;25;2015;1;16
+0_735979_38;3183;Livestock;50;electrified railway locomotive;124;2015;1;16
+3_735982_22;11;Passengers;8;road vehicle;4;2015;1;19
+1_735982_37;360;Wood;22;road vehicle;27;2015;1;19
+2_735982_61;694;Coal;25;road vehicle;39;2015;1;19
+4_735982_65;28;Passengers;20;road vehicle;4;2015;1;19
+0_735984_22;11441;Wood;117;monorail locomotive;161;2015;1;21
+0_735985_45;535;Goods;18;road vehicle;40;2015;1;22
+1_735986_45;699;Coal;25;road vehicle;39;2015;1;23
+1_735988_6;695;Coal;25;road vehicle;39;2015;1;25
+0_735988_10;6899;Steel;60;electrified railway locomotive;171;2015;1;25
+0_735988_63;18;Passengers;10;road vehicle;5;2015;1;25
+1_735989_36;43;Passengers;24;road vehicle;5;2015;1;26
+2_735989_37;535;Goods;18;road vehicle;40;2015;1;26
+3_735991_37;3608;Goods;58;railway locomotive;85;2015;1;28
+0_735993_30;3183;Goods;190;ship;23;2015;1;30
+4_735994_11;31;Passengers;14;road vehicle;6;2015;1;31
+2_735994_25;696;Coal;25;road vehicle;39;2015;1;31
+3_735994_31;354;Grain;25;road vehicle;25;2015;1;31
+1_735994_66;6094;Mail;52;electrified railway locomotive;212;2015;1;31
+0_735995_31;1549;Mail;61;ship;46;2015;2;1
+1_735996_25;360;Wood;22;road vehicle;27;2015;2;2
+0_735996_44;208;Livestock;16;road vehicle;25;2015;2;2
+2_735997_68;7;Passengers;4;road vehicle;5;2015;2;3
+0_735998_42;208;Livestock;16;road vehicle;25;2015;2;4
+2_735998_42;5157;Mail;36;aircraft;259;2015;2;4
+1_735998_46;36;Passengers;20;road vehicle;5;2015;2;4
+0_735999_53;208;Livestock;16;road vehicle;25;2015;2;5
+3_735999_60;450;Iron Ore;25;road vehicle;29;2015;2;5
+0_736003_40;24;Passengers;17;road vehicle;4;2015;2;9
+1_736004_6;42;Passengers;30;road vehicle;4;2015;2;10
+2_736004_10;360;Wood;22;road vehicle;27;2015;2;10
+0_736007_49;1848;Iron Ore;60;railway locomotive;50;2015;2;13
+2_736009_41;9;Passengers;5;road vehicle;5;2015;2;15
+0_736009_43;360;Wood;22;road vehicle;27;2015;2;15
+1_736010_14;30;Passengers;17;road vehicle;5;2015;2;16
+2_736011_7;5765;Mail;51;aircraft;259;2015;2;17
+0_736012_23;3554;Goods;58;railway locomotive;85;2015;2;18
+0_736013_60;533;Goods;18;road vehicle;40;2015;2;19
+0_736015_4;33;Passengers;15;road vehicle;6;2015;2;21
+0_736016_55;208;Livestock;16;road vehicle;25;2015;2;22
+2_736017_57;208;Livestock;16;road vehicle;25;2015;2;23
+1_736017_71;698;Coal;25;road vehicle;39;2015;2;23
+0_736018_29;446;Mail;27;ship;30;2015;2;24
+1_736019_23;536;Goods;18;road vehicle;40;2015;2;25
+2_736021_64;698;Coal;25;road vehicle;39;2015;2;27
+3_736022_13;355;Grain;25;road vehicle;25;2015;2;28
+4_736022_18;360;Wood;22;road vehicle;27;2015;2;28
+0_736022_63;12399;Grain;180;electrified railway locomotive;124;2015;2;28
+2_736023_1;208;Livestock;16;road vehicle;25;2015;3;1
+1_736023_10;3660;Goods;58;railway locomotive;85;2015;3;1
+7_736023_26;695;Coal;25;road vehicle;39;2015;3;1
+8_736023_57;4453;Mail;38;electrified railway locomotive;212;2015;3;1
+0_736024_5;7;Passengers;4;road vehicle;5;2015;3;2
+6_736024_31;3176;Livestock;50;electrified railway locomotive;124;2015;3;2
+5_736025_10;11441;Wood;117;monorail locomotive;161;2015;3;3
+0_736028_20;37;Passengers;21;road vehicle;5;2015;3;6
+1_736028_54;450;Iron Ore;25;road vehicle;29;2015;3;6
+3_736029_37;695;Coal;25;road vehicle;39;2015;3;7
+0_736031_15;52;Passengers;37;road vehicle;4;2015;3;9
+1_736031_41;360;Wood;22;road vehicle;27;2015;3;9
+2_736031_64;10563;Oil;117;monorail locomotive;242;2015;3;9
+0_736032_27;18;Passengers;13;road vehicle;4;2015;3;10
+0_736035_51;208;Livestock;16;road vehicle;25;2015;3;13
+1_736036_73;360;Wood;22;road vehicle;27;2015;3;14
+0_736037_1;3581;Mail;25;aircraft;259;2015;3;15
+2_736037_54;9;Passengers;5;road vehicle;5;2015;3;15
+0_736038_23;208;Livestock;16;road vehicle;25;2015;3;16
+1_736038_69;46;Passengers;26;road vehicle;5;2015;3;16
+0_736041_4;533;Goods;18;road vehicle;40;2015;3;19
+0_736043_5;208;Livestock;16;road vehicle;25;2015;3;21
+1_736043_33;28;Passengers;13;road vehicle;6;2015;3;21
+0_736045_33;4505;Steel;40;railway locomotive;171;2015;3;23
+0_736046_54;536;Goods;18;road vehicle;40;2015;3;24
+2_736047_20;7;Passengers;4;road vehicle;5;2015;3;25
+0_736048_5;36;Passengers;20;road vehicle;5;2015;3;26
+1_736049_8;3620;Goods;58;railway locomotive;85;2015;3;27
+0_736049_51;360;Wood;22;road vehicle;27;2015;3;27
+2_736049_69;355;Grain;25;road vehicle;25;2015;3;27
+1_736052_51;1842;Iron Ore;60;railway locomotive;50;2015;3;30
+0_736053_3;17896;Passengers;180;aircraft;259;2015;3;31
+2_736053_7;698;Coal;25;road vehicle;39;2015;3;31
+3_736053_39;29;Passengers;21;road vehicle;4;2015;3;31
+4_736053_59;42;Passengers;30;road vehicle;4;2015;3;31
+0_736054_47;208;Livestock;16;road vehicle;25;2015;4;1
+1_736055_31;450;Iron Ore;25;road vehicle;29;2015;4;2
+0_736056_53;2318;Mail;84;ship;50;2015;4;3
+2_736057_11;697;Coal;25;road vehicle;39;2015;4;4
+3_736058_34;208;Livestock;16;road vehicle;25;2015;4;5
+0_736058_46;695;Coal;25;road vehicle;39;2015;4;5
+2_736058_47;360;Wood;22;road vehicle;27;2015;4;5
+2_736059_34;14;Passengers;8;road vehicle;5;2015;4;6
+0_736059_40;27;Passengers;15;road vehicle;5;2015;4;6
+1_736060_39;14180;Oil;350;ship;78;2015;4;7
+3_736061_70;7383;Mail;63;electrified railway locomotive;212;2015;4;8
+4_736061_71;3650;Goods;58;railway locomotive;85;2015;4;8
+0_736062_1;208;Livestock;16;road vehicle;25;2015;4;9
+2_736063_56;11;Passengers;5;road vehicle;6;2015;4;10
+3_736064_16;17;Passengers;8;road vehicle;6;2015;4;11
+1_736064_18;360;Wood;22;road vehicle;27;2015;4;11
+0_736065_72;11441;Wood;117;monorail locomotive;161;2015;4;12
+1_736066_32;697;Coal;25;road vehicle;39;2015;4;13
+1_736068_7;9;Passengers;5;road vehicle;5;2015;4;15
+0_736068_45;27;Passengers;15;road vehicle;5;2015;4;15
+1_736072_29;11;Passengers;8;road vehicle;4;2015;4;19
+2_736072_49;21;Passengers;15;road vehicle;4;2015;4;19
+0_736074_27;3150;Livestock;50;electrified railway locomotive;124;2015;4;21
+1_736074_30;208;Livestock;16;road vehicle;25;2015;4;21
+2_736074_68;529;Goods;18;road vehicle;40;2015;4;21
+4_736075_44;360;Wood;22;road vehicle;27;2015;4;22
+0_736075_71;532;Goods;18;road vehicle;40;2015;4;22
+3_736077_19;12466;Grain;180;electrified railway locomotive;124;2015;4;24
+2_736078_24;14;Passengers;8;road vehicle;5;2015;4;25
+0_736078_28;6660;Steel;60;electrified railway locomotive;171;2015;4;25
+1_736078_30;27;Passengers;15;road vehicle;5;2015;4;25
+3_736078_66;208;Livestock;16;road vehicle;25;2015;4;25
+2_736081_42;4154;Mail;29;aircraft;259;2015;4;28
+0_736081_73;3006;Goods;190;ship;23;2015;4;28
+1_736082_8;450;Iron Ore;25;road vehicle;29;2015;4;29
+1_736082_46;11;Passengers;5;road vehicle;6;2015;4;29
+2_736083_6;20;Passengers;9;road vehicle;6;2015;4;30
+0_736083_35;351;Grain;25;road vehicle;25;2015;4;30
+1_736083_45;1574;Mail;62;ship;46;2015;4;30
+2_736084_23;208;Livestock;16;road vehicle;25;2015;5;1
+4_736084_49;360;Wood;22;road vehicle;27;2015;5;1
+3_736085_37;3187;Goods;190;ship;23;2015;5;2
+1_736087_29;12;Passengers;7;road vehicle;5;2015;5;4
+0_736087_35;27;Passengers;15;road vehicle;5;2015;5;4
+0_736089_49;5043;Mail;43;aircraft;259;2015;5;6
+2_736092_21;697;Coal;25;road vehicle;39;2015;5;9
+3_736092_29;28;Passengers;20;road vehicle;4;2015;5;9
+4_736092_29;28;Passengers;20;road vehicle;4;2015;5;9
+0_736093_16;3584;Goods;58;railway locomotive;85;2015;5;10
+1_736094_8;17078;Oil;350;ship;91;2015;5;11
+1_736096_49;690;Coal;25;road vehicle;39;2015;5;13
+3_736096_59;360;Wood;22;road vehicle;27;2015;5;13
+2_736096_60;14123;Oil;117;monorail locomotive;242;2015;5;13
+0_736097_53;1841;Iron Ore;60;railway locomotive;50;2015;5;14
+4_736097_64;4805;Mail;41;electrified railway locomotive;212;2015;5;14
+1_736098_19;690;Coal;25;road vehicle;39;2015;5;15
+0_736098_24;18;Passengers;10;road vehicle;5;2015;5;15
+2_736098_29;23;Passengers;13;road vehicle;5;2015;5;15
+0_736100_69;208;Livestock;16;road vehicle;25;2015;5;17
+1_736101_37;360;Wood;22;road vehicle;27;2015;5;18
+2_736101_44;697;Coal;25;road vehicle;39;2015;5;18
+0_736102_45;11;Passengers;5;road vehicle;6;2015;5;19
+1_736103_6;20;Passengers;9;road vehicle;6;2015;5;20
+0_736104_50;208;Livestock;16;road vehicle;25;2015;5;21
+0_736105_58;208;Livestock;16;road vehicle;25;2015;5;22
+1_736106_38;3620;Goods;58;railway locomotive;85;2015;5;23
+2_736106_45;412;Mail;25;ship;30;2015;5;23
+2_736106_70;9;Passengers;5;road vehicle;5;2015;5;23
+1_736107_34;25;Passengers;14;road vehicle;5;2015;5;24
+2_736108_59;450;Iron Ore;25;road vehicle;29;2015;5;25
+1_736109_6;360;Grain;25;road vehicle;25;2015;5;26
+0_736109_50;11441;Wood;117;monorail locomotive;161;2015;5;26
+1_736110_40;360;Wood;22;road vehicle;27;2015;5;27
+2_736111_11;529;Goods;18;road vehicle;40;2015;5;28
+1_736111_58;21;Passengers;15;road vehicle;4;2015;5;28
+4_736112_15;532;Goods;18;road vehicle;40;2015;5;29
+3_736112_30;29;Passengers;21;road vehicle;4;2015;5;29
+0_736112_34;3199;Livestock;50;electrified railway locomotive;124;2015;5;29
+1_736117_24;1;Passengers;1;road vehicle;5;2015;6;3
+0_736117_59;27;Passengers;15;road vehicle;5;2015;6;3
+0_736119_65;208;Livestock;16;road vehicle;25;2015;6;5
+1_736122_6;22;Passengers;10;road vehicle;6;2015;6;8
+0_736122_44;360;Wood;22;road vehicle;27;2015;6;8
+2_736125_32;15157;Passengers;151;aircraft;259;2015;6;11
+3_736125_41;208;Livestock;16;road vehicle;25;2015;6;11
+1_736125_41;8321;Mail;71;electrified railway locomotive;212;2015;6;11
+2_736126_10;9;Passengers;5;road vehicle;5;2015;6;12
+0_736126_50;12600;Grain;180;electrified railway locomotive;124;2015;6;12
+1_736126_69;28;Passengers;16;road vehicle;5;2015;6;12
+3_736127_31;696;Coal;25;road vehicle;39;2015;6;13
+2_736127_67;360;Wood;22;road vehicle;27;2015;6;13
+1_736130_37;208;Livestock;16;road vehicle;25;2015;6;16
+1_736131_16;4441;Mail;31;aircraft;259;2015;6;17
+2_736131_19;18;Passengers;13;road vehicle;4;2015;6;17
+0_736131_47;3615;Goods;58;railway locomotive;85;2015;6;17
+3_736131_63;34;Passengers;24;road vehicle;4;2015;6;17
+1_736133_43;1987;Mail;72;ship;50;2015;6;19
+2_736134_5;695;Coal;25;road vehicle;39;2015;6;20
+0_736134_43;4467;Steel;40;railway locomotive;171;2015;6;20
+3_736135_9;1938;Mail;16;aircraft;259;2015;6;21
+1_736135_36;450;Iron Ore;25;road vehicle;29;2015;6;21
+0_736136_31;360;Wood;22;road vehicle;27;2015;6;22
+2_736136_48;6906;Steel;60;electrified railway locomotive;171;2015;6;22
+0_736137_60;695;Coal;25;road vehicle;39;2015;6;23
+3_736137_61;18;Passengers;10;road vehicle;5;2015;6;23
+2_736138_33;37;Passengers;21;road vehicle;5;2015;6;24
+1_736139_17;1849;Iron Ore;60;railway locomotive;50;2015;6;25
+0_736139_48;354;Grain;25;road vehicle;25;2015;6;25
+1_736140_41;535;Goods;18;road vehicle;40;2015;6;26
+0_736141_28;208;Livestock;16;road vehicle;25;2015;6;27
+2_736141_50;689;Coal;25;road vehicle;39;2015;6;27
+0_736142_49;2;Passengers;1;road vehicle;6;2015;6;28
+1_736143_17;33;Passengers;15;road vehicle;6;2015;6;29
+0_736144_4;536;Goods;18;road vehicle;40;2015;6;30
+1_736144_37;208;Livestock;16;road vehicle;25;2015;6;30
+3_736147_44;12;Passengers;7;road vehicle;5;2015;7;3
+1_736148_9;36;Passengers;20;road vehicle;5;2015;7;4
+0_736148_57;12498;Oil;117;monorail locomotive;242;2015;7;4
+1_736150_1;360;Wood;22;road vehicle;27;2015;7;6
+2_736150_38;11441;Wood;117;monorail locomotive;161;2015;7;6
+0_736150_64;208;Livestock;16;road vehicle;25;2015;7;6
+1_736152_23;4219;Mail;36;electrified railway locomotive;212;2015;7;8
+2_736153_23;3612;Goods;58;railway locomotive;85;2015;7;9
+0_736153_43;34;Passengers;24;road vehicle;4;2015;7;9
+3_736153_63;42;Passengers;30;road vehicle;4;2015;7;9
+0_736155_47;360;Wood;22;road vehicle;27;2015;7;11
+1_736155_56;3191;Livestock;50;electrified railway locomotive;124;2015;7;11
+0_736158_39;1422;Mail;56;ship;46;2015;7;14
+1_736159_38;18;Passengers;10;road vehicle;5;2015;7;15
+0_736159_44;27;Passengers;15;road vehicle;5;2015;7;15
+0_736161_39;208;Livestock;16;road vehicle;25;2015;7;17
+0_736163_48;208;Livestock;16;road vehicle;25;2015;7;19
+0_736164_26;13;Passengers;6;road vehicle;6;2015;7;20
+1_736164_60;24;Passengers;11;road vehicle;6;2015;7;20
+1_736167_24;5120;Mail;44;aircraft;259;2015;7;23
+0_736167_30;354;Grain;25;road vehicle;25;2015;7;23
+2_736168_17;450;Iron Ore;25;road vehicle;29;2015;7;24
+3_736168_21;534;Goods;18;road vehicle;40;2015;7;24
+0_736168_59;695;Coal;25;road vehicle;39;2015;7;24
+1_736168_60;360;Wood;22;road vehicle;27;2015;7;24
+3_736169_9;14;Passengers;8;road vehicle;5;2015;7;25
+2_736169_15;27;Passengers;15;road vehicle;5;2015;7;25
+1_736170_14;208;Livestock;16;road vehicle;25;2015;7;26
+0_736170_20;695;Coal;25;road vehicle;39;2015;7;26
+2_736170_26;4011;Mail;28;aircraft;259;2015;7;26
+1_736171_23;533;Goods;18;road vehicle;40;2015;7;27
+1_736172_60;3148;Mail;23;aircraft;259;2015;7;28
+0_736173_29;3072;Goods;190;ship;23;2015;7;29
+1_736174_9;28;Passengers;20;road vehicle;4;2015;7;30
+2_736174_43;32;Passengers;23;road vehicle;4;2015;7;30
+1_736175_66;360;Wood;22;road vehicle;27;2015;7;31
+0_736176_66;2981;Goods;190;ship;23;2015;8;1
+2_736178_5;3602;Goods;58;railway locomotive;85;2015;8;3
+1_736178_18;695;Coal;25;road vehicle;39;2015;8;3
+3_736178_73;12503;Grain;180;electrified railway locomotive;124;2015;8;3
+0_736179_53;697;Coal;25;road vehicle;39;2015;8;4
+2_736180_35;208;Livestock;16;road vehicle;25;2015;8;5
+1_736180_58;5977;Mail;51;electrified railway locomotive;212;2015;8;5
+1_736183_27;360;Wood;22;road vehicle;27;2015;8;8
+0_736184_9;1850;Iron Ore;60;railway locomotive;50;2015;8;9
+3_736184_14;208;Livestock;16;road vehicle;25;2015;8;9
+2_736184_70;3662;Goods;58;railway locomotive;85;2015;8;9
+1_736185_55;346;Mail;21;ship;30;2015;8;10
+1_736187_34;32;Passengers;18;road vehicle;5;2015;8;12
+2_736187_43;19;Passengers;11;road vehicle;5;2015;8;12
+0_736189_2;14338;Oil;350;ship;78;2015;8;14
+0_736190_25;208;Livestock;16;road vehicle;25;2015;8;15
+1_736191_26;11441;Wood;117;monorail locomotive;161;2015;8;16
+0_736195_12;355;Grain;25;road vehicle;25;2015;8;20
+0_736195_53;22;Passengers;10;road vehicle;6;2015;8;20
+2_736196_1;533;Goods;18;road vehicle;40;2015;8;21
+1_736196_17;360;Wood;22;road vehicle;27;2015;8;21
+0_736197_11;450;Iron Ore;25;road vehicle;29;2015;8;22
+2_736198_67;15;Passengers;7;road vehicle;6;2015;8;23
+1_736199_31;208;Livestock;16;road vehicle;25;2015;8;24
+3_736199_35;535;Goods;18;road vehicle;40;2015;8;24
+0_736200_65;3164;Livestock;50;electrified railway locomotive;124;2015;8;25
+1_736201_57;360;Wood;22;road vehicle;27;2015;8;26
+1_736202_34;7;Passengers;4;road vehicle;5;2015;8;27
+2_736203_38;208;Livestock;16;road vehicle;25;2015;8;28
+1_736204_3;695;Coal;25;road vehicle;39;2015;8;29
+0_736204_5;66;Passengers;37;road vehicle;5;2015;8;29
+1_736205_40;698;Coal;25;road vehicle;39;2015;8;30
+0_736205_54;3750;Mail;32;electrified railway locomotive;212;2015;8;30
+0_736208_14;13964;Passengers;138;aircraft;259;2015;9;2
+0_736209_21;208;Livestock;16;road vehicle;25;2015;9;3
+1_736210_49;46;Passengers;33;road vehicle;4;2015;9;4
+2_736210_69;52;Passengers;37;road vehicle;4;2015;9;4
+0_736212_9;1490;Mail;54;ship;50;2015;9;6
+0_736213_10;2233;Mail;18;aircraft;259;2015;9;7
+0_736215_4;695;Coal;25;road vehicle;39;2015;9;9
+1_736215_37;360;Wood;22;road vehicle;27;2015;9;9
+0_736216_9;4011;Mail;28;aircraft;259;2015;9;10
+1_736217_37;27;Passengers;15;road vehicle;5;2015;9;11
+0_736217_63;45;Passengers;25;road vehicle;5;2015;9;11
+0_736219_14;208;Livestock;16;road vehicle;25;2015;9;13
+1_736221_35;3621;Goods;58;railway locomotive;85;2015;9;15
+0_736222_1;360;Wood;22;road vehicle;27;2015;9;16
+1_736222_5;11;Passengers;5;road vehicle;6;2015;9;16
+4_736222_59;31;Passengers;14;road vehicle;6;2015;9;16
+2_736222_61;690;Coal;25;road vehicle;39;2015;9;16
+0_736223_21;208;Livestock;16;road vehicle;25;2015;9;17
+3_736223_25;356;Grain;25;road vehicle;25;2015;9;17
+1_736223_62;450;Iron Ore;25;road vehicle;29;2015;9;17
+3_736227_8;10;Passengers;6;road vehicle;5;2015;9;21
+2_736227_39;36;Passengers;20;road vehicle;5;2015;9;21
+0_736227_48;360;Wood;22;road vehicle;27;2015;9;21
+3_736228_17;208;Livestock;16;road vehicle;25;2015;9;22
+1_736229_11;3618;Goods;58;railway locomotive;85;2015;9;23
+4_736230_35;12511;Grain;180;electrified railway locomotive;124;2015;9;24
+1_736230_50;534;Goods;18;road vehicle;40;2015;9;24
+1_736232_33;28;Passengers;20;road vehicle;4;2015;9;26
+0_736232_49;1837;Iron Ore;60;railway locomotive;50;2015;9;26
+2_736233_8;38;Passengers;27;road vehicle;4;2015;9;27
+0_736234_49;534;Goods;18;road vehicle;40;2015;9;28
+0_736237_9;1499;Mail;59;ship;46;2015;10;1
+3_736238_10;208;Livestock;16;road vehicle;25;2015;10;2
+3_736238_34;9;Passengers;5;road vehicle;5;2015;10;2
+1_736239_7;34;Passengers;19;road vehicle;5;2015;10;3
+0_736239_24;699;Coal;25;road vehicle;39;2015;10;3
+2_736240_23;11441;Wood;117;monorail locomotive;161;2015;10;4
+0_736240_60;697;Coal;25;road vehicle;39;2015;10;4
+3_736241_30;360;Wood;22;road vehicle;27;2015;10;5
+1_736242_36;3185;Livestock;50;electrified railway locomotive;124;2015;10;6
+0_736243_56;24;Passengers;11;road vehicle;6;2015;10;7
+0_736245_23;6647;Mail;60;aircraft;259;2015;10;9
+0_736247_62;360;Wood;22;road vehicle;27;2015;10;11
+1_736248_0;208;Livestock;16;road vehicle;25;2015;10;12
+2_736248_17;36;Passengers;20;road vehicle;5;2015;10;12
+0_736249_31;208;Livestock;16;road vehicle;25;2015;10;13
+1_736250_16;695;Coal;25;road vehicle;39;2015;10;14
+2_736250_39;450;Iron Ore;25;road vehicle;29;2015;10;14
+1_736252_41;15;Passengers;11;road vehicle;4;2015;10;16
+2_736253_31;42;Passengers;30;road vehicle;4;2015;10;17
+0_736254_21;7266;Mail;62;electrified railway locomotive;212;2015;10;18
+3_736254_22;4332;Steel;40;railway locomotive;171;2015;10;18
+1_736254_65;360;Wood;22;road vehicle;27;2015;10;18
+1_736257_73;695;Coal;25;road vehicle;39;2015;10;21
+3_736258_63;9;Passengers;5;road vehicle;5;2015;10;22
+1_736259_55;41;Passengers;23;road vehicle;5;2015;10;23
+5_736260_5;350;Grain;25;road vehicle;25;2015;10;24
+3_736260_9;379;Mail;23;ship;30;2015;10;24
+2_736260_45;3660;Goods;58;railway locomotive;85;2015;10;24
+0_736260_48;15993;Oil;350;ship;91;2015;10;24
+4_736260_58;6444;Steel;60;electrified railway locomotive;171;2015;10;24
+1_736260_66;208;Livestock;16;road vehicle;25;2015;10;24
+2_736263_1;535;Goods;18;road vehicle;40;2015;10;27
+2_736264_19;28;Passengers;13;road vehicle;6;2015;10;28
+1_736264_31;2980;Goods;190;ship;23;2015;10;28
+0_736264_45;10624;Oil;117;monorail locomotive;242;2015;10;28
+0_736266_70;208;Livestock;16;road vehicle;25;2015;10;30
+1_736267_23;360;Wood;22;road vehicle;27;2015;10;31
+2_736267_40;533;Goods;18;road vehicle;40;2015;10;31
+1_736268_61;1978;Mail;15;aircraft;259;2015;11;1
+0_736268_65;36;Passengers;20;road vehicle;5;2015;11;1
+1_736269_71;208;Livestock;16;road vehicle;25;2015;11;2
+0_736270_2;4122;Mail;29;aircraft;259;2015;11;3
+1_736272_50;3660;Goods;58;railway locomotive;85;2015;11;5
+3_736273_15;21;Passengers;15;road vehicle;4;2015;11;6
+2_736273_55;360;Wood;22;road vehicle;27;2015;11;6
+0_736274_13;1849;Iron Ore;60;railway locomotive;50;2015;11;7
+4_736274_26;43;Passengers;31;road vehicle;4;2015;11;7
+1_736274_43;698;Coal;25;road vehicle;39;2015;11;7
+0_736277_16;450;Iron Ore;25;road vehicle;29;2015;11;10
+1_736280_27;694;Coal;25;road vehicle;39;2015;11;13
+2_736280_29;39;Passengers;22;road vehicle;5;2015;11;13
+3_736280_52;360;Wood;22;road vehicle;27;2015;11;13
+4_736280_70;208;Livestock;16;road vehicle;25;2015;11;13
+0_736281_43;12551;Grain;180;electrified railway locomotive;124;2015;11;14
+1_736282_25;4219;Mail;36;electrified railway locomotive;212;2015;11;15
+5_736284_0;11441;Wood;117;monorail locomotive;161;2015;11;17
+2_736284_11;3093;Goods;190;ship;23;2015;11;17
+2_736284_45;4;Passengers;2;road vehicle;6;2015;11;17
+3_736284_67;22;Passengers;10;road vehicle;6;2015;11;17
+0_736285_9;355;Grain;25;road vehicle;25;2015;11;18
+1_736285_28;695;Coal;25;road vehicle;39;2015;11;18
+0_736288_59;3165;Livestock;50;electrified railway locomotive;124;2015;11;21
+1_736289_40;10;Passengers;6;road vehicle;5;2015;11;22
+0_736290_5;28;Passengers;16;road vehicle;5;2015;11;23
+1_736290_53;208;Livestock;16;road vehicle;25;2015;11;23
+0_736291_16;533;Goods;18;road vehicle;40;2015;11;24
+2_736291_34;13582;Passengers;135;aircraft;259;2015;11;24
+0_736293_16;360;Wood;22;road vehicle;27;2015;11;26
+1_736293_49;1628;Mail;59;ship;50;2015;11;26
+0_736294_27;204;Livestock;16;road vehicle;25;2015;11;27
+2_736294_68;696;Coal;25;road vehicle;39;2015;11;27
+1_736294_73;27;Passengers;19;road vehicle;4;2015;11;27
+3_736295_19;35;Passengers;25;road vehicle;4;2015;11;28
+0_736298_25;533;Goods;18;road vehicle;40;2015;12;1
+1_736299_48;360;Wood;22;road vehicle;27;2015;12;2
+1_736301_40;19;Passengers;11;road vehicle;5;2015;12;4
+0_736301_47;36;Passengers;20;road vehicle;5;2015;12;4
+0_736303_67;450;Iron Ore;25;road vehicle;29;2015;12;6
+1_736305_58;3613;Goods;58;railway locomotive;85;2015;12;8
+1_736306_29;13;Passengers;6;road vehicle;6;2015;12;9
+2_736306_31;22;Passengers;10;road vehicle;6;2015;12;9
+0_736306_40;6016;Mail;42;aircraft;259;2015;12;9
+1_736307_65;208;Livestock;16;road vehicle;25;2015;12;10
+0_736308_11;360;Wood;22;road vehicle;27;2015;12;11
+2_736309_11;5684;Mail;50;aircraft;259;2015;12;12
+0_736309_64;208;Livestock;16;road vehicle;25;2015;12;12
+1_736311_10;10548;Mail;90;electrified railway locomotive;212;2015;12;14
+0_736311_18;27;Passengers;15;road vehicle;5;2015;12;14
+2_736311_20;23;Passengers;13;road vehicle;5;2015;12;14
+0_736313_26;356;Grain;25;road vehicle;25;2015;12;16
+0_736315_36;208;Livestock;16;road vehicle;25;2015;12;18
+2_736316_39;14059;Oil;117;monorail locomotive;242;2015;12;19
+1_736316_60;14405;Oil;350;ship;78;2015;12;19
+3_736316_72;35;Passengers;25;road vehicle;4;2015;12;19
+5_736317_17;699;Coal;25;road vehicle;39;2015;12;20
+0_736317_18;36;Passengers;26;road vehicle;4;2015;12;20
+4_736318_33;3612;Goods;58;railway locomotive;85;2015;12;21
+0_736318_34;533;Goods;18;road vehicle;40;2015;12;21
+1_736319_9;1803;Mail;71;ship;46;2015;12;22
+2_736321_46;1839;Iron Ore;60;railway locomotive;50;2015;12;24
+0_736321_50;695;Coal;25;road vehicle;39;2015;12;24
+1_736322_52;18;Passengers;10;road vehicle;5;2015;12;25
+0_736323_10;695;Coal;25;road vehicle;39;2015;12;26
+2_736323_13;21;Passengers;12;road vehicle;5;2015;12;26
+1_736325_43;533;Goods;18;road vehicle;40;2015;12;28
+1_736326_61;208;Livestock;16;road vehicle;25;2015;12;29
+0_736327_8;11441;Wood;117;monorail locomotive;161;2015;12;30
+0_736327_29;6;Passengers;3;road vehicle;6;2015;12;30
+1_736327_34;22;Passengers;10;road vehicle;6;2015;12;30
+3_736327_46;360;Wood;22;road vehicle;27;2015;12;30
+2_736328_9;4582;Steel;40;railway locomotive;171;2015;12;31
+4_736328_26;6540;Mail;61;aircraft;259;2015;12;31
+0_736330_6;696;Coal;25;road vehicle;39;2016;1;2
+1_736330_30;208;Livestock;16;road vehicle;25;2016;1;2
+1_736331_57;18;Passengers;10;road vehicle;5;2016;1;3
+2_736332_18;23;Passengers;13;road vehicle;5;2016;1;4
+0_736333_45;12495;Grain;180;electrified railway locomotive;124;2016;1;5
+0_736335_47;208;Livestock;16;road vehicle;25;2016;1;7
+1_736336_1;450;Iron Ore;25;road vehicle;29;2016;1;8
+2_736336_10;360;Wood;22;road vehicle;27;2016;1;8
+4_736336_46;3985;Mail;34;electrified railway locomotive;212;2016;1;8
+5_736336_51;21;Passengers;15;road vehicle;4;2016;1;8
+0_736337_17;29;Passengers;21;road vehicle;4;2016;1;9
+3_736337_38;3076;Goods;190;ship;23;2016;1;9
+1_736337_51;360;Wood;22;road vehicle;27;2016;1;9
+0_736340_42;3189;Goods;190;ship;23;2016;1;12
+1_736340_63;3148;Livestock;50;electrified railway locomotive;124;2016;1;12
+0_736342_13;429;Mail;26;ship;30;2016;1;14
+0_736344_36;6725;Steel;60;electrified railway locomotive;171;2016;1;16
+1_736345_57;2714;Mail;21;aircraft;259;2016;1;17
+0_736345_60;534;Goods;18;road vehicle;40;2016;1;17
+0_736347_24;351;Grain;25;road vehicle;25;2016;1;19
+1_736348_11;208;Livestock;16;road vehicle;25;2016;1;20
+0_736349_12;32;Passengers;18;road vehicle;5;2016;1;21
+2_736350_8;208;Livestock;16;road vehicle;25;2016;1;22
+1_736351_47;3632;Goods;58;railway locomotive;85;2016;1;23
+0_736352_29;699;Coal;25;road vehicle;39;2016;1;24
+1_736353_37;360;Wood;22;road vehicle;27;2016;1;25
+2_736353_62;533;Goods;18;road vehicle;40;2016;1;25
+3_736354_43;208;Livestock;16;road vehicle;25;2016;1;26
+1_736355_3;19;Passengers;11;road vehicle;5;2016;1;27
+0_736355_25;3660;Goods;58;railway locomotive;85;2016;1;27
+0_736356_69;695;Coal;25;road vehicle;39;2016;1;28
+1_736357_6;31;Passengers;14;road vehicle;6;2016;1;29
+0_736358_30;695;Coal;25;road vehicle;39;2016;1;30
+2_736362_56;9;Passengers;4;road vehicle;6;2016;2;3
+0_736363_46;54;Passengers;30;road vehicle;5;2016;2;4
+1_736363_57;360;Wood;22;road vehicle;27;2016;2;4
+3_736364_69;450;Iron Ore;25;road vehicle;29;2016;2;5
+1_736365_18;695;Coal;25;road vehicle;39;2016;2;6
+0_736365_18;360;Wood;22;road vehicle;27;2016;2;6
+2_736366_13;7266;Mail;62;electrified railway locomotive;212;2016;2;7
+4_736367_34;1842;Iron Ore;60;railway locomotive;50;2016;2;8
+1_736367_52;12;Passengers;7;road vehicle;5;2016;2;8
+0_736368_15;208;Livestock;16;road vehicle;25;2016;2;9
+5_736368_33;12363;Oil;117;monorail locomotive;242;2016;2;9
+1_736368_49;1656;Mail;60;ship;50;2016;2;9
+2_736368_70;12076;Passengers;118;aircraft;259;2016;2;9
+0_736369_47;208;Livestock;16;road vehicle;25;2016;2;10
+3_736370_56;52;Passengers;37;road vehicle;4;2016;2;11
+1_736373_4;535;Goods;18;road vehicle;40;2016;2;14
+0_736374_3;11441;Wood;117;monorail locomotive;161;2016;2;15
+2_736374_44;52;Passengers;37;road vehicle;4;2016;2;15
+1_736375_6;355;Grain;25;road vehicle;25;2016;2;16
+0_736375_68;208;Livestock;16;road vehicle;25;2016;2;16
+1_736379_37;1;Passengers;1;road vehicle;5;2016;2;20
+0_736379_50;66;Passengers;37;road vehicle;5;2016;2;20
+1_736380_69;360;Wood;22;road vehicle;27;2016;2;21
+0_736382_45;533;Goods;18;road vehicle;40;2016;2;23
+2_736382_49;12542;Grain;180;electrified railway locomotive;124;2016;2;23
+1_736384_32;17;Passengers;8;road vehicle;6;2016;2;25
+2_736384_35;22;Passengers;10;road vehicle;6;2016;2;25
+2_736387_41;698;Coal;25;road vehicle;39;2016;2;28
+1_736387_47;3160;Livestock;50;electrified railway locomotive;124;2016;2;28
+0_736388_33;16953;Oil;350;ship;91;2016;2;29
+1_736388_55;18;Passengers;10;road vehicle;5;2016;2;29
+2_736388_58;18;Passengers;10;road vehicle;5;2016;2;29
+3_736389_38;3652;Goods;58;railway locomotive;85;2016;3;1
+4_736389_58;360;Wood;22;road vehicle;27;2016;3;1
+0_736389_58;208;Livestock;16;road vehicle;25;2016;3;1
+0_736391_46;450;Iron Ore;25;road vehicle;29;2016;3;3
+1_736393_6;3171;Goods;190;ship;23;2016;3;5
+2_736393_29;208;Livestock;16;road vehicle;25;2016;3;5
+3_736393_31;1270;Mail;50;ship;46;2016;3;5
+0_736393_36;695;Coal;25;road vehicle;39;2016;3;5
+1_736393_56;4450;Mail;33;aircraft;259;2016;3;5
+4_736394_15;35;Passengers;25;road vehicle;4;2016;3;6
+5_736394_18;29;Passengers;21;road vehicle;4;2016;3;6
+0_736394_72;695;Coal;25;road vehicle;39;2016;3;6
+1_736395_17;360;Wood;22;road vehicle;27;2016;3;7
+2_736395_72;208;Livestock;16;road vehicle;25;2016;3;7
+0_736396_1;4305;Mail;40;aircraft;259;2016;3;8
+0_736400_13;3614;Goods;58;railway locomotive;85;2016;3;12
+2_736400_15;27;Passengers;15;road vehicle;5;2016;3;12
+1_736400_30;695;Coal;25;road vehicle;39;2016;3;12
+4_736400_31;25;Passengers;14;road vehicle;5;2016;3;12
+3_736400_51;2813;Mail;24;electrified railway locomotive;212;2016;3;12
+0_736404_71;22;Passengers;10;road vehicle;6;2016;3;16
+1_736405_13;13;Passengers;6;road vehicle;6;2016;3;17
+0_736406_60;360;Wood;22;road vehicle;27;2016;3;18
+0_736409_3;529;Goods;18;road vehicle;40;2016;3;21
+1_736409_60;27;Passengers;15;road vehicle;5;2016;3;21
+0_736410_2;27;Passengers;15;road vehicle;5;2016;3;22
+2_736410_25;533;Goods;18;road vehicle;40;2016;3;22
+3_736411_6;351;Grain;25;road vehicle;25;2016;3;23
+0_736411_67;208;Livestock;16;road vehicle;25;2016;3;23
+0_736413_7;208;Livestock;16;road vehicle;25;2016;3;25
+1_736414_65;11441;Wood;117;monorail locomotive;161;2016;3;26
+2_736415_51;360;Wood;22;road vehicle;27;2016;3;27
+4_736415_55;208;Livestock;16;road vehicle;25;2016;3;27
+0_736415_60;42;Passengers;30;road vehicle;4;2016;3;27
+3_736416_2;36;Passengers;26;road vehicle;4;2016;3;28
+0_736416_15;297;Mail;18;ship;30;2016;3;28
+0_736418_23;450;Iron Ore;25;road vehicle;29;2016;3;30
+1_736419_18;1828;Iron Ore;60;railway locomotive;50;2016;3;31
+2_736419_44;3153;Goods;190;ship;23;2016;3;31
+0_736421_8;360;Wood;22;road vehicle;27;2016;4;2
+2_736421_60;27;Passengers;15;road vehicle;5;2016;4;2
+0_736422_2;23;Passengers;13;road vehicle;5;2016;4;3
+1_736422_18;4467;Steel;40;railway locomotive;171;2016;4;3
+3_736422_53;698;Coal;25;road vehicle;39;2016;4;3
+0_736426_4;3622;Goods;58;railway locomotive;85;2016;4;7
+0_736426_25;11;Passengers;5;road vehicle;6;2016;4;7
+1_736426_42;22;Passengers;10;road vehicle;6;2016;4;7
+1_736428_55;695;Coal;25;road vehicle;39;2016;4;9
+0_736429_13;3188;Livestock;50;electrified railway locomotive;124;2016;4;10
+1_736430_18;695;Coal;25;road vehicle;39;2016;4;11
+1_736430_65;18;Passengers;10;road vehicle;5;2016;4;11
+0_736430_66;7306;Mail;51;aircraft;259;2016;4;11
+2_736431_14;27;Passengers;15;road vehicle;5;2016;4;12
+0_736432_51;360;Wood;22;road vehicle;27;2016;4;13
+1_736433_18;208;Livestock;16;road vehicle;25;2016;4;14
+3_736435_21;1414;Mail;14;aircraft;259;2016;4;16
+1_736435_42;695;Coal;25;road vehicle;39;2016;4;16
+0_736436_2;8790;Mail;75;electrified railway locomotive;212;2016;4;17
+5_736436_26;28;Passengers;20;road vehicle;4;2016;4;17
+3_736436_38;533;Goods;18;road vehicle;40;2016;4;17
+4_736436_65;36;Passengers;26;road vehicle;4;2016;4;17
+0_736437_29;208;Livestock;16;road vehicle;25;2016;4;18
+2_736437_56;12451;Grain;180;electrified railway locomotive;124;2016;4;18
+0_736441_44;360;Wood;22;road vehicle;27;2016;4;22
+0_736442_25;18;Passengers;10;road vehicle;5;2016;4;23
+1_736442_34;360;Grain;25;road vehicle;25;2016;4;23
+2_736443_9;34;Passengers;19;road vehicle;5;2016;4;24
+3_736443_22;208;Livestock;16;road vehicle;25;2016;4;24
+0_736443_73;532;Goods;18;road vehicle;40;2016;4;24
+2_736445_0;450;Iron Ore;25;road vehicle;29;2016;4;26
+0_736447_4;6745;Steel;60;electrified railway locomotive;171;2016;4;28
+0_736447_25;2;Passengers;1;road vehicle;6;2016;4;28
+2_736447_47;33;Passengers;15;road vehicle;6;2016;4;28
+1_736448_20;14426;Oil;350;ship;78;2016;4;29
+0_736451_18;3580;Goods;58;railway locomotive;85;2016;5;2
+0_736451_70;18;Passengers;10;road vehicle;5;2016;5;2
+1_736452_14;208;Livestock;16;road vehicle;25;2016;5;3
+2_736452_59;34;Passengers;19;road vehicle;5;2016;5;3
+0_736453_35;1297;Mail;47;ship;50;2016;5;4
+0_736455_43;360;Wood;22;road vehicle;27;2016;5;6
+3_736457_11;21;Passengers;15;road vehicle;4;2016;5;8
+4_736457_56;208;Livestock;16;road vehicle;25;2016;5;8
+2_736457_70;42;Passengers;30;road vehicle;4;2016;5;8
+1_736458_44;11441;Wood;117;monorail locomotive;161;2016;5;9
+1_736460_27;360;Wood;22;road vehicle;27;2016;5;11
+1_736462_64;9;Passengers;5;road vehicle;5;2016;5;13
+2_736463_56;533;Goods;18;road vehicle;40;2016;5;14
+0_736464_5;3633;Mail;31;electrified railway locomotive;212;2016;5;15
+0_736466_24;695;Coal;25;road vehicle;39;2016;5;17
+1_736466_53;5579;Mail;57;aircraft;259;2016;5;17
+2_736467_37;360;Wood;22;road vehicle;27;2016;5;18
+1_736467_46;22;Passengers;10;road vehicle;6;2016;5;18
+0_736467_68;695;Coal;25;road vehicle;39;2016;5;18
+3_736470_69;695;Coal;25;road vehicle;39;2016;5;21
+4_736471_4;32;Passengers;18;road vehicle;5;2016;5;22
+0_736471_26;3186;Livestock;50;electrified railway locomotive;124;2016;5;22
+5_736471_51;450;Iron Ore;25;road vehicle;29;2016;5;22
+6_736471_62;353;Grain;25;road vehicle;25;2016;5;22
+1_736471_66;3153;Goods;190;ship;23;2016;5;22
+2_736472_13;3608;Goods;58;railway locomotive;85;2016;5;23
+0_736472_50;208;Livestock;16;road vehicle;25;2016;5;23
+3_736472_71;532;Goods;18;road vehicle;40;2016;5;23
+1_736473_46;37;Passengers;21;road vehicle;5;2016;5;24
+2_736473_52;208;Livestock;16;road vehicle;25;2016;5;24
+1_736475_60;22;Passengers;10;road vehicle;6;2016;5;26
+0_736476_61;1815;Iron Ore;60;railway locomotive;50;2016;5;27
+2_736477_17;12784;Passengers;136;aircraft;259;2016;5;28
+1_736477_39;208;Livestock;16;road vehicle;25;2016;5;28
+0_736479_57;697;Coal;25;road vehicle;39;2016;5;30
+2_736480_1;1320;Mail;52;ship;46;2016;5;31
+0_736480_49;21;Passengers;12;road vehicle;5;2016;5;31
+1_736480_56;52;Passengers;37;road vehicle;4;2016;5;31
+2_736481_69;360;Wood;22;road vehicle;27;2016;6;1
+0_736485_39;10555;Oil;117;monorail locomotive;242;2016;6;5
+1_736485_54;12567;Grain;180;electrified railway locomotive;124;2016;6;5
+2_736486_9;34;Passengers;24;road vehicle;4;2016;6;6
+0_736486_40;7534;Mail;53;aircraft;259;2016;6;6
+0_736489_10;63;Passengers;35;road vehicle;5;2016;6;9
+0_736490_62;360;Wood;22;road vehicle;27;2016;6;10
+3_736491_0;533;Goods;18;road vehicle;40;2016;6;11
+4_736491_3;1;Passengers;1;road vehicle;5;2016;6;11
+1_736491_56;8204;Mail;70;electrified railway locomotive;212;2016;6;11
+2_736492_31;3662;Goods;58;railway locomotive;85;2016;6;12
+0_736492_54;208;Livestock;16;road vehicle;25;2016;6;12
+0_736493_61;208;Livestock;16;road vehicle;25;2016;6;13
+1_736493_66;20;Passengers;9;road vehicle;6;2016;6;13
+2_736495_0;360;Wood;22;road vehicle;27;2016;6;15
+1_736497_50;208;Livestock;16;road vehicle;25;2016;6;17
+2_736498_28;450;Iron Ore;25;road vehicle;29;2016;6;18
+3_736498_42;9;Passengers;5;road vehicle;5;2016;6;18
+1_736499_26;34;Passengers;19;road vehicle;5;2016;6;19
+0_736499_32;11441;Wood;117;monorail locomotive;161;2016;6;19
+2_736500_15;533;Goods;18;road vehicle;40;2016;6;20
+0_736501_53;695;Coal;25;road vehicle;39;2016;6;21
+1_736503_3;462;Mail;28;ship;30;2016;6;23
+0_736503_10;11;Passengers;8;road vehicle;4;2016;6;23
+2_736503_55;28;Passengers;20;road vehicle;4;2016;6;23
+0_736506_5;697;Coal;25;road vehicle;39;2016;6;26
+1_736506_26;351;Grain;25;road vehicle;25;2016;6;26
+2_736507_3;5685;Mail;50;aircraft;259;2016;6;27
+0_736507_60;360;Wood;22;road vehicle;27;2016;6;27
+0_736509_27;9;Passengers;5;road vehicle;5;2016;6;29
+0_736511_51;208;Livestock;16;road vehicle;25;2016;7;1
+0_736513_71;695;Coal;25;road vehicle;39;2016;7;3
+1_736514_1;208;Livestock;16;road vehicle;25;2016;7;4
+2_736515_10;4510;Steel;40;railway locomotive;171;2016;7;5
+0_736515_32;695;Coal;25;road vehicle;39;2016;7;5
+1_736516_36;30;Passengers;17;road vehicle;5;2016;7;6
+0_736517_0;208;Livestock;16;road vehicle;25;2016;7;7
+4_736517_21;24;Passengers;11;road vehicle;6;2016;7;7
+3_736517_56;360;Wood;22;road vehicle;27;2016;7;7
+2_736518_72;3198;Livestock;50;electrified railway locomotive;124;2016;7;8
+1_736522_33;360;Wood;22;road vehicle;27;2016;7;12
+0_736523_4;1846;Iron Ore;60;railway locomotive;50;2016;7;13
+3_736523_66;5244;Mail;67;aircraft;259;2016;7;13
+1_736524_27;55;Passengers;31;road vehicle;5;2016;7;14
+0_736524_55;15;Passengers;7;road vehicle;6;2016;7;14
+0_736526_11;529;Goods;18;road vehicle;40;2016;7;16
+2_736526_18;16771;Oil;350;ship;91;2016;7;16
+0_736527_27;534;Goods;18;road vehicle;40;2016;7;17
+1_736529_11;9;Passengers;5;road vehicle;5;2016;7;19
+0_736529_39;1573;Mail;57;ship;50;2016;7;19
+0_736531_34;208;Livestock;16;road vehicle;25;2016;7;21
+2_736531_37;52;Passengers;37;road vehicle;4;2016;7;21
+3_736531_65;4730;Mail;40;aircraft;259;2016;7;21
+1_736532_1;3606;Goods;58;railway locomotive;85;2016;7;22
+2_736533_16;3399;Mail;29;electrified railway locomotive;212;2016;7;23
+1_736533_36;450;Iron Ore;25;road vehicle;29;2016;7;23
+3_736533_52;360;Wood;22;road vehicle;27;2016;7;23
+4_736534_39;355;Grain;25;road vehicle;25;2016;7;24
+0_736534_59;12551;Grain;180;electrified railway locomotive;124;2016;7;24
+2_736534_67;41;Passengers;29;road vehicle;4;2016;7;24
+3_736535_44;208;Livestock;16;road vehicle;25;2016;7;25
+2_736536_50;208;Livestock;16;road vehicle;25;2016;7;26
+0_736536_65;695;Coal;25;road vehicle;39;2016;7;26
+1_736537_36;14102;Oil;117;monorail locomotive;242;2016;7;27
+2_736539_61;5;Passengers;3;road vehicle;5;2016;7;29
+0_736539_65;57;Passengers;32;road vehicle;5;2016;7;29
+3_736540_20;11441;Wood;117;monorail locomotive;161;2016;7;30
+1_736541_59;3573;Goods;58;railway locomotive;85;2016;7;31
+0_736543_18;695;Coal;25;road vehicle;39;2016;8;2
+1_736543_49;3029;Mail;28;aircraft;259;2016;8;2
+1_736544_47;13;Passengers;6;road vehicle;6;2016;8;3
+2_736544_49;22;Passengers;10;road vehicle;6;2016;8;3
+0_736545_14;360;Wood;22;road vehicle;27;2016;8;4
+3_736546_29;6653;Steel;60;electrified railway locomotive;171;2016;8;5
+0_736549_17;699;Coal;25;road vehicle;39;2016;8;8
+1_736549_26;360;Wood;22;road vehicle;27;2016;8;8
+2_736549_36;27;Passengers;15;road vehicle;5;2016;8;8
+4_736549_38;19;Passengers;11;road vehicle;5;2016;8;8
+0_736550_52;695;Coal;25;road vehicle;39;2016;8;9
+3_736551_18;3185;Goods;190;ship;23;2016;8;10
+0_736553_39;533;Goods;18;road vehicle;40;2016;8;12
+4_736554_39;1397;Mail;55;ship;46;2016;8;13
+0_736554_46;534;Goods;18;road vehicle;40;2016;8;13
+3_736554_50;28;Passengers;20;road vehicle;4;2016;8;13
+2_736554_70;32;Passengers;23;road vehicle;4;2016;8;13
+1_736555_68;2833;Goods;190;ship;23;2016;8;14
+0_736558_25;204;Livestock;16;road vehicle;25;2016;8;17
+0_736559_32;208;Livestock;16;road vehicle;25;2016;8;18
+2_736559_43;360;Wood;22;road vehicle;27;2016;8;18
+3_736560_13;450;Iron Ore;25;road vehicle;29;2016;8;19
+1_736560_43;3183;Livestock;50;electrified railway locomotive;124;2016;8;19
+0_736560_70;23;Passengers;13;road vehicle;5;2016;8;19
+2_736561_11;27;Passengers;15;road vehicle;5;2016;8;20
+0_736562_40;356;Grain;25;road vehicle;25;2016;8;21
+1_736562_70;204;Livestock;16;road vehicle;25;2016;8;21
+0_736565_54;10052;Passengers;118;aircraft;259;2016;8;24
+3_736566_0;22;Passengers;10;road vehicle;6;2016;8;25
+2_736566_18;28;Passengers;13;road vehicle;6;2016;8;25
+1_736568_22;9493;Mail;81;electrified railway locomotive;212;2016;8;27
+1_736571_33;19;Passengers;11;road vehicle;5;2016;8;30
+0_736571_52;28;Passengers;16;road vehicle;5;2016;8;30
+2_736572_3;695;Coal;25;road vehicle;39;2016;8;31
+0_736573_7;360;Wood;22;road vehicle;27;2016;9;1
+3_736575_8;1828;Iron Ore;60;railway locomotive;50;2016;9;3
+1_736576_17;14512;Oil;350;ship;78;2016;9;4
+0_736577_12;29;Passengers;21;road vehicle;4;2016;9;5
+2_736577_12;35;Passengers;25;road vehicle;4;2016;9;5
+3_736577_21;360;Wood;22;road vehicle;27;2016;9;5
+1_736577_21;330;Mail;20;ship;30;2016;9;5
+4_736577_22;208;Livestock;16;road vehicle;25;2016;9;5
+5_736578_30;698;Coal;25;road vehicle;39;2016;9;6
+1_736579_46;208;Livestock;16;road vehicle;25;2016;9;7
+2_736581_58;3592;Goods;58;railway locomotive;85;2016;9;9
+0_736581_72;11441;Wood;117;monorail locomotive;161;2016;9;9
+1_736582_7;208;Livestock;16;road vehicle;25;2016;9;10
+0_736583_60;36;Passengers;20;road vehicle;5;2016;9;11
+1_736584_2;28;Passengers;16;road vehicle;5;2016;9;12
+2_736584_36;698;Coal;25;road vehicle;39;2016;9;12
+0_736585_56;534;Goods;18;road vehicle;40;2016;9;13
+3_736586_59;12598;Grain;180;electrified railway locomotive;124;2016;9;14
+0_736586_63;531;Goods;18;road vehicle;40;2016;9;14
+1_736586_64;450;Iron Ore;25;road vehicle;29;2016;9;14
+0_736588_14;3787;Mail;46;aircraft;259;2016;9;16
+1_736588_42;22;Passengers;10;road vehicle;6;2016;9;16
+0_736588_58;20;Passengers;9;road vehicle;6;2016;9;16
+0_736591_31;690;Coal;25;road vehicle;39;2016;9;19
+3_736591_44;3106;Mail;29;aircraft;259;2016;9;19
+2_736591_56;360;Wood;22;road vehicle;27;2016;9;19
+1_736592_30;12404;Oil;117;monorail locomotive;242;2016;9;20
+0_736592_65;18;Passengers;10;road vehicle;5;2016;9;20
+1_736593_7;14;Passengers;8;road vehicle;5;2016;9;21
+0_736596_67;353;Grain;25;road vehicle;25;2016;9;24
+2_736597_55;208;Livestock;16;road vehicle;25;2016;9;25
+3_736597_59;28;Passengers;20;road vehicle;4;2016;9;25
+0_736598_1;22;Passengers;16;road vehicle;4;2016;9;26
+1_736598_53;3542;Goods;58;railway locomotive;85;2016;9;26
+4_736598_68;360;Wood;22;road vehicle;27;2016;9;26
+0_736601_14;3176;Goods;190;ship;23;2016;9;29

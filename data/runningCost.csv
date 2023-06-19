@@ -1,0 +1,286 @@
+vehicle_id;vehicle_name;type;profit last year;running cost;Year;Month;Day
+8;Uhl Coal Truck;road vehicle;6173;787;2001;1;1
+9;Uhl Coal Truck;road vehicle;5491;787;2001;1;1
+10;Foster Wood Truck;road vehicle;2572;787;2001;1;1
+11;Foster Wood Truck;road vehicle;2590;787;2001;1;1
+12;'Dash' (Diesel);train;-117;1066;2001;1;1
+8;Uhl Coal Truck;road vehicle;6184;787;2002;1;1
+9;Uhl Coal Truck;road vehicle;6158;787;2002;1;1
+10;Foster Wood Truck;road vehicle;3169;787;2002;1;1
+11;Foster Wood Truck;road vehicle;2808;787;2002;1;1
+12;'Dash' (Diesel);train;9835;1066;2002;1;1
+16;Uhl Iron Ore Truck;road vehicle;7703;787;2002;1;1
+8;Uhl Coal Truck;road vehicle;6153;787;2003;1;1
+9;Uhl Coal Truck;road vehicle;6169;787;2003;1;1
+10;Foster Wood Truck;road vehicle;3168;787;2003;1;1
+11;Foster Wood Truck;road vehicle;3167;787;2003;1;1
+12;'Dash' (Diesel);train;13638;1066;2003;1;1
+16;Uhl Iron Ore Truck;road vehicle;12262;787;2003;1;1
+19;UU '37' (Diesel);train;3876;1828;2003;1;1
+8;Uhl Coal Truck;road vehicle;5461;787;2004;1;1
+9;Uhl Coal Truck;road vehicle;6172;787;2004;1;1
+10;Foster Wood Truck;road vehicle;3167;787;2004;1;1
+11;Foster Wood Truck;road vehicle;3165;787;2004;1;1
+12;'Dash' (Diesel);train;13685;1066;2004;1;1
+16;Uhl Iron Ore Truck;road vehicle;5062;787;2004;1;1
+17;Uhl Livestock Van;road vehicle;953;787;2004;1;1
+19;UU '37' (Diesel);train;16384;1828;2004;1;1
+26;Thomas Grain Truck;road vehicle;2147;787;2004;1;1
+8;Uhl Coal Truck;road vehicle;6152;787;2005;1;1
+9;Uhl Coal Truck;road vehicle;6180;787;2005;1;1
+10;Foster Wood Truck;road vehicle;3166;787;2005;1;1
+11;Foster Wood Truck;road vehicle;3167;787;2005;1;1
+12;'Dash' (Diesel);train;11826;1066;2005;1;1
+16;Uhl Iron Ore Truck;road vehicle;5510;787;2005;1;1
+17;Uhl Livestock Van;road vehicle;2953;787;2005;1;1
+19;UU '37' (Diesel);train;20819;1828;2005;1;1
+20;SH '125' (Diesel);train;15266;2894;2005;1;1
+26;Thomas Grain Truck;road vehicle;4960;787;2005;1;1
+8;Uhl Coal Truck;road vehicle;6152;787;2006;1;1
+9;Uhl Coal Truck;road vehicle;6170;787;2006;1;1
+10;Foster Wood Truck;road vehicle;3525;787;2006;1;1
+11;Foster Wood Truck;road vehicle;3527;787;2006;1;1
+12;'Dash' (Diesel);train;13648;1066;2006;1;1
+16;Uhl Iron Ore Truck;road vehicle;4612;787;2006;1;1
+17;Uhl Livestock Van;road vehicle;2536;787;2006;1;1
+19;UU '37' (Diesel);train;16330;1828;2006;1;1
+20;SH '125' (Diesel);train;25983;2894;2006;1;1
+25;SH '125' (Diesel);train;15957;2894;2006;1;1
+26;Thomas Grain Truck;road vehicle;4602;787;2006;1;1
+30;SH '40' (Electric);train;6500;2882;2006;1;1
+8;Uhl Coal Truck;road vehicle;6157;787;2007;1;1
+9;Uhl Coal Truck;road vehicle;6155;787;2007;1;1
+10;Foster Wood Truck;road vehicle;3888;787;2007;1;1
+11;Foster Wood Truck;road vehicle;3888;787;2007;1;1
+12;'Dash' (Diesel);train;11748;1066;2007;1;1
+16;Uhl Iron Ore Truck;road vehicle;5512;787;2007;1;1
+17;Uhl Livestock Van;road vehicle;2952;787;2007;1;1
+19;UU '37' (Diesel);train;11751;1828;2007;1;1
+20;SH '125' (Diesel);train;26086;2894;2007;1;1
+24;Bakewell Cargo Ship;ship;4843;1853;2007;1;1
+25;SH '125' (Diesel);train;26050;2894;2007;1;1
+26;Thomas Grain Truck;road vehicle;4954;787;2007;1;1
+30;SH '40' (Electric);train;31682;2882;2007;1;1
+8;Uhl Coal Truck;road vehicle;6165;787;2008;1;1
+9;Uhl Coal Truck;road vehicle;6177;787;2008;1;1
+10;Foster Wood Truck;road vehicle;3892;787;2008;1;1
+11;Foster Wood Truck;road vehicle;4252;787;2008;1;1
+12;'Dash' (Diesel);train;15546;1066;2008;1;1
+16;Uhl Iron Ore Truck;road vehicle;5062;787;2008;1;1
+17;Uhl Livestock Van;road vehicle;2956;787;2008;1;1
+19;UU '37' (Diesel);train;16018;1828;2008;1;1
+20;SH '125' (Diesel);train;22391;2894;2008;1;1
+24;Bakewell Cargo Ship;ship;20166;1853;2008;1;1
+25;SH '125' (Diesel);train;26017;2894;2008;1;1
+26;Thomas Grain Truck;road vehicle;3832;787;2008;1;1
+30;SH '40' (Electric);train;38610;2882;2008;1;1
+31;SH '40' (Electric);train;-373;2882;2008;1;1
+41;SH '40' (Electric);train;2615;2882;2008;1;1
+8;Uhl Coal Truck;road vehicle;6160;787;2009;1;1
+9;Uhl Coal Truck;road vehicle;6172;787;2009;1;1
+10;Foster Wood Truck;road vehicle;4250;787;2009;1;1
+11;Foster Wood Truck;road vehicle;4250;787;2009;1;1
+12;'Dash' (Diesel);train;13698;1066;2009;1;1
+16;Uhl Iron Ore Truck;road vehicle;5060;787;2009;1;1
+17;Uhl Livestock Van;road vehicle;2950;787;2009;1;1
+19;UU '37' (Diesel);train;20494;1828;2009;1;1
+20;SH '125' (Diesel);train;33489;2894;2009;1;1
+24;Bakewell Cargo Ship;ship;17151;1853;2009;1;1
+25;SH '125' (Diesel);train;33444;2894;2009;1;1
+26;Thomas Grain Truck;road vehicle;3841;787;2009;1;1
+30;SH '40' (Electric);train;31052;2882;2009;1;1
+31;SH '40' (Electric);train;92450;2882;2009;1;1
+41;SH '40' (Electric);train;25901;2882;2009;1;1
+45;'AsiaStar' (Electric);train;-203;3515;2009;1;1
+8;Uhl Coal Truck;road vehicle;6157;787;2010;1;1
+9;Uhl Coal Truck;road vehicle;6175;787;2010;1;1
+10;Foster Wood Truck;road vehicle;4252;787;2010;1;1
+11;Foster Wood Truck;road vehicle;3892;787;2010;1;1
+12;'Dash' (Diesel);train;11805;1066;2010;1;1
+16;Uhl Iron Ore Truck;road vehicle;5062;787;2010;1;1
+17;Uhl Livestock Van;road vehicle;2952;787;2010;1;1
+19;UU '37' (Diesel);train;11639;1828;2010;1;1
+20;SH '125' (Diesel);train;37162;2894;2010;1;1
+24;Bakewell Cargo Ship;ship;18766;1853;2010;1;1
+25;SH '125' (Diesel);train;33611;2894;2010;1;1
+26;Thomas Grain Truck;road vehicle;4199;787;2010;1;1
+30;SH '40' (Electric);train;31385;2882;2010;1;1
+31;SH '40' (Electric);train;98317;2882;2010;1;1
+41;SH '40' (Electric);train;25828;2882;2010;1;1
+45;'AsiaStar' (Electric);train;46879;3515;2010;1;1
+49;Foster Bus;road vehicle;193;834;2010;1;1
+50;Foster Bus;road vehicle;201;834;2010;1;1
+53;Goss Goods Truck;road vehicle;1742;1125;2010;1;1
+8;Uhl Coal Truck;road vehicle;6149;787;2011;1;1
+9;Uhl Coal Truck;road vehicle;6169;787;2011;1;1
+10;Foster Wood Truck;road vehicle;3892;787;2011;1;1
+11;Foster Wood Truck;road vehicle;4252;787;2011;1;1
+12;'Dash' (Diesel);train;15605;1066;2011;1;1
+16;Uhl Iron Ore Truck;road vehicle;5062;787;2011;1;1
+17;Uhl Livestock Van;road vehicle;2744;787;2011;1;1
+19;UU '37' (Diesel);train;16362;1828;2011;1;1
+20;SH '125' (Diesel);train;29800;2894;2011;1;1
+24;Bakewell Cargo Ship;ship;17750;1853;2011;1;1
+25;SH '125' (Diesel);train;33449;2894;2011;1;1
+26;Thomas Grain Truck;road vehicle;3841;787;2011;1;1
+30;SH '40' (Electric);train;31451;2882;2011;1;1
+31;SH '40' (Electric);train;97876;2882;2011;1;1
+41;SH '40' (Electric);train;22516;2882;2011;1;1
+45;'AsiaStar' (Electric);train;60590;3515;2011;1;1
+48;CS-Inc. Oil Tanker;ship;26700;2050;2011;1;1
+49;Foster Bus;road vehicle;459;834;2011;1;1
+50;Foster Bus;road vehicle;292;834;2011;1;1
+51;CS-Inc. Oil Tanker;ship;569;2050;2011;1;1
+53;Goss Goods Truck;road vehicle;5276;1125;2011;1;1
+54;CS-Inc. Oil Tanker;ship;14330;2050;2011;1;1
+55;'Millennium Z1' (Electric);train;14113;3375;2011;1;1
+8;Uhl Coal Truck;road vehicle;6170;787;2012;1;1
+9;Uhl Coal Truck;road vehicle;5456;787;2012;1;1
+10;Foster Wood Truck;road vehicle;3892;787;2012;1;1
+11;Foster Wood Truck;road vehicle;4252;787;2012;1;1
+12;'Dash' (Diesel);train;13713;1066;2012;1;1
+16;Uhl Iron Ore Truck;road vehicle;5062;787;2012;1;1
+17;Uhl Livestock Van;road vehicle;2952;787;2012;1;1
+19;UU '37' (Diesel);train;15933;1828;2012;1;1
+20;SH '125' (Diesel);train;29692;2894;2012;1;1
+24;Bakewell Cargo Ship;ship;20512;1853;2012;1;1
+25;SH '125' (Diesel);train;29727;2894;2012;1;1
+26;Thomas Grain Truck;road vehicle;4565;787;2012;1;1
+30;SH '40' (Electric);train;31281;2882;2012;1;1
+31;SH '40' (Electric);train;85067;2882;2012;1;1
+41;SH '40' (Electric);train;22607;2882;2012;1;1
+45;'AsiaStar' (Electric);train;53559;3515;2012;1;1
+48;CS-Inc. Oil Tanker;ship;41514;2050;2012;1;1
+49;Foster Bus;road vehicle;94;834;2012;1;1
+50;Foster Bus;road vehicle;420;834;2012;1;1
+51;CS-Inc. Oil Tanker;ship;1790;2050;2012;1;1
+53;Goss Goods Truck;road vehicle;5809;1125;2012;1;1
+54;CS-Inc. Oil Tanker;ship;48728;2050;2012;1;1
+55;'Millennium Z1' (Electric);train;64320;3375;2012;1;1
+60;Bakewell Cargo Ship;ship;-834;1853;2012;1;1
+68;'Millennium Z1' (Electric);train;9482;3375;2012;1;1
+77;Yate Aerospace YAe46;aircraft;-460;3515;2012;1;1
+8;Uhl Coal Truck;road vehicle;6172;787;2013;1;1
+9;Uhl Coal Truck;road vehicle;6172;787;2013;1;1
+10;Foster Wood Truck;road vehicle;4250;787;2013;1;1
+11;Foster Wood Truck;road vehicle;3890;787;2013;1;1
+12;'Dash' (Diesel);train;13705;1066;2013;1;1
+16;Uhl Iron Ore Truck;road vehicle;5510;787;2013;1;1
+17;Uhl Livestock Van;road vehicle;2950;787;2013;1;1
+19;UU '37' (Diesel);train;16147;1828;2013;1;1
+20;SH '125' (Diesel);train;26001;2894;2013;1;1
+24;Bakewell Cargo Ship;ship;17594;1853;2013;1;1
+25;SH '125' (Diesel);train;29629;2894;2013;1;1
+26;Thomas Grain Truck;road vehicle;4594;787;2013;1;1
+30;SH '40' (Electric);train;31474;2882;2013;1;1
+31;SH '40' (Electric);train;98009;2882;2013;1;1
+41;SH '40' (Electric);train;22426;2882;2013;1;1
+45;'AsiaStar' (Electric);train;58940;3515;2013;1;1
+48;CS-Inc. Oil Tanker;ship;26785;2050;2013;1;1
+49;Foster Bus;road vehicle;478;834;2013;1;1
+50;Foster Bus;road vehicle;94;834;2013;1;1
+51;CS-Inc. Oil Tanker;ship;1703;2050;2013;1;1
+53;Goss Goods Truck;road vehicle;5269;1125;2013;1;1
+54;CS-Inc. Oil Tanker;ship;48749;2050;2013;1;1
+55;'Millennium Z1' (Electric);train;44371;3375;2013;1;1
+60;Bakewell Cargo Ship;ship;19391;1853;2013;1;1
+62;'Millennium Z1' (Electric);train;-9;3375;2013;1;1
+64;Bakewell Cargo Ship;ship;11557;1853;2013;1;1
+77;Yate Aerospace YAe46;aircraft;56856;3515;2013;1;1
+8;Uhl Coal Truck;road vehicle;6157;787;2014;1;1
+9;Uhl Coal Truck;road vehicle;6157;787;2014;1;1
+10;Foster Wood Truck;road vehicle;4252;787;2014;1;1
+11;Foster Wood Truck;road vehicle;4252;787;2014;1;1
+12;'Dash' (Diesel);train;13698;1066;2014;1;1
+16;Uhl Iron Ore Truck;road vehicle;5062;787;2014;1;1
+17;Uhl Livestock Van;road vehicle;3164;787;2014;1;1
+19;UU '37' (Diesel);train;16238;1828;2014;1;1
+20;SH '125' (Diesel);train;26117;2894;2014;1;1
+24;Bakewell Cargo Ship;ship;21773;1853;2014;1;1
+25;SH '125' (Diesel);train;25845;2894;2014;1;1
+26;Thomas Grain Truck;road vehicle;4197;787;2014;1;1
+30;SH '40' (Electric);train;23861;2882;2014;1;1
+31;SH '40' (Electric);train;97839;2882;2014;1;1
+41;SH '40' (Electric);train;22469;2882;2014;1;1
+45;'AsiaStar' (Electric);train;66569;3515;2014;1;1
+48;CS-Inc. Oil Tanker;ship;40830;2050;2014;1;1
+49;Foster Bus;road vehicle;286;834;2014;1;1
+50;Foster Bus;road vehicle;374;834;2014;1;1
+51;CS-Inc. Oil Tanker;ship;1656;2050;2014;1;1
+53;Goss Goods Truck;road vehicle;5798;1125;2014;1;1
+54;CS-Inc. Oil Tanker;ship;48802;2050;2014;1;1
+55;'Millennium Z1' (Electric);train;74022;3375;2014;1;1
+60;Bakewell Cargo Ship;ship;10692;1853;2014;1;1
+62;'Millennium Z1' (Electric);train;88077;3375;2014;1;1
+64;Bakewell Cargo Ship;ship;17132;1853;2014;1;1
+67;Airtaxi A32;aircraft;35345;4781;2014;1;1
+77;Yate Aerospace YAe46;aircraft;29921;3515;2014;1;1
+8;Uhl Coal Truck;road vehicle;6169;787;2015;1;1
+9;Uhl Coal Truck;road vehicle;6147;787;2015;1;1
+10;Foster Wood Truck;road vehicle;3892;787;2015;1;1
+11;Foster Wood Truck;road vehicle;3892;787;2015;1;1
+12;'Dash' (Diesel);train;15522;1066;2015;1;1
+16;Uhl Iron Ore Truck;road vehicle;5062;787;2015;1;1
+17;Uhl Livestock Van;road vehicle;2952;787;2015;1;1
+19;UU '37' (Diesel);train;20728;1828;2015;1;1
+20;SH '125' (Diesel);train;29717;2894;2015;1;1
+24;Bakewell Cargo Ship;ship;18544;1853;2015;1;1
+25;SH '125' (Diesel);train;25999;2894;2015;1;1
+26;Thomas Grain Truck;road vehicle;3102;787;2015;1;1
+30;SH '40' (Electric);train;24359;2882;2015;1;1
+31;SH '40' (Electric);train;72305;2882;2015;1;1
+41;SH '40' (Electric);train;22549;2882;2015;1;1
+45;'AsiaStar' (Electric);train;68092;3515;2015;1;1
+48;CS-Inc. Oil Tanker;ship;41025;2050;2015;1;1
+49;Foster Bus;road vehicle;585;834;2015;1;1
+50;Foster Bus;road vehicle;404;834;2015;1;1
+51;CS-Inc. Oil Tanker;ship;-257;2050;2015;1;1
+53;Goss Goods Truck;road vehicle;5805;1125;2015;1;1
+54;CS-Inc. Oil Tanker;ship;31704;2050;2015;1;1
+55;'Millennium Z1' (Electric);train;61693;3375;2015;1;1
+60;Bakewell Cargo Ship;ship;13429;1853;2015;1;1
+62;'Millennium Z1' (Electric);train;88153;3375;2015;1;1
+64;Bakewell Cargo Ship;ship;13904;1853;2015;1;1
+67;Airtaxi A32;aircraft;90352;4781;2015;1;1
+71;Goss Goods Truck;road vehicle;-1;1125;2015;1;1
+73;Foster Wood Truck;road vehicle;-1;787;2015;1;1
+77;Yate Aerospace YAe46;aircraft;34736;3515;2015;1;1
+81;Uhl Livestock Van;road vehicle;0;787;2015;1;1
+82;Uhl Livestock Van;road vehicle;0;787;2015;1;1
+83;Uhl Coal Truck;road vehicle;0;787;2015;1;1
+84;Uhl Coal Truck;road vehicle;0;787;2015;1;1
+8;Uhl Coal Truck;road vehicle;6171;787;2016;1;1
+10;Foster Wood Truck;road vehicle;3892;787;2016;1;1
+11;Foster Wood Truck;road vehicle;4252;787;2016;1;1
+12;'Dash' (Diesel);train;13689;1066;2016;1;1
+16;Uhl Iron Ore Truck;road vehicle;5062;787;2016;1;1
+17;Uhl Livestock Van;road vehicle;2744;787;2016;1;1
+19;UU '37' (Diesel);train;16058;1828;2016;1;1
+20;SH '125' (Diesel);train;25974;2894;2016;1;1
+24;Bakewell Cargo Ship;ship;16931;1853;2016;1;1
+25;SH '125' (Diesel);train;29807;2894;2016;1;1
+26;Thomas Grain Truck;road vehicle;3821;787;2016;1;1
+30;SH '40' (Electric);train;24027;2882;2016;1;1
+31;SH '40' (Electric);train;84592;2882;2016;1;1
+41;SH '40' (Electric);train;22531;2882;2016;1;1
+45;'AsiaStar' (Electric);train;68442;3515;2016;1;1
+48;CS-Inc. Oil Tanker;ship;40872;2050;2016;1;1
+49;Foster Bus;road vehicle;745;834;2016;1;1
+50;Foster Bus;road vehicle;511;834;2016;1;1
+51;CS-Inc. Oil Tanker;ship;1419;2050;2016;1;1
+53;Goss Goods Truck;road vehicle;5274;1125;2016;1;1
+54;CS-Inc. Oil Tanker;ship;48170;2050;2016;1;1
+55;'Millennium Z1' (Electric);train;58492;3375;2016;1;1
+60;Bakewell Cargo Ship;ship;10568;1853;2016;1;1
+62;'Millennium Z1' (Electric);train;99594;3375;2016;1;1
+64;Bakewell Cargo Ship;ship;10410;1853;2016;1;1
+67;Airtaxi A32;aircraft;46800;4781;2016;1;1
+68;Airtaxi A32;aircraft;47292;4781;2016;1;1
+71;Goss Goods Truck;road vehicle;5280;1125;2016;1;1
+73;Foster Wood Truck;road vehicle;3892;787;2016;1;1
+74;Uhl Coal Truck;road vehicle;6169;787;2016;1;1
+77;Yate Aerospace YAe46;aircraft;27978;3515;2016;1;1
+81;Uhl Livestock Van;road vehicle;2958;787;2016;1;1
+82;Uhl Livestock Van;road vehicle;2750;787;2016;1;1
+83;Uhl Coal Truck;road vehicle;6183;787;2016;1;1
+84;Uhl Coal Truck;road vehicle;5456;787;2016;1;1
